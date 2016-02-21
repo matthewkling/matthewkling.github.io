@@ -7,9 +7,9 @@ permalink:        pretty
 #relative_permalinks: true
 
 # Setup
-title:            Matthew Moore Kling
+title:            Matthew<br>Moore<br>Kling
 tagline:          'macroecology'
-description:      '<br>[beware: site under construction]'
+description:      '<br>biodiversity,<br>climate change,<br>& ecoinformatics'
 url:              http://matthewkling.github.io
 baseurl:          /
 
