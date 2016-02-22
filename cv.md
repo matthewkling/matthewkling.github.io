@@ -25,6 +25,12 @@ Conservation Biology & Environmental Studies, Middlebury College
 * USGS-NatureServe EcoInforma student app award *(2015; $2000 travel)*
 * EPA Apps for the Environment *(2011; National runner-up)*
 
+# PROFESSIONAL MEMBERSHIPS
+* Ecological Society of America
+* International Biogeography Society
+* Society for Conservation Biology
+* Society for Conservation GIS
+
 # PUBLICATIONS & PRESENTATIONS
 * Hamilton, H., S. Auer, **M. Kling**, and P. Comer (2015, Nov). Influence of Recent Climate Change Exposure on Great Basin Pinyon-Juniper Woodland and Landscape Vulnerability. Paper presented at the Society of American Foresters Annual Meeting, Baton Rouge, LA.
 * **Kling, M.**, M. Fernandez, and H. Hamilton (2014, Jul). Spatiotemporal patterns in greater sage-grouse exposure to recent climate change. Paper presented at the Society for Conservation GIS Conference, Monterey, CA.
