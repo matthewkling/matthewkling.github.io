@@ -8,8 +8,8 @@ permalink:        pretty
 
 # Setup
 title:            Matthew<br>Moore<br>Kling
-tagline:          'macroecology'
-description:      "<br>WARNING: SITE UNDER CONSTRUCTION<br><br>I'm a Berkeley PhD student studying biodiversity, climate change, & ecoinformatics"
+tagline:          'biodiversity and climate change'
+description:      "<br>I'm a Berkeley PhD student studying<br>spatial biodiversity, climate change & ecoinformatics"
 url:              http://matthewkling.github.io
 baseurl:          /
 
@@ -23,7 +23,7 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           
 
 # Gems
 gems: [jekyll-paginate, jekyll-gist]

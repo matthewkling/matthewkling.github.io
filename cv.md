@@ -3,6 +3,8 @@ layout: page
 title: CV
 ---
 <br>
+![Santa Cruz Island coastline](/assets/coastline.jpg)
+<br>
 # EDUCATION
 * Ph.D. *(expected 2020)*<br>
 Integrative Biology, UC Berkeley<br>

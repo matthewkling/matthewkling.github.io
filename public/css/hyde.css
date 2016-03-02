@@ -42,7 +42,7 @@ html {
 @media (min-width: 58em) {
   html {
     /* font-size: 20px; */
-    font-size: 20px;
+    font-size: 18px;
   }
 }
 
@@ -59,8 +59,9 @@ html {
   padding: 2rem 1rem;
   /* color: rgba(255,255,255,.5); */ /* subtitle */
   /*font-size: 2rem; */
-  color: #fff; /* subtitle */
-  background-color: #202020; /* background */
+  color: #555; /* subtitle color */
+  background-color: #222; /* sidebar background */
+  line-height: 1.5rem;
 }
 @media (min-width: 48em) {
   .sidebar {
@@ -75,19 +76,19 @@ html {
 
 /* Sidebar links */
 .sidebar a {
-  color: #808080; /* main title and links */
+  color: #999; /* main title and links */
 }
 
 /* About section */
 .sidebar-about h1 {
-  color: #fff;
+  color: #fff; /* appears to do nothing */
   margin-top: 0;
   font-family: Garamond;
   font-weight: bold;
   /* font-family: "Abril Fatface", serif; */
   /* font-size: 3.25rem; */
   font-size: 2rem;
-  line-height: 1.8rem; 
+  line-height: 1.8rem;  /* affects only main title */
 }
 
 /* Sidebar nav */
@@ -96,7 +97,7 @@ html {
 }
 .sidebar-nav-item {
   display: block;
-  line-height: 1.75;
+  line-height: 2; /* links */ 
 }
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {
@@ -104,6 +105,7 @@ a.sidebar-nav-item:focus {
 }
 .sidebar-nav-item.active {
   font-weight: bold;
+  text-decoration: underline;
 }
 
 /* Sticky sidebar
