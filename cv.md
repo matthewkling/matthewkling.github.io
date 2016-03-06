@@ -24,6 +24,7 @@ Conservation Biology & Environmental Studies, Middlebury College
 # AWARDS
 * NSF Graduate Research Fellowship *(2015-2020; $102,000 + tuition)*
 * Berkeley Fellowship *(2015-2020; $60,000 + tuition)*
+* NSF National Research Trainee *(Data Science for the 21st Century program)*
 * USGS-NatureServe EcoInforma student app award *(2015; $2000 travel)*
 * EPA Apps for the Environment *(2011; National runner-up)*
 

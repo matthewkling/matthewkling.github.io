@@ -7,8 +7,8 @@ permalink:        pretty
 #relative_permalinks: true
 
 # Setup
-title:            Matthew<br>Moore<br>Kling
-tagline:          'biodiversity and climate change'
+title:            Matthew Kling
+tagline:          'biodiversity & climate change'
 description:      "<br>I'm a Berkeley PhD student studying<br>spatial biodiversity, climate change & ecoinformatics"
 url:              http://matthewkling.github.io
 baseurl:          /
