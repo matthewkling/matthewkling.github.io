@@ -5,7 +5,7 @@ title: Research
 <br>
 ![oaks](/assets/hills.jpg)
 
-I'm interested in the processes shaping the biogeography of plants at a macroecological scale. My research is motivated by the need for improved predictions of how climate change will reshape species distributions and biodiversity patterns. My current projects, a sample of which are listed below, involve synthesizing large datasets on species occurrences, plant functional traits, climate, wildfire, phylogenetics, and species endangerment to answer questions related to conservation biogeography.
+I'm interested in the processes shaping the biogeography of plants at a macroecological scale. My research is motivated by the need for improved predictions of how climate change will reshape species distributions and biodiversity patterns. The projects I'm currently working on, a sample of which are listed below, involve synthesizing large datasets on species occurrences, plant functional traits, climate, wildfire, phylogenetics, and species endangerment to answer questions related to conservation biogeography.
 
 -------------------------------------------
 
