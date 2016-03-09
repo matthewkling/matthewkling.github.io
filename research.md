@@ -5,13 +5,13 @@ title: Research
 <br>
 ![oaks](/assets/hills.jpg)
 
-I'm interested in the processes shaping the biogeography of plants at a macroecological scale. My research is motivated by the need for improved predictions of how climate change will reshape species distributions and biodiversity patterns. The projects I'm currently working on, a sample of which are listed below, involve synthesizing large datasets on species occurrences, plant functional traits, climate, wildfire, phylogenetics, and species endangerment to answer questions related to conservation biogeography.
+I'm interested in the processes shaping the biogeography of plants at a macroecological scale. My research is motivated by the need to inform conservation strategies with improved predictions of how climate change will reshape species distributions and biodiversity patterns. The projects I'm currently working on, a sample of which are listed below, involve synthesizing large datasets on species occurrences, plant functional traits, climate, wildfire, phylogenetics, and species endangerment to answer questions related to conservation biogeography.
 
 -------------------------------------------
 
 __Incomplete range filling.__ Understanding the processes that limit species ranges is critcical to forecasting the biotic impacts of global environmental change. I'm buildling a framework for using climatic niche modeling to test hypotheses about plant distributions and dispersal limitation, such as whether prevailing wind patterns are linked to incomplete range filling in North American trees.
 
-__Climatic niches of the California Flora.__ The ecology and evolution of plant communities takes place in twisted manifold at the intersection of multidimensional geographic and environmental spaces. I'm using a new CCH dataset to explore macroecological patterns in the geographic ranges and climatic niches of all 5000+ California plant species.	
+__Biogeography of the California Flora.__ The ecology and evolution of plant communities takes place in twisted manifold at the intersection of multidimensional geographic and environmental spaces. I'm using a new CCH dataset to explore macroecological patterns in the geographic ranges and climatic niches of 5000+ California plant species.	
 
 __Global weirding.__ Where will anthropogenic climate change deliver a future climate similar to extreme historic years, and where will it deliver "global weirding" -- a breakdown of historic correlations among variables in which future years represent climates with no historic analog? We apply a novel index of multivariate global weirding to late 20th-century trends to map the nature of changes in the covariance structure climate regimes. *Coauthor: [Andrew Crane-Droesch](http://www.cranedroesch.net)*
 
