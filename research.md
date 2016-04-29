@@ -9,7 +9,7 @@ I'm interested in the processes shaping the biogeography of plants at a macroeco
 
 -------------------------------------------
 
-__Incomplete range filling.__ Understanding the processes that limit species ranges is critcical to forecasting the biotic impacts of global environmental change. I'm buildling a framework for using climatic niche modeling to test hypotheses about plant distributions and dispersal limitation, such as whether prevailing wind patterns are linked to incomplete range filling in North American trees.
+__Incomplete range filling.__ Understanding the processes that limit species ranges is critcical to forecasting the biotic impacts of global environmental change. I'm developing a framework for using climatic niche modeling to test hypotheses about plant distributions and dispersal limitation, such as whether prevailing wind patterns are linked to incomplete range filling in North American trees.
 
 __Biogeography of the California Flora.__ The ecology and evolution of plant communities takes place in twisted manifold at the intersection of multidimensional geographic and environmental spaces. I'm using a new CCH dataset to explore macroecological patterns in the geographic ranges and climatic niches of 5000+ California plant species.	
 
