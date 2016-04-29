@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CV, Matthew Kling
+title: CV:  Matthew Kling
 ---
 <br>
 ![Santa Cruz Island coastline](/assets/coastline.jpg)
