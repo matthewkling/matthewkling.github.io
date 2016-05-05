@@ -1,1 +1,1 @@
-This is the Jekyll code that comprises my personal website: (matthewkling.github.io)[http://matthewkling.github.io]
+This is the Jekyll code that comprises my personal website: [matthewkling.github.io](http://matthewkling.github.io)
