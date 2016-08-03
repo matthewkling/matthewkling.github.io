@@ -14,7 +14,7 @@ Conservation Biology & Environmental Studies, Middlebury College
 
 # EMPLOYMENT
 * Bioclimate Analyst, NatureServe *(2013-2015)*
-* Science Analyst, NatureServe *(2008-2013)*
+* Science Analyst, Brighter Planet *(2008-2013)*
 * Supervisory Biologist, Institute for Wildlife Studies *(2007-2008)*
 * Canid Ecology Crew Leader, Yellowstone Ecological Research Center *(2005-2006)*
 * Plant Ecology Technician, NPS & USGS *(2005)*
@@ -35,7 +35,8 @@ Conservation Biology & Environmental Studies, Middlebury College
 * Society for Conservation GIS
 
 # PUBLICATIONS & PRESENTATIONS
-* Mishler, B., A. Thornhill, M. Kling, W. Freyman, D. Ackerly, and B. Baldwin (2016, Aug). Patterns of beta-diversity in the California vascular flora, comparing species-based and phylogenetic turnover measures. Paper presented at the Botany Conference, Savannah, GA.
+* Thornhill, A., B. Baldwin, W. Freyman, S. Nosratinia, N. Morueta-Holme, **M. Kling**,  D. Baxter, T. Madsen, D. Ackerly, and B. Mishler (2016, Aug). Hotspots of phylogenetic richness and endemism in the California flora. Paper presented at the Botany Conference, Savannah, GA.
+* Mishler, B., A. Thornhill, **M. Kling**, W. Freyman, D. Ackerly, and B. Baldwin (2016, Aug). Patterns of beta-diversity in the California vascular flora, comparing species-based and phylogenetic turnover measures. Paper presented at the Botany Conference, Savannah, GA.
 * Hamilton, H., P. Comer, S. Auer, and **M. Kling** (2016, Jul).  Current trends in climate exposure for sagebrush ecosystems in the western U.S. Paper presented at the North American Congress for Conservation Biology, Madison, WI.
 * Hamilton, H., S. Auer, **M. Kling**, and P. Comer (2015, Nov).  Influence of recent climate change exposure on Great Basin pinyon-juniper woodland and landscape vulnerability. Paper presented at the Society of American Foresters Annual Meeting, Baton Rouge, LA.
 * **Kling, M.**, M. Fernandez, and H. Hamilton (2014, Jul). Spatiotemporal patterns in greater sage-grouse exposure to recent climate change. Paper presented at the Society for Conservation GIS Conference, Monterey, CA.
