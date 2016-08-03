@@ -35,7 +35,8 @@ Conservation Biology & Environmental Studies, Middlebury College
 * Society for Conservation GIS
 
 # PUBLICATIONS & PRESENTATIONS
-* Hamilton, H., P. Comer, S. Auer, and **M. Kling** (2016, Jul).  Current trends in climate exposure for sage brush ecosystems in the western U.S. Paper presented at the North American Congress for Conservation Biology, Madison, WI.
+* Mishler, B., A. Thornhill, M. Kling, W. Freyman, D. Ackerly, and B. Baldwin (2016, Aug). Patterns of beta-diversity in the California vascular flora, comparing species-based and phylogenetic turnover measures. Paper presented at the Botany Conference, Savannah, GA.
+* Hamilton, H., P. Comer, S. Auer, and **M. Kling** (2016, Jul).  Current trends in climate exposure for sagebrush ecosystems in the western U.S. Paper presented at the North American Congress for Conservation Biology, Madison, WI.
 * Hamilton, H., S. Auer, **M. Kling**, and P. Comer (2015, Nov).  Influence of recent climate change exposure on Great Basin pinyon-juniper woodland and landscape vulnerability. Paper presented at the Society of American Foresters Annual Meeting, Baton Rouge, LA.
 * **Kling, M.**, M. Fernandez, and H. Hamilton (2014, Jul). Spatiotemporal patterns in greater sage-grouse exposure to recent climate change. Paper presented at the Society for Conservation GIS Conference, Monterey, CA.
 * **Kling, M.**, M. Fernandez, and H. Hamilton (2014, Jun).  The biogeography of recent climate change in coast redwood ecosystems. Poster presented at the Smithsonian Botanical Symposium, Washington, DC.
