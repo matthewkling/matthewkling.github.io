@@ -31,6 +31,7 @@ Conservation Biology & Environmental Studies, Middlebury College
 # PROFESSIONAL MEMBERSHIPS
 * Ecological Society of America
 * International Biogeography Society
+* American Geophysical Union
 * Society for Conservation Biology
 * Society for Conservation GIS
 
