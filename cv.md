@@ -13,11 +13,13 @@ Advisor: David Ackerly
 Conservation Biology & Environmental Studies, Middlebury College
 
 # EMPLOYMENT
+* Consultant in Global Change Biology, NatureServe *(2015-present)* 
 * Bioclimate Analyst, NatureServe *(2013-2015)*
 * Science Analyst, Brighter Planet *(2008-2013)*
 * Supervisory Biologist, Institute for Wildlife Studies *(2007-2008)*
 * Canid Ecology Crew Leader, Yellowstone Ecological Research Center *(2005-2006)*
-* Plant Ecology Technician, NPS & USGS *(2005)*
+* Plant Ecology Technician, US Geological Survey *(2005)*
+* Ungulate Ecology Technician, National Park Service *(2005)* 
 * Environmental Intern, Administracion Aimbiental Cooperativa Chilena *(2004)*
 * Research Assistant, USDA National Wildlife Research Center *(2002)*
 
