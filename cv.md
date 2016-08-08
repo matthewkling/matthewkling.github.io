@@ -38,6 +38,7 @@ Conservation Biology & Environmental Studies, Middlebury College
 * Society for Conservation GIS
 
 # PUBLICATIONS & PRESENTATIONS
+* Stevens, J., and **M. Kling** (2016, Aug). The biogeography of fire regimes: a trait-based approach. Paper presented at the Ecological Society of America Annual Meeting, Fort Lauderdale, FL.
 * Thornhill, A., B. Baldwin, W. Freyman, S. Nosratinia, N. Morueta-Holme, **M. Kling**,  D. Baxter, T. Madsen, D. Ackerly, and B. Mishler (2016, Aug). Hotspots of phylogenetic richness and endemism in the California flora. Paper presented at the Botany Conference, Savannah, GA.
 * Mishler, B., A. Thornhill, **M. Kling**, W. Freyman, D. Ackerly, and B. Baldwin (2016, Aug). Patterns of beta-diversity in the California vascular flora, comparing species-based and phylogenetic turnover measures. Paper presented at the Botany Conference, Savannah, GA.
 * Hamilton, H., P. Comer, S. Auer, and **M. Kling** (2016, Jul).  Current trends in climate exposure for sagebrush ecosystems in the western U.S. Paper presented at the North American Congress for Conservation Biology, Madison, WI.
