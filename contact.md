@@ -9,11 +9,20 @@ title: Contact
 
 PhD Student, [Ackerly Lab](http://www.ackerlylab.org) <br>
 UC Berkeley Department of Integrative Biology <br>
-Valley Life Sciences Building 4003 <br>
 Berkeley, CA
 
-mattkling@berkeley.edu
+Office
+> Valley Life Sciences Building 4003 <br>
 
-[github](https://github.com/matthewkling)
+Mail
+> Matthew Kling
+> Department of Integrative Biology
+> University of California, Berkeley
+> 3040 Valley Life Sciences Building #3140
+> Berkeley, CA 94720-3140
+
+Email
+> mattkling@berkeley.edu
+> [github](https://github.com/matthewkling)
 
 
