@@ -53,3 +53,7 @@ Conservation Biology & Environmental Studies, Middlebury College
 * **Kling, M.** and I. Hough (2010).  The American carbon foodprint: understanding your food’s impact on climate change. Brighter Planet, Inc. White paper, 19 pages.
 * **Kling, M.** (2003).  The ecophysiology of alpine treeline: spatial patterns in balsam fir (*Abies balsamea*) growth and water relations on Mount Abraham, Vermont. Senior thesis presented for departmental high honors, Conservation Biology/Environmental Studies, Middlebury College.
 * Sterner, R., **M. Kling**, S. Schwiff, and D. Slate (2003). Oral rabies vaccination: reducing economic uncertainty via response surface analysis. Proceedings of the 10th Wildlife Damage Management Conference (K. Fagerstone, G. Witmer, Eds).
+
+# PEER REVIEW
+* Global Change Biology
+* PeerJ
