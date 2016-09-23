@@ -6,11 +6,11 @@ title: Contact
 ![oaks](/assets/oaks.jpg)
 
 
-PhD Student, [Ackerly Lab](http://www.ackerlylab.org) <br>
+Matthew Kling, PhD Student, [Ackerly Lab](http://www.ackerlylab.org) <br>
 UC Berkeley Department of Integrative Biology <br>
 
 ### Interwebs
-email: [mattkling@berkeley.edu](mattkling@berkeley.edu) <br>
+email: [mattkling@berkeley.edu](mailto:mattkling@berkeley.edu) <br>
 website: [matthewkling.github.io](matthewkling.github.io) <br>
 github: [github.com/matthewkling](https://github.com/matthewkling) <br>
 
