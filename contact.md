@@ -5,16 +5,16 @@ title: Contact
 <br>
 ![oaks](/assets/oaks.jpg)
 
-PhD Student, [Ackerly Lab](http://www.ackerlylab.org) <br>
+PhD Student <br>
+[Ackerly Lab](http://www.ackerlylab.org) <br>
 UC Berkeley Department of Integrative Biology <br>
-Berkeley, CA
 
-**Interwebs** <br>
-[mattkling@berkeley.edu](mattkling@berkeley.edu) <br>
-matthewkling.github.io <br>
-[github](https://github.com/matthewkling) <br>
+###Interwebs
+email: [mattkling@berkeley.edu](mattkling@berkeley.edu) <br>
+website: [matthewkling.github.io](matthewkling.github.io) <br>
+github: [github.com/matthewkling](https://github.com/matthewkling) <br>
 
-**Brick & mortar** <br>
+##Brick & mortar
 Valley Life Sciences Building 4003 <br>
 
 **Post** <br>
