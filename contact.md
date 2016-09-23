@@ -6,7 +6,9 @@ title: Contact
 ![oaks](/assets/oaks.jpg)
 
 
-Matthew Kling, PhD Student, [Ackerly Lab](http://www.ackerlylab.org) <br>
+Matthew Kling <br>
+PhD Student <br>
+[Ackerly Lab](http://www.ackerlylab.org) <br>
 UC Berkeley Department of Integrative Biology <br>
 
 ### Interwebs
