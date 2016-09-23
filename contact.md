@@ -13,14 +13,15 @@ Berkeley, CA
 Valley Life Sciences Building 4003 <br>
 
 **Mail**
-Matthew Kling
-Department of Integrative Biology
-University of California, Berkeley
-3040 Valley Life Sciences Building #3140
-Berkeley, CA 94720-3140
+Matthew Kling <br>
+Department of Integrative Biology <br>
+University of California, Berkeley <br>
+3040 Valley Life Sciences Building #3140 <br>
+Berkeley, CA 94720-3140 <br>
 
-**Email**
-mattkling@berkeley.edu
-[github](https://github.com/matthewkling)
+**Interwebs**
+mattkling@berkeley.edu <br>
+matthewkling.github.io <br>
+[github](https://github.com/matthewkling) <br>
 
 
