@@ -6,8 +6,7 @@ title: Contact
 ![oaks](/assets/oaks.jpg)
 
 
-PhD Student <br>
-[Ackerly Lab](http://www.ackerlylab.org) <br>
+PhD Student, [Ackerly Lab](http://www.ackerlylab.org) <br>
 UC Berkeley Department of Integrative Biology <br>
 
 ### Interwebs
@@ -18,7 +17,7 @@ github: [github.com/matthewkling](https://github.com/matthewkling) <br>
 ### Brick & mortar
 Valley Life Sciences Building 4003 <br>
 
-#### Post
+### Post
 Matthew Kling <br>
 Department of Integrative Biology <br>
 University of California, Berkeley <br>
