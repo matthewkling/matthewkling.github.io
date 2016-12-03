@@ -1,0 +1,8 @@
+# Footer navigation links
+
+
+- title: Home
+  url: /
+
+- title: Github
+  url: "http://github.com/matthewkling"

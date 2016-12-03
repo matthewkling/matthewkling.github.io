@@ -1,9 +1,7 @@
-# A sample Gemfile
+# Skinny Bones Gemfile
 source "https://rubygems.org"
-gem 'jekyll'
-gem 'jekyll-paginate'
-gem 'pygments.rb'
-gem 'jekyll-gist'
-gem 'redcarpet'
-gem 'github-pages'
-# gem "rails"
+
+gem "jekyll"
+gem "jekyll-sitemap"
+gem "jekyll-gist"
+gem "jekyll-feed"

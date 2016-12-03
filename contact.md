@@ -1,10 +1,12 @@
 ---
-layout: page
+layout: article
 title: Contact
+permalink: /contact/
+ads: false
+share: false
+image:
+  feature: oaks_1600.png
 ---
-<br>
-![oaks](/assets/oaks.jpg)
-
 
 Matthew Kling <br>
 PhD Student <br>

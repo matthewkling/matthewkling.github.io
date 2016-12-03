@@ -1,30 +1,32 @@
 ---
-layout: page
-title: Matthew Kling CV
+layout: article
+title: Curriculum vitae
+permalink: /cv/
+ads: false
+share: false
+image:
+  feature: coastline_1600.png
 ---
-<br>
-![Santa Cruz Island coastline](/assets/coastline.jpg)
-<br>
 
-# EDUCATION
+##### EDUCATION
 * Ph.D. *(expected 2020)*<br>
 Integrative Biology, UC Berkeley<br>
 Advisor: David Ackerly
 * B.A. *(2005)*<br>
 Conservation Biology & Environmental Studies, Middlebury College
 
-# EMPLOYMENT
+##### EMPLOYMENT
 * Consultant in Global Change Biology, NatureServe *(2015-present)* 
 * Bioclimate Analyst, NatureServe *(2013-2015)*
 * Science Analyst, Brighter Planet *(2008-2013)*
 * Supervisory Biologist, Institute for Wildlife Studies *(2007-2008)*
-* Canid Ecology Crew Leader, Yellowstone Ecol. Rsrch. Center *(2005-2006)*
+* Canid Ecology Crew Leader, Yellowstone Ecological Research Center *(2005-2006)*
 * Plant Ecology Technician, US Geological Survey *(2005)*
 * Ungulate Ecology Technician, National Park Service *(2005)* 
 * Environmental Intern, Administracion Ambiental Cooperativa Chilena *(2004)*
 * Research Assistant, USDA National Wildlife Research Center *(2002)*
 
-# AWARDS & RECOGNITION
+##### AWARDS & RECOGNITION
 * NSF Graduate Research Fellowship *(2015-2020; $102,000 + tuition)*
 * Berkeley Fellowship *(2015-2020; $60,000 + tuition)*
 * NSF National Research Trainee *(Data Science for the 21st Century program)*
@@ -32,7 +34,7 @@ Conservation Biology & Environmental Studies, Middlebury College
 * EPA Apps for the Environment *(2011; National runner-up)*
 * Departmental High Honors & *Magna Cum Laude*, Middlebury College *(2005)*
 
-# PAPERS
+##### PAPERS
 * Baldwin, B., A. Thornhill, W. Freyman, D. Ackerly, **M. Kling**, N. Morueta-Holme, and B. Mishler (*in review*). Species richness and endemism in the California flora.
 * Hammerson, G., **M. Kling**, M. Harkness, M. Ormes, and B. Young (*in review*). Strong geographic and temporal patterns in the conservation status of North American bats.
 * **Kling, M.** and I. Hough (2012). Hotel carbon and energy efficiency: chain rankings, industry trends, efficiency drivers, market patterns. Brighter Planet, Inc. White paper, 29 pages.
@@ -42,7 +44,7 @@ Conservation Biology & Environmental Studies, Middlebury College
 * **Kling, M.** (2003).  The ecophysiology of alpine treeline: spatial patterns in balsam fir (*Abies balsamea*) growth and water relations on Mount Abraham, Vermont. Senior thesis presented for departmental high honors, Conservation Biology/Environmental Studies, Middlebury College.
 * Sterner, R., **M. Kling**, S. Schwiff, and D. Slate (2003). Oral rabies vaccination: reducing economic uncertainty via response surface analysis. Proceedings of the 10th Wildlife Damage Management Conference (K. Fagerstone, G. Witmer, Eds).
 
-# PRESENTATIONS & POSTERS
+##### PRESENTATIONS & POSTERS
 * Auer, S., **M. Kling**, H. Hamilton, P. Comer, and R. Smyth (2016, Oct). Ecological forecasting: understanding climate change exposure and vegetation transitions. Paper presented at the Natural Areas Conference, Davis, CA.
 * **Kling, M.**, E. Burns, P. Cowan, and H. Hamilton (2016, Sept). The coast redwood climate envelope: 20th-century trends across space and time. Paper presented at the Coast Redwood Science Symposium, Eureka, CA.
 * Stevens, J., and **M. Kling** (2016, Aug). The biogeography of fire regimes: a trait-based approach. Paper presented at the Ecological Society of America Annual Meeting, Fort Lauderdale, FL.
@@ -53,13 +55,13 @@ Conservation Biology & Environmental Studies, Middlebury College
 * **Kling, M.**, M. Fernandez, and H. Hamilton (2014, Jul). Spatiotemporal patterns in greater sage-grouse exposure to recent climate change. Paper presented at the Society for Conservation GIS Conference, Monterey, CA.
 * **Kling, M.**, M. Fernandez, and H. Hamilton (2014, Jun).  The biogeography of recent climate change in coast redwood ecosystems. Poster presented at the Smithsonian Botanical Symposium, Washington, DC.
 
-# PROFESSIONAL MEMBERSHIPS
+##### PROFESSIONAL MEMBERSHIPS
 * Ecological Society of America
 * International Biogeography Society
 * American Geophysical Union
 * Society for Conservation Biology
 * Society for Conservation GIS
 
-# PEER REVIEWER
+##### PEER REVIEWER
 * Global Change Biology
 * PeerJ

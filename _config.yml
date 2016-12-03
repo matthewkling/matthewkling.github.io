@@ -1,29 +1,64 @@
-# Dependencies
-markdown:         kramdown
-highlighter:      rouge
+# Site wide configuration
 
-# Permalinks
-permalink:        pretty
-#relative_permalinks: true
+title: "Matthew Kling"
+description: "This is a description of my awesome site."
+logo: # 120x120 px default image used for Twitter summary card
+teaser: # 400x250 px default teaser image used in image archive grid
+locale: en
+url:
+feed:
+  path: atom.xml
 
-# Setup
-title:            Matthew Kling
-tagline:          'biodiversity & climate change'
-description:      "<br>I'm a Berkeley PhD student studying<br>spatial biodiversity, climate change & ecoinformatics"
-url:              http://matthewkling.github.io
-baseurl:          /
+# Jekyll configuration
 
-author:
-  name:           'Matthew Kling'
-  url:            http://matthewkling.github.io
+sass:
+  sass_dir: _sass
+  style: compressed
+permalink: /:categories/:title/
+kramdown:
+  toc_levels: 1..2
+highlighter: rouge
+gems:
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
 
-paginate:         5
 
-# Custom vars
-version:          2.1.0
+# Site owner
+owner:
+  name:
+  email:
+  twitter:
+  google:
+    ad-client:
+    ad-slot:
+  bio:
+  avatar: bio-photo.jpg # 160x160 px image for author byline
+  disqus-shortname:
 
-github:
-  repo:           
 
-# Gems
-gems: [jekyll-paginate, jekyll-gist]
+include:
+  - .htaccess
+exclude:
+  - "*.less"
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - CHANGELOG
+  - Capfile
+  - Gemfile
+  - Gruntfile.js
+  - LICENSE
+  - README
+  - Rakefile
+  - config
+  - gulpfile.js
+  - lib
+  - log
+  - node_modules
+  - package.json
+  - spec
+  - tmp
