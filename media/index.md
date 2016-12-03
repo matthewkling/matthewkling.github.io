@@ -6,7 +6,7 @@ modified:
 excerpt:
 tags: []
 image:
-  feature: coastline_1600.jpg
+  feature: coastline_1600.png
   teaser:
 ---
 
