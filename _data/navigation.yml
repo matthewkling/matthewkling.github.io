@@ -2,23 +2,23 @@
 
 - title: Research
   url: /research/
-  excerpt: "research excerpt"
-  image: mug.jpg
+  excerpt: 
+  image: 
 
 
 - title: Data viz
   url: /media/
-  excerpt: "data viz excerpt"
-  image: mug.jpg
+  excerpt:
+  image: 
 
 
 - title: CV
   url: /cv/
-  excerpt: "cv excerpt"
-  image: mug.jpg
+  excerpt:
+  image: 
 
 
 - title: Contact
   url: /contact/
-  excerpt: "contact excerpt"
-  image: mug.jpg
+  excerpt:
+  image: 
