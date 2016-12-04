@@ -5,7 +5,7 @@ permalink: /cv/
 ads: false
 share: false
 image:
-  feature: hills_1600.png
+  feature: coastline_1600.png
 ---
 
 ##### EDUCATION

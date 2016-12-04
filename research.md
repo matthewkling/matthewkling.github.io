@@ -5,7 +5,7 @@ permalink: /research/
 ads: false
 share: false
 image:
-  feature: coastline_1600.png
+  feature: oaks_1600.png
 ---
 
 I'm interested in the processes shaping the biogeography of plants at a macroecological scale. My research is motivated by the need to inform conservation strategies with improved predictions of how climate change will reshape species distributions and biodiversity patterns. The projects I'm currently working on, a sample of which are listed below, involve synthesizing large datasets on species occurrences, plant functional traits, climate, wildfire, phylogenetics, and species endangerment to answer questions related to conservation biogeography.
