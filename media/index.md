@@ -1,6 +1,6 @@
 ---
 layout: dvwrap
-title: "Data visualizations"
+title: "Data visualization"
 date:
 modified:
 excerpt:
