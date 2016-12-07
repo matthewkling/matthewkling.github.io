@@ -51,6 +51,7 @@ Conservation Biology & Environmental Studies, Middlebury College
 * Sterner, R., **M. Kling**, S. Schwiff, and D. Slate (2003). Oral rabies vaccination: reducing economic uncertainty via response surface analysis. Proceedings of the 10th Wildlife Damage Management Conference (K. Fagerstone, G. Witmer, Eds).
 
 ##### PRESENTATIONS & POSTERS
+* **Kling, M.** (2016, Dec). Multidecadal historic trends in California's historic fog. Poster presented at the American Geophysical Union, San Francisco, CA.
 * Auer, S., **M. Kling**, H. Hamilton, P. Comer, and R. Smyth (2016, Oct). Ecological forecasting: understanding climate change exposure and vegetation transitions. Paper presented at the Natural Areas Conference, Davis, CA.
 * **Kling, M.**, E. Burns, P. Cowan, and H. Hamilton (2016, Sept). The coast redwood climate envelope: 20th-century trends across space and time. Paper presented at the Coast Redwood Science Symposium, Eureka, CA.
 * Stevens, J., and **M. Kling** (2016, Aug). The biogeography of fire regimes: a trait-based approach. Paper presented at the Ecological Society of America Annual Meeting, Fort Lauderdale, FL.
