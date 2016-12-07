@@ -19,12 +19,12 @@ image:
 
 <div class="tile">
   <h2 class="post-title">Data visualization</h2>
-  <p class="post-excerpt">I love infographics, scientific visualizations, and data journalism. A few modest examples of my own projects are shared <a href="/media">here</a>. </p>
+  <p class="post-excerpt">I love infographics, scientific visualizations, and data journalism. A few modest examples of my own projects are posted <a href="/media">here</a>. </p>
 </div><!-- /.tile -->
 
 <div class="tile">
   <h2 class="post-title">Code</h2>
-  <p class="post-excerpt">My data science projects are built largely with R and python; see my <a href="https://github.com/matthewkling">Github page</a> for some project code and packages.</p>
+  <p class="post-excerpt">My data science projects are built primarily in R; see my <a href="https://github.com/matthewkling">Github page</a> for some project code and packages.</p>
 </div><!-- /.tile -->
 
 

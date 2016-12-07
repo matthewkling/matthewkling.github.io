@@ -5,7 +5,7 @@ permalink: /cv/
 ads: false
 share: false
 image:
-  feature: coastline_1600.png
+  feature: teton_1600.png
 ---
 
 
