@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: dvwrap
 title: "Data visualizations"
 date:
 modified:
