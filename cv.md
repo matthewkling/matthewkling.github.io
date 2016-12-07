@@ -8,6 +8,12 @@ image:
   feature: coastline_1600.png
 ---
 
+
+
+**[download PDF](/assets/cv.pdf)**
+
+
+
 ##### EDUCATION
 * Ph.D. *(expected 2020)*<br>
 Integrative Biology, UC Berkeley<br>

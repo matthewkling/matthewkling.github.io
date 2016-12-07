@@ -4,6 +4,8 @@ title: "Data visualizations"
 date:
 modified:
 excerpt:
+ads: false
+share: false
 tags: []
 image:
   feature: coastline_1600.png
