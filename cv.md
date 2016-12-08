@@ -5,7 +5,7 @@ permalink: /cv/
 ads: false
 share: false
 image:
-  feature: teton_1600.png
+  feature: eucalyptus_1600.png
 ---
 
 
