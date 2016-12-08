@@ -8,7 +8,7 @@ ads: false
 share: false
 tags: []
 image:
-  feature: coastline_1600.png
+  feature: firs_1600.png
   teaser:
 ---
 

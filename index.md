@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 image:
-  feature: firs_1600.png 
+  feature: oaks_1600.png 
 ---
 
 <div class="tiles">
