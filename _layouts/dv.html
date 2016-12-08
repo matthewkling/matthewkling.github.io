@@ -36,7 +36,8 @@
     {% if page.image.feature %}
     <div class="page-lead" style="background-image:url({{ site.url }}/images/{{ page.image.feature }})">
       <div class="wrap page-lead-content">
-        <h4><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></h4>
+        <h1><br><br><br><br><br><br></h1>
+        <h1>{% if page.title %}{{ page.title }}{% endif %}</h1>
       </div><!-- /.page-lead-content -->
     </div><!-- /.page-lead -->
     {% endif %}
@@ -47,7 +48,6 @@
       <div id="main" role="main">
         <div class="wrap">
           <div class="page-title">
-            <h1>{{ page.title }}</h1>
             {% if page.excerpt %}<h2>{{ page.excerpt }}</h2>{% endif %}
           </div>
           <div class="archive-wrap">
