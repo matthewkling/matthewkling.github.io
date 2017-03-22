@@ -41,8 +41,8 @@ Conservation Biology & Environmental Studies, Middlebury College
 * Departmental High Honors & *Magna Cum Laude*, Middlebury College *(2005)*
 
 ##### PAPERS
-* Hammerson, G., **M. Kling**, M. Harkness, M. Ormes, and B. Young (*in review*). Strong geographic and temporal patterns in the conservation status of North American bats. [pdf](/assets/Baldwin_et_al_AJB_2017.pdf)
-* Baldwin, B., A. Thornhill, W. Freyman, D. Ackerly, **M. Kling**, N. Morueta-Holme, and B. Mishler (2017). Species richness and endemism in the native flora of California. American Journal of Botany, 104(3): 487–501.
+* Hammerson, G., **M. Kling**, M. Harkness, M. Ormes, and B. Young (*in review*). Strong geographic and temporal patterns in the conservation status of North American bats.
+* Baldwin, B., A. Thornhill, W. Freyman, D. Ackerly, **M. Kling**, N. Morueta-Holme, and B. Mishler (2017). Species richness and endemism in the native flora of California. American Journal of Botany, 104(3): 487–501.   [pdf](/assets/Baldwin_et_al_AJB_2017.pdf)
 * **Kling, M.** and I. Hough (2012). Hotel carbon and energy efficiency: chain rankings, industry trends, efficiency drivers, market patterns. Brighter Planet, Inc. White paper, 29 pages.
 * **Kling, M.** and I. Hough (2011). Air travel carbon and energy efficiency: case studies, best practices, industry trends, airline rankings. Brighter Planet, Inc. White paper, 25 pages, presented at the 2012 Conference of the Institute for Computational Sustainability, Copenhagen, Denmark.
 * **Kling, M.** and I. Hough (2011). Employee Engagement in Sustainability. Brighter Planet, Inc. White paper, 38 pages.
