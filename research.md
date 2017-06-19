@@ -8,7 +8,7 @@ image:
   feature: pepperwood_1600.png
 ---
 
-I'm interested in the processes shaping the biogeography of plants at a macroecological scale. My research is motivated by the need to inform conservation strategies with improved predictions of how climate change will reshape species distributions and biodiversity patterns. The projects I'm currently working on, a sample of which are listed below, involve synthesizing large datasets on species occurrences, plant functional traits, climate, wildfire, phylogenetics, and species endangerment to answer questions related to conservation biogeography. See my [CV](/cv/) for past work and publications.
+I investigate how climate shapes the geographic distributions of genes, species, and ecosystems, and how this understanding can inform biodiversity conservation in the face of climate change. I primarily study plants using big data. My current projects, a sample of which are listed below, involve synthesizing large datasets on species occurrences, plant functional traits, climate, wildfire, phylogenetics, and species endangerment to answer questions related to conservation biogeography. See my [CV](/cv/) for past work and publications.
 
 -------------------------------------------
 
