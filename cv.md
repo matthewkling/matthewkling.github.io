@@ -41,6 +41,7 @@ Conservation Biology & Environmental Studies, Middlebury College
 * Departmental High Honors & *Magna Cum Laude*, Middlebury College *(2005)*
 
 ##### PAPERS
+* Thornhill, A., B. Baldwin, W. Freyman, S. Nosratinia, **M. Kling**, N. Morueta-Holme, T. Madsen, D. Ackerly, and B. Mishler (2017). Spatial phylogenetics of the native California flora. BCM Biology, *in press*.
 * Hammerson, G., **M. Kling**, M. Harkness, M. Ormes, and B. Young (2017). Strong geographic and temporal patterns in the conservation status of North American bats. Biological Conservation 212: 144-152.   [pdf](/assets/Hammerson_et_al_BiolCons_2017.pdf)
 * Baldwin, B., A. Thornhill, W. Freyman, D. Ackerly, **M. Kling**, N. Morueta-Holme, and B. Mishler (2017). Species richness and endemism in the native flora of California. American Journal of Botany, 104(3): 487–501.   [pdf](/assets/Baldwin_et_al_AJB_2017.pdf)
 * **Kling, M.** and I. Hough (2012). Hotel carbon and energy efficiency: chain rankings, industry trends, efficiency drivers, market patterns. Brighter Planet, Inc. White paper, 29 pages.
@@ -72,4 +73,6 @@ Conservation Biology & Environmental Studies, Middlebury College
 
 ##### PEER REVIEWER
 * Global Change Biology
+* Global Ecology & Biogeography
 * PeerJ
+* PLOS ONE
