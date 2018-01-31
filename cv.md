@@ -75,5 +75,6 @@ Conservation Biology & Environmental Studies, Middlebury College
 ##### PEER REVIEWER
 * Global Change Biology
 * Global Ecology & Biogeography
+* Journal of Biogeography
 * PeerJ
 * PLOS ONE
