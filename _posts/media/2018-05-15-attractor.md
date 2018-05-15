@@ -7,7 +7,7 @@ ads: false
 share: false
 image:
   feature:
-  teaser: attractor_thumb.png 
+  teaser: attractor_thumb.jpg 
 ---
 
 [![attractor](/images/attractor.png)](/images/attractor.png)
