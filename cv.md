@@ -41,6 +41,7 @@ Conservation Biology & Environmental Studies, Middlebury College
 * Departmental High Honors & *Magna Cum Laude*, Middlebury College *(2005)*
 
 ##### PAPERS
+* **Kling, M.**, B. Mishler, B. Baldwin, A. Thornhill, and D. Ackerly (2018). Facets of phylodiversity: parsing the value of time, anagensis, and cladogenesis in spatial conservation prioritization. *In review.*
 * Morueta-Holme, N., M. Oldfather, R. Olliff-Yang, A. Weitz, C. Levine, **M. Kling**, E. Riordan, C. Merow, S. Sheth, A. Thornhill, and D. Ackerly (2018). Best practices for reporting climate data in ecology. Nature Climate Change 8: 92-94.   [[journal](https://www.nature.com/articles/s41558-017-0060-2), [pdf](/assets/Morueta-Holme_et_al_NCC_2018.pdf)]
 * Thornhill, A., B. Baldwin, W. Freyman, S. Nosratinia, **M. Kling**, N. Morueta-Holme, T. Madsen, D. Ackerly, and B. Mishler (2017). Spatial phylogenetics of the native California flora. BCM Biology 15(1): 96.   [[journal](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-017-0435-x), [pdf](/assets/Thornhill_et_al_BCMB_2017.pdf)]
 * Hammerson, G., **M. Kling**, M. Harkness, M. Ormes, and B. Young (2017). Strong geographic and temporal patterns in the conservation status of North American bats. Biological Conservation 212: 144-152.   [[journal](https://doi.org/10.1016/j.biocon.2017.05.025), [pdf](/assets/Hammerson_et_al_BiolCons_2017.pdf)]
@@ -53,6 +54,8 @@ Conservation Biology & Environmental Studies, Middlebury College
 * Sterner, R., **M. Kling**, S. Schwiff, and D. Slate (2003). Oral rabies vaccination: reducing economic uncertainty via response surface analysis. Proceedings of the 10th Wildlife Damage Management Conference (K. Fagerstone, G. Witmer, Eds).
 
 ##### PRESENTATIONS & POSTERS
+* **Kling, M.**, B. Mishler, B. Baldwin, A. Thornhill, and D. Ackerly (2018, Jul). Conserving the evolutionary diversity of the California flora. Paper presented at the North American Congress for Conservation Biology, Toronto, Canada.
+* **Kling, M.**, B. Mishler, B. Baldwin, A. Thornhill, and D. Ackerly (2018, Jun). Future priorities for conserving the evolutionary diversity of the California flora. Paper presented at the Digital Data in Biodiversity Research Conference, Berkeley, CA.
 * **Kling, M.** (2016, Dec). Multidecadal historic trends in California's coastal fog. Poster presented at the American Geophysical Union, San Francisco, CA.
 * Auer, S., **M. Kling**, H. Hamilton, P. Comer, and R. Smyth (2016, Oct). Ecological forecasting: understanding climate change exposure and vegetation transitions. Paper presented at the Natural Areas Conference, Davis, CA.
 * Gross, J., J. Morisette, **M. Kling**, M. Fernandez, and H. Hamilton (2016, Sept). Effective climate data visualizations for adaptation. Poster presented at the IUCN World Conservation Congress, Honolulu, HI.
