@@ -53,7 +53,7 @@ Conservation Biology & Environmental Studies, Middlebury College
 * **Kling, M.** (2003).  The ecophysiology of alpine treeline: spatial patterns in balsam fir (*Abies balsamea*) growth and water relations on Mount Abraham, Vermont. Senior thesis presented for departmental high honors, Conservation Biology/Environmental Studies, Middlebury College.
 * Sterner, R., **M. Kling**, S. Schwiff, and D. Slate (2003). Oral rabies vaccination: reducing economic uncertainty via response surface analysis. Proceedings of the 10th Wildlife Damage Management Conference (K. Fagerstone, G. Witmer, Eds).
 
-##### PRESENTATIONS & POSTERS
+##### TALKS & POSTERS
 * **Kling, M.**, B. Mishler, B. Baldwin, A. Thornhill, and D. Ackerly (2018, Jul). Conserving the evolutionary diversity of the California flora. Paper presented at the North American Congress for Conservation Biology, Toronto, Canada.
 * **Kling, M.**, B. Mishler, B. Baldwin, A. Thornhill, and D. Ackerly (2018, Jun). Future priorities for conserving the evolutionary diversity of the California flora. Paper presented at the Digital Data in Biodiversity Research Conference, Berkeley, CA.
 * **Kling, M.** (2016, Dec). Multidecadal historic trends in California's coastal fog. Poster presented at the American Geophysical Union, San Francisco, CA.
