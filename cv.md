@@ -5,7 +5,7 @@ permalink: /cv/
 ads: false
 share: false
 image:
-  feature: bay_1600.png
+  feature: bay_1600.jpg
 ---
 
 
