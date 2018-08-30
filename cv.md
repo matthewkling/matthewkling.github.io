@@ -5,7 +5,7 @@ permalink: /cv/
 ads: false
 share: false
 image:
-  feature: eucalyptus_1600.png
+  feature: bay_1600.png
 ---
 
 
@@ -46,7 +46,6 @@ Conservation Biology & Environmental Studies, Middlebury College
 * Thornhill, A., B. Baldwin, W. Freyman, S. Nosratinia, **M. Kling**, N. Morueta-Holme, T. Madsen, D. Ackerly, and B. Mishler (2017). Spatial phylogenetics of the native California flora. BCM Biology 15(1): 96.   [[journal](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-017-0435-x), [pdf](/assets/Thornhill_et_al_BCMB_2017.pdf)]
 * Hammerson, G., **M. Kling**, M. Harkness, M. Ormes, and B. Young (2017). Strong geographic and temporal patterns in the conservation status of North American bats. Biological Conservation 212: 144-152.   [[journal](https://doi.org/10.1016/j.biocon.2017.05.025), [pdf](/assets/Hammerson_et_al_BiolCons_2017.pdf)]
 * Baldwin, B., A. Thornhill, W. Freyman, D. Ackerly, **M. Kling**, N. Morueta-Holme, and B. Mishler (2017). Species richness and endemism in the native flora of California. American Journal of Botany, 104(3): 487–501.   [[journal](http://www.amjbot.org/content/104/3/487.full), [pdf](/assets/Baldwin_et_al_AJB_2017.pdf)]
-* **Kling, M.** (2003).  The ecophysiology of alpine treeline: spatial patterns in balsam fir (*Abies balsamea*) growth and water relations on Mount Abraham, Vermont. Senior thesis presented for departmental high honors, Conservation Biology/Environmental Studies, Middlebury College.
 * Sterner, R., **M. Kling**, S. Schwiff, and D. Slate (2003). Oral rabies vaccination: reducing economic uncertainty via response surface analysis. Proceedings of the 10th Wildlife Damage Management Conference (K. Fagerstone, G. Witmer, Eds).
 
 ##### TALKS & POSTERS
