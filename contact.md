@@ -5,7 +5,7 @@ permalink: /contact/
 ads: false
 share: false
 image:
-  feature: hills_1600.png
+  feature: doug_1600.png
 ---
 
 Matthew Kling <br>
