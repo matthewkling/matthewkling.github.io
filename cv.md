@@ -41,6 +41,7 @@ Conservation Biology & Environmental Studies, Middlebury College
 * Departmental High Honors & *Magna Cum Laude*, Middlebury College *(2005)*
 
 ##### JOURNAL ARTICLES
+* Daru, B., **M. Kling**, E. Meineke, and A. van Wyk. Herbarium records reveal early flowering in response to warming in the southern hemisphere. *In review.*
 * **Kling, M.**, B. Mishler, B. Baldwin, A. Thornhill, and D. Ackerly (2018). Facets of phylodiversity: evolutionary diversification, divergence, and survival as conservation targets. Philosophical Transactions of the Royal Society B. *In press.*
 * Morueta-Holme, N., M. Oldfather, R. Olliff-Yang, A. Weitz, C. Levine, **M. Kling**, E. Riordan, C. Merow, S. Sheth, A. Thornhill, and D. Ackerly (2018). Best practices for reporting climate data in ecology. Nature Climate Change 8: 92-94.   [[journal](https://www.nature.com/articles/s41558-017-0060-2), [pdf](/assets/Morueta-Holme_et_al_NCC_2018.pdf)]
 * Thornhill, A., B. Baldwin, W. Freyman, S. Nosratinia, **M. Kling**, N. Morueta-Holme, T. Madsen, D. Ackerly, and B. Mishler (2017). Spatial phylogenetics of the native California flora. BCM Biology 15(1): 96.   [[journal](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-017-0435-x), [pdf](/assets/Thornhill_et_al_BCMB_2017.pdf)]
@@ -49,6 +50,7 @@ Conservation Biology & Environmental Studies, Middlebury College
 * Sterner, R., **M. Kling**, S. Schwiff, and D. Slate (2003). Oral rabies vaccination: reducing economic uncertainty via response surface analysis. Proceedings of the 10th Wildlife Damage Management Conference (K. Fagerstone, G. Witmer, Eds).
 
 ##### TALKS & POSTERS
+* Fuentes-Castillo, T., **M. Kling**, D. Ackerly, R. Scherson, and P. Pliscoff (2019, Jan). Vegetation and climatic space comparison across latitudinal gradients on the Pacific coasts of North and South America. International Biogeography Society, Malaga, Spain.
 * **Kling, M.**, B. Mishler, B. Baldwin, A. Thornhill, and D. Ackerly (2018, Sep). Future conservation priorities for the California flora: weighing alternative dimensions of evolutionary diversity. Botany Lunch seminar series, Berkeley, California.
 * **Kling, M.**, B. Mishler, B. Baldwin, A. Thornhill, and D. Ackerly (2018, Jul). Conserving the evolutionary diversity of the California flora. Paper presented at the North American Congress for Conservation Biology, Toronto, Canada.
 * **Kling, M.**, B. Mishler, B. Baldwin, A. Thornhill, and D. Ackerly (2018, Jun). Future priorities for conserving the evolutionary diversity of the California flora. Paper presented at the Digital Data in Biodiversity Research Conference, Berkeley, CA.
