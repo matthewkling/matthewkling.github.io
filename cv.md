@@ -17,8 +17,9 @@ image:
 ##### EDUCATION
 * Ph.D. *(expected 2020)*<br>
 Integrative Biology, UC Berkeley<br>
-Advisor: David Ackerly
-NSF Graduate Research Fellow; Berkeley Fellow; NSF National Research Trainee
+Advisor: David Ackerly<br>
+NSF Graduate Research Fellow; Berkeley Fellow<br>
+NSF National Research Trainee in data science
 
 * B.A. *(2005)*<br>
 Conservation Biology & Environmental Studies, Middlebury College
