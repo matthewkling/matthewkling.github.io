@@ -53,7 +53,6 @@ Conservation Biology & Environmental Studies, Middlebury College
 * Sterner, R., **M. Kling**, S. Schwiff, and D. Slate (2003). Oral rabies vaccination: reducing economic uncertainty via response surface analysis. Proceedings of the 10th Wildlife Damage Management Conference (K. Fagerstone, G. Witmer, Eds).
 
 ##### TALKS & POSTERS
-* Fuentes-Castillo, T., **M. Kling**, D. Ackerly, R. Scherson, and P. Pliscoff (2019, Jan). Vegetation and climatic space comparison across latitudinal gradients on the Pacific coasts of North and South America. Talk presented at International Biogeography Society, Malaga, Spain.
 * **Kling, M.**, B. Mishler, B. Baldwin, A. Thornhill, and D. Ackerly (2018, Sep). Future conservation priorities for the California flora: weighing alternative dimensions of evolutionary diversity. Talk presented at Botany Lunch seminar series, Berkeley, California.
 * Ackerly, D., **M. Kling**, M. Oldfather, and P. Papper (2018, Aug). Will plant communities change more quickly in refugia? A biogeographic and landscape perspective. Talk presented at Ecological Society of America, New Orleans, Louisiana.
 * **Kling, M.**, B. Mishler, B. Baldwin, A. Thornhill, and D. Ackerly (2018, Jul). Conserving the evolutionary diversity of the California flora. Talk presented at North American Congress for Conservation Biology, Toronto, Canada.
