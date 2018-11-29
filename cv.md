@@ -90,6 +90,8 @@ Conservation Biology & Environmental Studies, Middlebury College
 ##### PEER REVIEWER
 * Global Change Biology
 * Global Ecology & Biogeography
+* Heredity
 * Journal of Biogeography
 * PeerJ
 * PLOS ONE
+* PNAS
