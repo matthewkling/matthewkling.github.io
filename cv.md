@@ -44,8 +44,8 @@ Conservation Biology & Environmental Studies, Middlebury College
 * Departmental High Honors & *Magna Cum Laude*, Middlebury College *(2005)*
 
 ##### JOURNAL ARTICLES
-* Daru, B., **M. Kling**, E. Meineke, and A. van Wyk. Herbarium records reveal early flowering in response to warming in the southern hemisphere. *In review.*
 * Comer, P., J. Hak, M. Reid, S. Auer, K. Schulz, H. Hamilton, R. Smyth, and **M. Kling**. Assessing climate change vulnerability of major vegetation types of the western interior United States. *In review.*
+* Daru, B., **M. Kling**, E. Meineke, and A. van Wyk. (2019) Temperature controls phenology in continuously flowering *Protea* species of subtropical Africa. Applications in Plant Sciences: *in press.*
 * **Kling, M.**, B. Mishler, B. Baldwin, A. Thornhill, and D. Ackerly (2018). Facets of phylodiversity: evolutionary diversification, divergence, and survival as conservation targets. Philosophical Transactions of the Royal Society B 374: 20170397. [[journal](http://dx.doi.org/10.1098/rstb.2017.0397), [pdf](/assets/Kling_et_al_2018_PhilTransB.pdf)]
 * Morueta-Holme, N., M. Oldfather, R. Olliff-Yang, A. Weitz, C. Levine, **M. Kling**, E. Riordan, C. Merow, S. Sheth, A. Thornhill, and D. Ackerly (2018). Best practices for reporting climate data in ecology. Nature Climate Change 8: 92-94.   [[journal](https://www.nature.com/articles/s41558-017-0060-2), [pdf](/assets/Morueta-Holme_et_al_NCC_2018.pdf)]
 * Thornhill, A., B. Baldwin, W. Freyman, S. Nosratinia, **M. Kling**, N. Morueta-Holme, T. Madsen, D. Ackerly, and B. Mishler (2017). Spatial phylogenetics of the native California flora. BCM Biology 15(1): 96.   [[journal](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-017-0435-x), [pdf](/assets/Thornhill_et_al_BCMB_2017.pdf)]
