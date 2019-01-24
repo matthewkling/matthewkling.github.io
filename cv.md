@@ -45,6 +45,7 @@ Conservation Biology & Environmental Studies, Middlebury College
 * Departmental High Honors & *Magna Cum Laude*, Middlebury College *(2005)*
 
 ##### JOURNAL ARTICLES
+* Stevens, J., **M. Kling**, D. Schwilk, M. Varner, and J. Kane. Biogeography of fire regimes in western US conifer forests: a trait-based approach. *In review.*
 * Comer, P., J. Hak, M. Reid, S. Auer, K. Schulz, H. Hamilton, R. Smyth, and **M. Kling**. Assessing climate change vulnerability of major vegetation types of the western interior United States. *In review.*
 * Daru, B., **M. Kling**, E. Meineke, and A. van Wyk. (2019) Temperature controls phenology in continuously flowering *Protea* species of subtropical Africa. Applications in Plant Sciences. *Accepted.*
 * **Kling, M.**, B. Mishler, B. Baldwin, A. Thornhill, and D. Ackerly (2018). Facets of phylodiversity: evolutionary diversification, divergence, and survival as conservation targets. Philosophical Transactions of the Royal Society B 374: 20170397. [[journal](http://dx.doi.org/10.1098/rstb.2017.0397), [pdf](/assets/Kling_et_al_2018_PhilTransB.pdf)]
