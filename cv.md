@@ -45,6 +45,8 @@ Conservation Biology & Environmental Studies, Middlebury College
 * Departmental High Honors & *Magna Cum Laude*, Middlebury College *(2005)*
 
 ##### JOURNAL ARTICLES
+* Oldfather, M., S. Sheth, **M. Kling**, N. Emery, and D. Ackerly. Range Edges in Heterogeneous Landscapes: Incorporating Realistic Landscapes into Range Dynamics. *In review.*
+* Ackerly, D., **M. Kling**, M. Clark, P. Papper, M. Oldfather, A. Flint and L. Flint. Topoclimates and Biotic Responses to Climate Change: Which locations on the landscape will be most sensitive? *In review.*
 * Stevens, J., **M. Kling**, D. Schwilk, M. Varner, and J. Kane. Biogeography of fire regimes in western US conifer forests: a trait-based approach. *In review.*
 * Comer, P., J. Hak, M. Reid, S. Auer, K. Schulz, H. Hamilton, R. Smyth, and **M. Kling**. Assessing climate change vulnerability of major vegetation types of the western interior United States. *In review.*
 * Daru, B., **M. Kling**, E. Meineke, and A. van Wyk. (2019) Temperature controls phenology in continuously flowering *Protea* species of subtropical Africa. Applications in Plant Sciences. [[journal](https://bsapubs.onlinelibrary.wiley.com/doi/full/10.1002/aps3.1232)]
@@ -56,6 +58,10 @@ Conservation Biology & Environmental Studies, Middlebury College
 * Sterner, R., **M. Kling**, S. Schwiff, and D. Slate (2003). Oral rabies vaccination: reducing economic uncertainty via response surface analysis. Proceedings of the 10th Wildlife Damage Management Conference (K. Fagerstone, G. Witmer, Eds).
 
 ##### TALKS & POSTERS
+* **Kling, M.** and Ackerly, D. Winds of change: wind connectivity, gene flow, and climate adaptation in trees. Talk presented at Species on the Move, Kruger, South Africa.
+* Fuentes-Castillo, T., **Kling, M.**, Ackerly, D., Scherson, R., and Pliscoff, P. (2019, Jul). Tree species distribution comparisons across latitudinal gradients on the Pacific coasts of North and South America under climate change. Talk presented at Species on the Move, Kruger, South Africa.
+* Scherson, R., Fuentes-Castillo, T., Pliscoff, P., Roman M.J., Baldwin, B., **Kling, M.**, Thornhill, T., Ackerly, D., and Mishler, B. (2019, Jul). Comparative spatial phylogenetics between Mediterranean Chile and California: a tale of two biodiversity hotspots. Paper presented at Botany Society of America meeting, Tucson, Arizona.
+* **Kling, M.**. (2019, May). Save the trees: informing conservation planning with multiple facets of phylodiversity. Invited talk presented at Hennig XXXVIII symposium, Berkeley, California.
 * Meineke, E., **Kling, M.**, Park, D., Willis, C., Davis, C., and Davies, T. (2019, Jan). Spatiotemporal links between phenology and herbivory of blueberries across the eastern US. Invited symposium talk presented at International Biogeography Society Meeting, Malaga, Spain.
 * **Kling, M.**, B. Mishler, B. Baldwin, A. Thornhill, and D. Ackerly (2018, Sep). Future conservation priorities for the California flora: weighing alternative dimensions of evolutionary diversity. Talk presented at Botany Lunch seminar series, Berkeley, California.
 * Ackerly, D., **M. Kling**, M. Oldfather, and P. Papper (2018, Aug). Will plant communities change more quickly in refugia? A biogeographic and landscape perspective. Talk presented at Ecological Society of America, New Orleans, Louisiana.
