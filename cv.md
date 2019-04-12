@@ -67,6 +67,7 @@ Conservation Biology & Environmental Studies, Middlebury College
 * **Kling, M.**, E. Burns, P. Cowan, and H. Hamilton (2016, Sept). The coast redwood climate envelope: 20th-century trends across space and time. Talk presented at Coast Redwood Science Symposium, Eureka, CA.
 * **Kling, M.**, M. Fernandez, and H. Hamilton (2014, Jul). Spatiotemporal patterns in greater sage-grouse exposure to recent climate change. Talk presented at Society for Conservation GIS Conference, Monterey, CA.
 * **Kling, M.**, M. Fernandez, and H. Hamilton (2014, Jun).  The biogeography of recent climate change in coast redwood ecosystems. Poster presented at Smithsonian Botanical Symposium, Washington, DC.
+* [[Co-authored talks]](/cv_extra.md)
 
 ##### GRAY LITERATURE
 * EcoAdapt (2014, multiple authors). A Climate Change Vulnerability Assessment for Resources of Nez Perce-Clearwater National Forests. Version 3.0. EcoAdapt, Bainbridge Island, WA.
@@ -76,8 +77,6 @@ Conservation Biology & Environmental Studies, Middlebury College
 * **Kling, M.** and I. Hough (2011). Employee Engagement in Sustainability. Brighter Planet, Inc. White paper, 38 pages.
 * **Kling, M.** and I. Hough (2010).  The American carbon foodprint: understanding your food’s impact on climate change. Brighter Planet, Inc. White paper, 19 pages.   [[pdf](/assets/carbon_foodprint.pdf)]
 * **Kling, M.** (2003).  The ecophysiology of alpine treeline: spatial patterns in balsam fir (*Abies balsamea*) growth and water relations on Mount Abraham, Vermont. Senior thesis presented for departmental high honors, Conservation Biology/Environmental Studies, Middlebury College.
-
-[[Co-authored talks & posters]](/cv_extra.md)
 
 
 ##### PROFESSIONAL MEMBERSHIPS
