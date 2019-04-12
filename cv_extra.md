@@ -11,7 +11,7 @@ image:
 
 ##### TALK & POSTER CO-AUTHORSIHPS
 
-I was a co-author, not presenting author, of the following conference talks. I maintain this list mostly for my own benefit.
+I was a co-author, not presenting author, of the following conference talks. I maintain this list mostly for my own reference.
 
 * Fuentes-Castillo, T., **Kling, M.**, Ackerly, D., Scherson, R., and Pliscoff, P. (2019, Jul). Tree species distribution comparisons across latitudinal gradients on the Pacific coasts of North and South America under climate change. Talk presented at Species on the Move, Kruger, South Africa.
 * Scherson, R., Fuentes-Castillo, T., Pliscoff, P., Roman M.J., Baldwin, B., **Kling, M.**, Thornhill, T., Ackerly, D., and Mishler, B. (2019, Jul). Comparative spatial phylogenetics between Mediterranean Chile and California: a tale of two biodiversity hotspots. Paper presented at Botany Society of America meeting, Tucson, Arizona.
