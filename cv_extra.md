@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Curriculum vitae
-permalink: /cv/
+permalink: /cv_extra/
 ads: false
 share: false
 image:
