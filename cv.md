@@ -26,7 +26,8 @@ NSF NRT Data Science Fellow
 Conservation Biology & Environmental Studies, Middlebury College
 
 ##### EMPLOYMENT
-* Consultant in Global Change Biology, NatureServe *(2015-present)* 
+* Graduate Student Instructor, UC Berkeley *(2019-present)* 
+* Consultant in Global Change Biology, NatureServe *(2015-2019)* 
 * Bioclimate Analyst, NatureServe *(2013-2015)*
 * Science Analyst, Brighter Planet *(2008-2013)*
 * Supervisory Biologist, Institute for Wildlife Studies *(2007-2008)*
@@ -50,7 +51,7 @@ Conservation Biology & Environmental Studies, Middlebury College
 * Stevens, J., **M. Kling**, D. Schwilk, M. Varner, and J. Kane. Biogeography of fire regimes in western US conifer forests: a trait-based approach. *In review.*
 * Comer, P., J. Hak, M. Reid, S. Auer, K. Schulz, H. Hamilton, R. Smyth, and **M. Kling**. Assessing climate change vulnerability of major vegetation types of the western interior United States. *In review.*
 * Skelton, R., Anderegg, L., Papper, P., Dawson, T., **Kling, M.**, Thompson, S., Diaz, J., Reich, E., and D. Ackerly. No local adaptation in leaf or stem xylem vulnerability to embolism, but consistent vulnerability segmentation in a North American oak. New Phytologist. *Accepted.*
-* Daru, B., **M. Kling**, E. Meineke, and A. van Wyk. (2019) Temperature controls phenology in continuously flowering *Protea* species of subtropical Africa. Applications in Plant Sciences. [[journal](https://bsapubs.onlinelibrary.wiley.com/doi/full/10.1002/aps3.1232)]
+* Daru, B., **M. Kling**, E. Meineke, and A. van Wyk. (2019) Temperature controls phenology in continuously flowering *Protea* species of subtropical Africa. Applications in Plant Sciences. [[journal](https://bsapubs.onlinelibrary.wiley.com/doi/full/10.1002/aps3.1232), [pdf](/assets/Daru_et_al-2019-Applications_in_Plant_Sciences.pdf)]
 * **Kling, M.**, B. Mishler, B. Baldwin, A. Thornhill, and D. Ackerly (2018). Facets of phylodiversity: evolutionary diversification, divergence, and survival as conservation targets. Philosophical Transactions of the Royal Society B 374: 20170397. [[journal](http://dx.doi.org/10.1098/rstb.2017.0397), [pdf](/assets/Kling_et_al_2018_PhilTransB.pdf)]
 * Morueta-Holme, N., M. Oldfather, R. Olliff-Yang, A. Weitz, C. Levine, **M. Kling**, E. Riordan, C. Merow, S. Sheth, A. Thornhill, and D. Ackerly (2018). Best practices for reporting climate data in ecology. Nature Climate Change 8: 92-94.   [[journal](https://www.nature.com/articles/s41558-017-0060-2), [pdf](/assets/Morueta-Holme_et_al_NCC_2018.pdf)]
 * Thornhill, A., B. Baldwin, W. Freyman, S. Nosratinia, **M. Kling**, N. Morueta-Holme, T. Madsen, D. Ackerly, and B. Mishler (2017). Spatial phylogenetics of the native California flora. BCM Biology 15(1): 96.   [[journal](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-017-0435-x), [pdf](/assets/Thornhill_et_al_BCMB_2017.pdf)]

@@ -13,7 +13,7 @@ image:
 
 I was a non-presenting co-author of the following conference talks. I maintain this list mostly for my own reference.
 
-* Fuentes-Castillo, T., **Kling, M.**, Ackerly, D., Scherson, R., and Pliscoff, P. (2019, Jul). Tree species distribution comparisons across latitudinal gradients on the Pacific coasts of North and South America under climate change. Talk presented at Species on the Move, Kruger, South Africa.
+* Fuentes-Castillo, T., **Kling, M.**, Ackerly, D., Scherson, R., and Pliscoff, P. (2019, Aug). Tree species distribution comparisons across latitudinal gradients on the Pacific coasts of North and South America under climate change. Talk presented at International Biogeography Society meeting, Quito, Ecuador.
 * Scherson, R., Fuentes-Castillo, T., Pliscoff, P., Roman M.J., Baldwin, B., **Kling, M.**, Thornhill, T., Ackerly, D., and Mishler, B. (2019, Jul). Comparative spatial phylogenetics between Mediterranean Chile and California: a tale of two biodiversity hotspots. Paper presented at Botany Society of America meeting, Tucson, Arizona.
 * Meineke, E., **Kling, M.**, Park, D., Willis, C., Davis, C., and Davies, T. (2019, Jan). Spatiotemporal links between phenology and herbivory of blueberries across the eastern US. Invited symposium talk presented at International Biogeography Society Meeting, Malaga, Spain.
 * Ackerly, D., **M. Kling**, M. Oldfather, and P. Papper (2018, Aug). Will plant communities change more quickly in refugia? A biogeographic and landscape perspective. Talk presented at Ecological Society of America, New Orleans, Louisiana.
