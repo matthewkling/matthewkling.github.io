@@ -46,6 +46,7 @@ Conservation Biology & Environmental Studies, Middlebury College
 * Departmental High Honors & *Magna Cum Laude*, Middlebury College *(2005)*
 
 ##### JOURNAL ARTICLES
+* **Kling, M.**, S. Auer, P. Comer, D. Ackerly, and H. Hamilton. Multiple axes of vegetation vulnerability to climate change. *In review.*
 * Oldfather, M., S. Sheth, **M. Kling**, N. Emery, and D. Ackerly. Range Edges in Heterogeneous Landscapes: Incorporating Realistic Landscapes into Range Dynamics. *In review.*
 * Ackerly, D., **M. Kling**, M. Clark, P. Papper, M. Oldfather, A. Flint and L. Flint. Topoclimates and Biotic Responses to Climate Change: Which locations on the landscape will be most sensitive? *In review.*
 * Stevens, J., **M. Kling**, D. Schwilk, M. Varner, and J. Kane. Biogeography of fire regimes in western US conifer forests: a trait-based approach. *In review.*
@@ -76,7 +77,7 @@ Conservation Biology & Environmental Studies, Middlebury College
 * EcoAdapt (2014, multiple authors). A Climate Change Vulnerability Assessment for Resources of Nez Perce-Clearwater National Forests. Version 3.0. EcoAdapt, Bainbridge Island, WA.
 * Bureau of Land Management (2014, multiple authors). Madrean Archipeligo Rapid Ecoloregional Assessment. US BLM, Washington, DC.
 * **Kling, M.** and I. Hough (2012). Hotel carbon and energy efficiency: chain rankings, industry trends, efficiency drivers, market patterns. Brighter Planet, Inc. White paper, 21 pages.
-* **Kling, M.** and I. Hough (2011). Air travel carbon and energy efficiency: case studies, best practices, industry trends, airline rankings. Brighter Planet, Inc. White paper, 25 pages, presented at the 2012 Conference of the Institute for Computational Sustainability, Copenhagen, Denmark.   [[pdf](/assets/aviation_emissions.pdf)]
+* **Kling, M.** and I. Hough (2011). Air travel carbon and energy efficiency: case studies, best practices, industry trends, airline rankings. Brighter Planet, Inc. White paper, 25 pages, presented at the 2012 Conference of the Institute for Computational Sustainability, Copenhagen, Denmark.  [[pdf](/assets/aviation_emissions.pdf)]
 * **Kling, M.** and I. Hough (2011). Employee Engagement in Sustainability. Brighter Planet, Inc. White paper, 38 pages.
 * **Kling, M.** and I. Hough (2010).  The American carbon foodprint: understanding your food’s impact on climate change. Brighter Planet, Inc. White paper, 19 pages.   [[pdf](/assets/carbon_foodprint.pdf)]
 * **Kling, M.** (2003).  The ecophysiology of alpine treeline: spatial patterns in balsam fir (*Abies balsamea*) growth and water relations on Mount Abraham, Vermont. Senior thesis presented for departmental high honors, Conservation Biology/Environmental Studies, Middlebury College.
