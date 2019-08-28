@@ -47,7 +47,7 @@ Conservation Biology & Environmental Studies, Middlebury College
 
 ##### JOURNAL ARTICLES
 * **Kling, M.**, and D. Ackerly. Global wind patterns and the resilience of wind-dispersed species to climate change. *In review.*
-* **Kling, M.**, S. Auer, P. Comer, D. Ackerly, and H. Hamilton. Multiple axes of vegetation vulnerability to climate change. *In review.*
+* **Kling, M.**, S. Auer, P. Comer, D. Ackerly, and H. Hamilton. Multiple axes of ecological vulnerability to climate change. *In review.*
 * Oldfather, M., S. Sheth, **M. Kling**, N. Emery, and D. Ackerly. Range Edges in Heterogeneous Landscapes: Incorporating Realistic Landscapes into Range Dynamics. *In review.*
 * Ackerly, D., **M. Kling**, M. Clark, P. Papper, M. Oldfather, A. Flint and L. Flint. Topoclimates and Biotic Responses to Climate Change: Which locations on the landscape will be most sensitive? *In review.*
 * Stevens, J., **M. Kling**, D. Schwilk, M. Varner, and J. Kane. Biogeography of fire regimes in western US conifer forests: a trait-based approach. *In review.*
