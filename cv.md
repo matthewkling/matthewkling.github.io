@@ -48,9 +48,9 @@ Conservation Biology & Environmental Studies, Middlebury College
 ##### JOURNAL ARTICLES
 * **Kling, M.**, and D. Ackerly. Global wind patterns and the resilience of wind-dispersed species to climate change. *In review.*
 * **Kling, M.**, S. Auer, P. Comer, D. Ackerly, and H. Hamilton. Multiple axes of ecological vulnerability to climate change. *In review.*
-* Oldfather, M., S. Sheth, **M. Kling**, N. Emery, and D. Ackerly. Range Edges in Heterogeneous Landscapes: Incorporating Realistic Landscapes into Range Dynamics. *In review.*
-* Ackerly, D., **M. Kling**, M. Clark, P. Papper, M. Oldfather, A. Flint and L. Flint. Topoclimates and Biotic Responses to Climate Change: Which locations on the landscape will be most sensitive? *In review.*
+* Oldfather, M., **M. Kling**, S. Sheth, N. Emery, and D. Ackerly. Range Edges in Heterogeneous Landscapes: Incorporating Realistic Landscapes into Range Dynamics. *In review.*
 * Stevens, J., **M. Kling**, D. Schwilk, M. Varner, and J. Kane. Biogeography of fire regimes in western US conifer forests: a trait-based approach. *In review.*
+* Ackerly, D., **M. Kling**, M. Clark, P. Papper, M. Oldfather, A. Flint and L. Flint. Topoclimates and Biotic Responses to Climate Change: Which locations on the landscape will be most sensitive? *in press.*
 * Comer, P., J. Hak, M. Reid, S. Auer, K. Schulz, H. Hamilton, R. Smyth, and **M. Kling**. (2019) Habitat Climate Change Vulnerability Index Applied to Major Vegetation Types of the Western Interior United States. Land 8(7): 108. [[web](https://doi.org/10.3390/land8070108), [pdf](/assets/Comer_et_al_Land_2019.pdf)]
 * Skelton, R., Anderegg, L., Papper, P., Dawson, T., **Kling, M.**, Thompson, S., Diaz, J., Reich, E., and D. Ackerly. (2019) No local adaptation in leaf or stem xylem vulnerability to embolism, but consistent vulnerability segmentation in a North American oak. New Phytologist 223(3): 1296-1306. [[web](https://doi.org/10.1111/nph.15886)]
 * Daru, B., **M. Kling**, E. Meineke, and A. van Wyk. (2019) Temperature controls phenology in continuously flowering *Protea* species of subtropical Africa. Applications in Plant Sciences. [[web](https://bsapubs.onlinelibrary.wiley.com/doi/full/10.1002/aps3.1232), [pdf](/assets/Daru_et_al-2019-Applications_in_Plant_Sciences.pdf)]
@@ -62,7 +62,7 @@ Conservation Biology & Environmental Studies, Middlebury College
 * Sterner, R., **M. Kling**, S. Schwiff, and D. Slate (2003). Oral rabies vaccination: reducing economic uncertainty via response surface analysis. Proceedings of the 10th Wildlife Damage Management Conference (K. Fagerstone, G. Witmer, Eds).
 
 ##### TALKS & POSTERS PRESENTED
-* **Kling, M.** (2019, Oct). Protecting the tree of life: considering past and future evolution in conservation planning. Invited talk presented at the Half-Earth Day symposium, Berkeley, California.
+* **Kling, M.** (2019, Oct). Protecting the tree of life: considering past and future macroevolution in conservation planning. Invited talk presented at the Half-Earth Day symposium, Berkeley, California.
 * **Kling, M.** (2019, Sep). Seeds of change: climate-smart seed collection for ecological restoration. Invited talk presented at the Bay Area National Park Science Symposium, San Francisco, California.
 * **Kling, M.** and Ackerly, D. (2019, Jul). Winds of change: wind connectivity, gene flow, and climate adaptation in trees. Talk presented at Species on the Move, Kruger, South Africa.
 * **Kling, M.** (2019, May). Save the trees: informing conservation planning with multiple facets of phylodiversity. Invited talk presented at Hennig XXXVIII symposium, Berkeley, California.
