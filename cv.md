@@ -62,7 +62,7 @@ Conservation Biology & Environmental Studies, Middlebury College
 * Sterner, R., **M. Kling**, S. Schwiff, and D. Slate (2003). Oral rabies vaccination: reducing economic uncertainty via response surface analysis. Proceedings of the 10th Wildlife Damage Management Conference (K. Fagerstone, G. Witmer, Eds).
 
 ##### TALKS & POSTERS PRESENTED
-* **Kling, M.** (2019, Oct). Protecting the tree of life: considering past and future macroevolution in conservation planning. Invited talk presented at the Half-Earth Day symposium, Berkeley, California.
+* **Kling, M.** (2019, Oct). California plant conservation gaps: an evolutionary perspective. Invited talk presented at the Half-Earth Day symposium, Berkeley, California.
 * **Kling, M.** (2019, Sep). Seeds of change: climate-smart seed collection for ecological restoration. Invited talk presented at the Bay Area National Park Science Symposium, San Francisco, California.
 * **Kling, M.** and Ackerly, D. (2019, Jul). Winds of change: wind connectivity, gene flow, and climate adaptation in trees. Talk presented at Species on the Move, Kruger, South Africa.
 * **Kling, M.** (2019, May). Save the trees: informing conservation planning with multiple facets of phylodiversity. Invited talk presented at Hennig XXXVIII symposium, Berkeley, California.
