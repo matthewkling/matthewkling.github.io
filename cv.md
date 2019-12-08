@@ -48,9 +48,9 @@ Conservation Biology & Environmental Studies, Middlebury College
 ##### JOURNAL ARTICLES
 * **Kling, M.**, and D. Ackerly. Global wind patterns and the resilience of wind-dispersed species to climate change. *In review.*
 * **Kling, M.**, S. Auer, P. Comer, D. Ackerly, and H. Hamilton. Multiple axes of ecological vulnerability to climate change. *In review.*
-* Oldfather, M., **M. Kling**, S. Sheth, N. Emery, and D. Ackerly. Range Edges in Heterogeneous Landscapes: Incorporating Realistic Landscapes into Range Dynamics. *In review.*
 * Stevens, J., **M. Kling**, D. Schwilk, M. Varner, and J. Kane. Biogeography of fire regimes in western US conifer forests: a trait-based approach. *In review.*
 * Ackerly, D., **M. Kling**, M. Clark, P. Papper, M. Oldfather, A. Flint and L. Flint. Topoclimates and Biotic Responses to Climate Change: Which locations on the landscape will be most sensitive? Frontiers in Ecology and the Environment: *in press.*
+* Oldfather, M., **M. Kling**, S. Sheth, N. Emery, and D. Ackerly. (2019) Range Edges in Heterogeneous Landscapes: Incorporating Realistic Landscapes into Range Dynamics. Global Change Biology. [[web](https://doi.org/10.1111/gcb.14897)]
 * Comer, P., J. Hak, M. Reid, S. Auer, K. Schulz, H. Hamilton, R. Smyth, and **M. Kling**. (2019) Habitat Climate Change Vulnerability Index Applied to Major Vegetation Types of the Western Interior United States. Land 8(7): 108. [[web](https://doi.org/10.3390/land8070108), [pdf](/assets/Comer_et_al_Land_2019.pdf)]
 * Skelton, R., Anderegg, L., Papper, P., Dawson, T., **Kling, M.**, Thompson, S., Diaz, J., Reich, E., and D. Ackerly. (2019) No local adaptation in leaf or stem xylem vulnerability to embolism, but consistent vulnerability segmentation in a North American oak. New Phytologist 223(3): 1296-1306. [[web](https://doi.org/10.1111/nph.15886)]
 * Daru, B., **M. Kling**, E. Meineke, and A. van Wyk. (2019) Temperature controls phenology in continuously flowering *Protea* species of subtropical Africa. Applications in Plant Sciences. [[web](https://bsapubs.onlinelibrary.wiley.com/doi/full/10.1002/aps3.1232), [pdf](/assets/Daru_et_al-2019-Applications_in_Plant_Sciences.pdf)]
@@ -61,13 +61,17 @@ Conservation Biology & Environmental Studies, Middlebury College
 * Baldwin, B., A. Thornhill, W. Freyman, D. Ackerly, **M. Kling**, N. Morueta-Holme, and B. Mishler (2017). Species richness and endemism in the native flora of California. American Journal of Botany, 104(3): 487–501.   [[web](http://www.amjbot.org/content/104/3/487.full), [pdf](/assets/Baldwin_et_al_AJB_2017.pdf)]
 * Sterner, R., **M. Kling**, S. Schwiff, and D. Slate (2003). Oral rabies vaccination: reducing economic uncertainty via response surface analysis. Proceedings of the 10th Wildlife Damage Management Conference (K. Fagerstone, G. Witmer, Eds).
 
-##### TALKS & POSTERS PRESENTED
-* **Kling, M.** (2019, Oct). California plant conservation gaps: an evolutionary perspective. Invited talk presented at the Half-Earth Day symposium, Berkeley, California.
-* **Kling, M.** (2019, Sep). Seeds of change: climate-smart seed collection for ecological restoration. Invited talk presented at the Bay Area National Park Science Symposium, San Francisco, California.
-* **Kling, M.** and Ackerly, D. (2019, Jul). Winds of change: wind connectivity, gene flow, and climate adaptation in trees. Talk presented at Species on the Move, Kruger, South Africa.
-* **Kling, M.** (2019, May). Save the trees: informing conservation planning with multiple facets of phylodiversity. Invited talk presented at Hennig XXXVIII symposium, Berkeley, California.
+##### INVITED TALKS
+* **Kling, M.** (2019, Dec). California plant conservation gaps: an evolutionary perspective. Mary Bowerman Science & Research Colloquium, Berkeley, California.
+* **Kling, M.** (2019, Dec). Macroecology and global change. Carnegie Institution at Stanford, Palo Alto, California.
+* **Kling, M.** (2019, Oct). California plant conservation gaps: an evolutionary perspective. Half-Earth Day symposium, Berkeley, California.
+* **Kling, M.** (2019, Sep). Seeds of change: climate-smart seed collection for ecological restoration. Bay Area National Park Science Symposium, San Francisco, California.
+* **Kling, M.** (2019, May). Save the trees: informing conservation planning with multiple facets of phylodiversity. Hennig XXXVIII symposium, Berkeley, California.
 * **Kling, M.** S. Brown, A. Harvey, and P. Gonzalez (2019, May). Seeds of change: climate-smart seed provenancing for ecological restoration. Invited lecture presented at US National Park Service, San Francisco, California.
 * **Kling, M.**, B. Mishler, B. Baldwin, A. Thornhill, and D. Ackerly (2018, Sep). Future conservation priorities for the California flora: weighing alternative dimensions of evolutionary diversity. Talk presented at Botany Lunch seminar series, Berkeley, California.
+
+##### CONTRIUBTED TALKS & POSTERS
+* **Kling, M.** and Ackerly, D. (2019, Jul). Winds of change: wind connectivity, gene flow, and climate adaptation in trees. Talk presented at Species on the Move, Kruger, South Africa.
 * **Kling, M.**, B. Mishler, B. Baldwin, A. Thornhill, and D. Ackerly (2018, Jul). Conserving the evolutionary diversity of the California flora. Talk presented at North American Congress for Conservation Biology, Toronto, Canada.
 * **Kling, M.**, B. Mishler, B. Baldwin, A. Thornhill, and D. Ackerly (2018, Jun). Future priorities for conserving the evolutionary diversity of the California flora. Talk presented at  the Digital Data in Biodiversity Research Conference, Berkeley, CA.
 * **Kling, M.** (2016, Dec). Multidecadal historic trends in California's coastal fog. Poster presented at American Geophysical Union, San Francisco, CA. [[pdf](/assets/agu_fog_poster.pdf)]
@@ -84,7 +88,6 @@ Conservation Biology & Environmental Studies, Middlebury College
 * **Kling, M.** and I. Hough (2011). Employee Engagement in Sustainability. Brighter Planet, Inc. White paper, 38 pages.
 * **Kling, M.** and I. Hough (2010).  The American carbon foodprint: understanding your food’s impact on climate change. Brighter Planet, Inc. White paper, 19 pages.   [[pdf](/assets/carbon_foodprint.pdf)]
 * **Kling, M.** (2003).  The ecophysiology of alpine treeline: spatial patterns in balsam fir (*Abies balsamea*) growth and water relations on Mount Abraham, Vermont. Senior thesis presented for departmental high honors, Conservation Biology/Environmental Studies, Middlebury College.
-
 
 ##### PROFESSIONAL MEMBERSHIPS
 * Ecological Society of America

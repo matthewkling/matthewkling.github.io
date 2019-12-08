@@ -8,7 +8,7 @@ ads: false
 share: false
 tags: []
 image:
-  feature: shapeshift_1600.png
+  feature: wind_temp_trails.png
   teaser:
 ---
 
