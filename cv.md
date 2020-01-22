@@ -47,9 +47,9 @@ Conservation Biology & Environmental Studies, Middlebury College
 
 ##### JOURNAL ARTICLES
 * **Kling, M.**, and D. Ackerly. Global wind patterns and the resilience of wind-dispersed species to climate change. *In review.*
-* **Kling, M.**, S. Auer, P. Comer, D. Ackerly, and H. Hamilton. Multiple axes of ecological vulnerability to climate change. *In review.*
 * Stevens, J., **M. Kling**, D. Schwilk, M. Varner, and J. Kane. Biogeography of fire regimes in western US conifer forests: a trait-based approach. *In review.*
 * Ackerly, D., **M. Kling**, M. Clark, P. Papper, M. Oldfather, A. Flint and L. Flint. Topoclimates and Biotic Responses to Climate Change: Which locations on the landscape will be most sensitive? Frontiers in Ecology and the Environment: *in press.*
+* **Kling, M.**, S. Auer, P. Comer, D. Ackerly, and H. Hamilton. (2020) Multiple axes of ecological vulnerability to climate change. Global Change Biology. *In press.*
 * Oldfather, M., **M. Kling**, S. Sheth, N. Emery, and D. Ackerly. (2019) Range Edges in Heterogeneous Landscapes: Incorporating Realistic Landscapes into Range Dynamics. Global Change Biology. [[web](https://doi.org/10.1111/gcb.14897)]
 * Comer, P., J. Hak, M. Reid, S. Auer, K. Schulz, H. Hamilton, R. Smyth, and **M. Kling**. (2019) Habitat Climate Change Vulnerability Index Applied to Major Vegetation Types of the Western Interior United States. Land 8(7): 108. [[web](https://doi.org/10.3390/land8070108), [pdf](/assets/Comer_et_al_Land_2019.pdf)]
 * Skelton, R., Anderegg, L., Papper, P., Dawson, T., **Kling, M.**, Thompson, S., Diaz, J., Reich, E., and D. Ackerly. (2019) No local adaptation in leaf or stem xylem vulnerability to embolism, but consistent vulnerability segmentation in a North American oak. New Phytologist 223(3): 1296-1306. [[web](https://doi.org/10.1111/nph.15886)]
@@ -63,12 +63,12 @@ Conservation Biology & Environmental Studies, Middlebury College
 
 ##### INVITED TALKS
 * **Kling, M.** (2019, Dec). California plant conservation gaps: an evolutionary perspective. Mary Bowerman Science & Research Colloquium, Berkeley, California.
-* **Kling, M.** (2019, Dec). Macroecology and global change. Carnegie Institution at Stanford, Palo Alto, California.
+* **Kling, M.** (2019, Dec). Winds of change: global wind patterns and the resilience of biodiversity to climate change. Carnegie Institution at Stanford, Palo Alto, California.
 * **Kling, M.** (2019, Oct). California plant conservation gaps: an evolutionary perspective. Half-Earth Day symposium, Berkeley, California.
 * **Kling, M.** (2019, Sep). Seeds of change: climate-smart seed collection for ecological restoration. Bay Area National Park Science Symposium, San Francisco, California.
 * **Kling, M.** (2019, May). Save the trees: informing conservation planning with multiple facets of phylodiversity. Hennig XXXVIII symposium, Berkeley, California.
-* **Kling, M.** S. Brown, A. Harvey, and P. Gonzalez (2019, May). Seeds of change: climate-smart seed provenancing for ecological restoration. Invited lecture presented at US National Park Service, San Francisco, California.
-* **Kling, M.**, B. Mishler, B. Baldwin, A. Thornhill, and D. Ackerly (2018, Sep). Future conservation priorities for the California flora: weighing alternative dimensions of evolutionary diversity. Talk presented at Botany Lunch seminar series, Berkeley, California.
+* **Kling, M.** S. Brown, A. Harvey, and P. Gonzalez (2019, May). Seeds of change: climate-smart seed provenancing for ecological restoration. US National Park Service workshop, San Francisco, California.
+* **Kling, M.**, B. Mishler, B. Baldwin, A. Thornhill, and D. Ackerly (2018, Sep). Future conservation priorities for the California flora: weighing alternative dimensions of evolutionary diversity. Botany Lunch seminar series, Berkeley, California.
 
 ##### CONTRIUBTED TALKS & POSTERS
 * **Kling, M.** and Ackerly, D. (2019, Jul). Winds of change: wind connectivity, gene flow, and climate adaptation in trees. Talk presented at Species on the Move, Kruger, South Africa.
