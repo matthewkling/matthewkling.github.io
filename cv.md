@@ -47,8 +47,8 @@ Conservation Biology & Environmental Studies, Middlebury College
 
 ##### JOURNAL ARTICLES
 * Skelton, R., L. Anderegg, J. Diaz, **M. Kling**, P. Papper, L. Lamarque, S. Delzon, T. Dawson, and D. Ackerly. Evolutionary relationships between drought-related traits and climate shaped large hydraulic safety margins in North American oaks. *In review.*
-* **Kling, M.**, and D. Ackerly. Global wind patterns and the resilience of wind-dispersed species to climate change. *In review.*
-* Ackerly, D., **M. Kling**, M. Clark, P. Papper, M. Oldfather, A. Flint and L. Flint. Topoclimates and Biotic Responses to Climate Change: Which locations on the landscape will be most sensitive? Frontiers in Ecology and the Environment: *in press.*
+* **Kling, M.**, and D. Ackerly. (2020) Global wind patterns and the vulnerability of wind-dispersed species to climate change. Nature Climate Change: *in press.*
+* Ackerly, D., **M. Kling**, M. Clark, P. Papper, M. Oldfather, A. Flint and L. Flint. Topoclimates and Biotic Responses to Climate Change: Which locations on the landscape will be most sensitive? Frontiers in Ecology and the Environment, 18(5): 288–297* [[web](https://doi.org/10.1002/fee.2204), [pdf](/assets/Ackerly_et_al_FEE_2020.pdf)]
 * Stevens, J., **M. Kling**, D. Schwilk, M. Varner, and J. Kane. Biogeography of fire regimes in western US conifer forests: a trait-based approach. (2020) Global Ecology and Biogeography, 29: 944-955. [[web](https://onlinelibrary.wiley.com/doi/full/10.1111/geb.13079), [pdf](/assets/Stevens_et_al_2020.pdf)]
 * **Kling, M.**, S. Auer, P. Comer, D. Ackerly, and H. Hamilton. (2020) Multiple axes of ecological vulnerability to climate change. Global Change Biology, 26: 2798-2813. [[web](https://doi.org/10.1111/gcb.15008), [pdf](/assets/Kling_et_al_2020.pdf)]
 * Oldfather, M., **M. Kling**, S. Sheth, N. Emery, and D. Ackerly. (2019) Range Edges in Heterogeneous Landscapes: Incorporating Realistic Landscapes into Range Dynamics. Global Change Biology, 26: 1055-1067. [[web](https://doi.org/10.1111/gcb.14897), [pdf](/assets/Oldfather_et_al_2019.pdf)]
@@ -72,7 +72,10 @@ Conservation Biology & Environmental Studies, Middlebury College
 * **Kling, M.**, B. Mishler, B. Baldwin, A. Thornhill, and D. Ackerly (2018, Sep). Future conservation priorities for the California flora: weighing alternative dimensions of evolutionary diversity. Botany Lunch seminar series, Berkeley, California.
 
 ##### CONTRIUBTED TALKS & POSTERS
-* **Kling, M.** and Ackerly, D. (2019, Jul). Winds of change: wind connectivity, gene flow, and climate adaptation in trees. Talk presented at Species on the Move, Kruger, South Africa.
+
+* **Kling, M.** and D. Ackerly (2020, Aug). Isolation by wind: wind connectivity shapes the landscape genetics of the world's forests. Talk presented at Ecological Society of America, virtual conference.
+* **Kling, M.** H. Hamilton, D. Ackerly, P. Comer, and S. Auer (2020, Jul). Dimensions of climate change vulnerability and their management implications. Talk presented at North American Congress for Conservation Biology, virtual conference.
+* **Kling, M.** and D. Ackerly (2019, Jul). Winds of change: wind connectivity, gene flow, and climate adaptation in trees. Talk presented at Species on the Move, Kruger, South Africa.
 * **Kling, M.**, B. Mishler, B. Baldwin, A. Thornhill, and D. Ackerly (2018, Jul). Conserving the evolutionary diversity of the California flora. Talk presented at North American Congress for Conservation Biology, Toronto, Canada.
 * **Kling, M.**, B. Mishler, B. Baldwin, A. Thornhill, and D. Ackerly (2018, Jun). Future priorities for conserving the evolutionary diversity of the California flora. Talk presented at  the Digital Data in Biodiversity Research Conference, Berkeley, CA.
 * **Kling, M.** (2016, Dec). Multidecadal historic trends in California's coastal fog. Poster presented at American Geophysical Union, San Francisco, CA. [[pdf](/assets/agu_fog_poster.pdf)]
