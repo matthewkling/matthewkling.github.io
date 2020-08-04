@@ -8,7 +8,7 @@ ads: false
 share: false
 tags: []
 image:
-  feature: wind_temp_trails.png
+  feature: wind_1600.jpeg
   teaser:
 ---
 
