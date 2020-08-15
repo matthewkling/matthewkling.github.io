@@ -14,7 +14,7 @@ image:
 
 <div class="tile">
   <h2 class="post-title">Ecological research</h2>
-  <p class="post-excerpt">I'm a Berkeley PhD student with <a href="/research">research interests</a> in biogeography, climate change, and conservation.</p>
+  <p class="post-excerpt">I'm a Berkeley postdoc with <a href="/research">research interests</a> in biogeography, climate change, and conservation.</p>
 </div><!-- /.tile -->
 
 <div class="tile">
