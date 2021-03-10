@@ -48,7 +48,7 @@ Conservation Biology & Environmental Studies, Middlebury College
 
 ##### JOURNAL ARTICLES
 * **Kling, M.**, and D. Ackerly. Isolation by wind: global atmospheric currents shape genetic differentiation, asymmetric gene flow, and genetic diversity in trees. *In revision.*
-* Skelton, R., L. Anderegg, J. Diaz, **M. Kling**, P. Papper, L. Lamarque, S. Delzon, T. Dawson, and D. Ackerly. Evolutionary relationships between drought-related traits and climate shaped large hydraulic safety margins in North American oaks. *In revision.*
+* Skelton, R., L. Anderegg, J. Diaz, **M. Kling**, P. Papper, L. Lamarque, S. Delzon, T. Dawson, and D. Ackerly. Evolutionary relationships between drought-related traits and climate shaped large hydraulic safety margins in North American oaks. Proceedings of the National Academy of Sciences, 118(10) [[web](https://doi.org/10.1073/pnas.2008987118)]
 * **Kling, M.**, and D. Ackerly. (2020) Global wind patterns and the vulnerability of wind-dispersed species to climate change. Nature Climate Change, 10: 868-875 [[web](https://doi.org/10.1038/s41558-020-0848-3)]
 * Ackerly, D., **M. Kling**, M. Clark, P. Papper, M. Oldfather, A. Flint and L. Flint. Topoclimates and Biotic Responses to Climate Change: Which locations on the landscape will be most sensitive? Frontiers in Ecology and the Environment, 18(5): 288–297 [[web](https://doi.org/10.1002/fee.2204), [pdf](/assets/Ackerly_et_al_FEE_2020.pdf)]
 * Stevens, J., **M. Kling**, D. Schwilk, M. Varner, and J. Kane. Biogeography of fire regimes in western US conifer forests: a trait-based approach. (2020) Global Ecology and Biogeography, 29: 944-955. [[web](https://onlinelibrary.wiley.com/doi/full/10.1111/geb.13079), [pdf](/assets/Stevens_et_al_2020.pdf)]
@@ -104,10 +104,13 @@ Conservation Biology & Environmental Studies, Middlebury College
 
 ##### PEER REVIEWER
 * Biological Conservation
+* Conservation Science & Practice
+* Diversity & Distributions
 * Global Change Biology
 * Global Ecology & Biogeography
 * Heredity
 * Journal of Biogeography
+* Landscape Ecology
 * PeerJ
 * Philosophical Transactions of the Royal Society: B
 * PLOS One
