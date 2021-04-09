@@ -9,7 +9,7 @@ image:
 ---
 
 Matthew Kling <br>
-PhD Student <br>
+Postdoctoral scholar <br>
 [Ackerly Lab](http://www.ackerlylab.org) <br>
 UC Berkeley Department of Integrative Biology <br>
 
