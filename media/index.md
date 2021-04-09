@@ -8,7 +8,7 @@ ads: false
 share: false
 tags: []
 image:
-  feature: firs_1600.jpeg
+  feature: firs_1600.png
   teaser:
 ---
 
