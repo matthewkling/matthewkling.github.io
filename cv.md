@@ -47,7 +47,7 @@ Conservation Biology & Environmental Studies, Middlebury College
 * Departmental High Honors & *Magna Cum Laude*, Middlebury College *(2005)*
 
 ##### JOURNAL ARTICLES
-* **Kling, M.**, and D. Ackerly. Global wind patterns shape genetic differentiation, asymmetric gene flow, and genetic diversity in trees. Proceedings of the National Academy of Sciences, *in press.*
+* **Kling, M.**, and D. Ackerly. (2021) Global wind patterns shape genetic differentiation, asymmetric gene flow, and genetic diversity in trees. Proceedings of the National Academy of Sciences, 118(17) [[web](https://doi.org/10.1073/pnas.2017317118)]
 * Skelton, R., L. Anderegg, J. Diaz, **M. Kling**, P. Papper, L. Lamarque, S. Delzon, T. Dawson, and D. Ackerly. Evolutionary relationships between drought-related traits and climate shaped large hydraulic safety margins in North American oaks. Proceedings of the National Academy of Sciences, 118(10) [[web](https://doi.org/10.1073/pnas.2008987118)]
 * **Kling, M.**, and D. Ackerly. (2020) Global wind patterns and the vulnerability of wind-dispersed species to climate change. Nature Climate Change, 10: 868-875 [[web](https://doi.org/10.1038/s41558-020-0848-3)]
 * Ackerly, D., **M. Kling**, M. Clark, P. Papper, M. Oldfather, A. Flint and L. Flint. Topoclimates and Biotic Responses to Climate Change: Which locations on the landscape will be most sensitive? Frontiers in Ecology and the Environment, 18(5): 288–297 [[web](https://doi.org/10.1002/fee.2204), [pdf](/assets/Ackerly_et_al_FEE_2020.pdf)]
@@ -65,6 +65,7 @@ Conservation Biology & Environmental Studies, Middlebury College
 * Sterner, R., **M. Kling**, S. Schwiff, and D. Slate (2003). Oral rabies vaccination: reducing economic uncertainty via response surface analysis. Proceedings of the 10th Wildlife Damage Management Conference (K. Fagerstone, G. Witmer, Eds).
 
 ##### INVITED TALKS
+* **Kling, M.** (2021, Jun). Windscape connectivity modeling for biogeography. BEYOND seminar series, INRAE, Avignon, France.
 * **Kling, M.** (2019, Dec). California plant conservation gaps: an evolutionary perspective. Mary Bowerman Science & Research Colloquium, Berkeley, California.
 * **Kling, M.** (2019, Dec). Winds of change: global wind patterns and the resilience of biodiversity to climate change. Carnegie Institution at Stanford, Palo Alto, California.
 * **Kling, M.** (2019, Oct). California plant conservation gaps: an evolutionary perspective. Half-Earth Day symposium, Berkeley, California.
