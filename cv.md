@@ -66,6 +66,8 @@ Conservation Biology & Environmental Studies, Middlebury College
 * Sterner, R., **M. Kling**, S. Schwiff, and D. Slate (2003). Oral rabies vaccination: reducing economic uncertainty via response surface analysis. Proceedings of the 10th Wildlife Damage Management Conference (K. Fagerstone, G. Witmer, Eds).
 
 ##### INVITED TALKS
+* **Kling, M.** (2022, Feb). Whither, whence, and whether: modeling the ability of plant biodiversity to track climate change. UVM Plant Biology department seminar, Burlington, Vermont.
+* **Kling, M.** (2021, Nov). Emigrate, Evolve, Endure, or go Extinct: climate change vulnerability modeling in biogeography. UVM Biology department seminar, Burlington, Vermont.
 * **Kling, M.** (2021, Jun). Windscape connectivity modeling for biogeography. BEYOND seminar series, INRAE, Avignon, France.
 * **Kling, M.** (2019, Dec). California plant conservation gaps: an evolutionary perspective. Mary Bowerman Science & Research Colloquium, Berkeley, California.
 * **Kling, M.** (2019, Dec). Winds of change: global wind patterns and the resilience of biodiversity to climate change. Carnegie Institution at Stanford, Palo Alto, California.
