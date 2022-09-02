@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>Natlas</title>
+<meta name="description" content="Macroecology &amp; global change">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="all,follow">
+<meta name="googlebot" content="index,follow,snippet,archive">
+<link rel="stylesheet" href="https://example.org/css/bootstrap.min.css">
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:400,300,700,400italic">
+<link rel="stylesheet" href="https://example.org/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://example.org/css/owl.carousel.css">
+<link rel="stylesheet" href="https://example.org/css/owl.theme.css">
+
+
+  <link href="https://example.org/css/style.sea.css" rel="stylesheet" id="theme-stylesheet">
+
+ 
+
+  
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+        <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  
+
+
+<link href="https://example.org/css/custom.css" rel="stylesheet">
+<link rel="shortcut icon" href="https://example.org/img/favicon.png">
+
+
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-77357249-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+</head>
+<body>
+  <div id="all">
+      <div class="container-fluid">
+          <div class="row row-offcanvas row-offcanvas-left">
+              <div id="sidebar" class="col-xs-6 col-sm-4 col-md-3 sidebar-offcanvas">
+  <div class="sidebar-content">
+    <h1 class="sidebar-heading"><a href="https://example.org/">Matthew Kling</a></h1>
+    
+      <p class="sidebar-p">I'm an ecologist and data scientist focused on understanding biodiversity patterns and informing conservation under global environmental change. I conduct empirical research, develop modeling tools, and create data visualizations. I am currently a postdoctoral fellow at UVM.</p>
+    
+    <ul class="sidebar-menu">
+      
+        <li><a href="https://example.org/media/">Work</a></li>
+      
+        <li><a href="https://example.org/about/">About</a></li>
+      
+        <li><a href="https://example.org/cv/">CV</a></li>
+      
+        <li><a href="https://example.org/contact/">Contact</a></li>
+      
+    </ul>
+    <p class="social">
+  
+  
+  
+  <a href="full%20profile%20url%20in%20twitter" data-animate-hover="pulse" class="external twitter">
+    <i class="fa fa-twitter"></i>
+  </a>
+  
+  
+  
+  <a href="mailto:mkling@uvm.edu" data-animate-hover="pulse" class="email">
+    <i class="fa fa-envelope"></i>
+  </a>
+  
+  
+  
+  
+  <a href="https://github.com/matthewkling" data-animate-hover="pulse" class="external">
+    <i class="fa fa-github"></i>
+  </a>
+  
+  
+  
+</p>
+
+
+    <div class="copyright">
+      <p style="font-size:70%;", class="credit">
+        
+          &copy;2022 Matthew Kling
+        
+        <br> Template by <a href="https://bootstrapious.com/free-templates" class="external">Bootstrapious</a>,  
+      
+      Hugo port by <a href="https://github.com/kishaningithub">Kishan B</a>
+
+
+      </p>
+    </div>
+  </div>
+</div>
+
+              
+<div class="col-xs-12 col-sm-8 col-md-9 content-column white-background">
+  <div class="small-navbar visible-xs">
+  <button type="button" data-toggle="offcanvas" class="btn btn-ghost pull-left"> <i class="fa fa-align-left"> </i>Menu</button>
+  <h1 class="small-navbar-heading"><a href="https://example.org/">Matthew Kling</a></h1>
+</div>
+
+  <div class="row">
+    <div class="col-lg-8">
+      <div class="content-column-content">
+         <h1>Natlas</h1>
+         <p>An atlas of citizen naturalist observations.</p>
+<p><a href="https://matthewkling.github.io/natlas/"><img src="/img/images/natlas.png" alt="NATLAS"></a></p>
+<p>[Update: since the tool launched, updates to certain web browsers have made them incompatible with this tool. At last check, NATLAS was working nicely in Safari but was buggy in Chrome. I hope to get this fixed soon.]</p>
+<p>I finally got the excuse I needed to learn d3.js, while leading the data visualization portion of a recent team project with the National Park Service through the Bekeley DS421 program. We used iNaturalist data to create <a href="https://matthewkling.github.io/natlas/">NATLAS</a>, a little web app that lets users explore citizen science biodiversity observations made in national parks near San Francisco. If you don&rsquo;t know <a href="http://inaturalist.org">iNaturalist</a>, you should &ndash; it&rsquo;s an awesome platform that lets users document species occurrences with a smartphone app, collectively generating a huge crowd-sourced dataset on what biodiversity is present when and where. And they open-source their data, empowering the rest of us to conduct research and conservation alayses or create applications like NATLAS.</p>
+<p>NATLAS is an interactive dashboard that visualizes taxonomic, geographic, temporal, and human patterns in observations made in Point Reyes National Seashore and Golden Gate National Recreation Area. For now it&rsquo;s just a prototype with more locations and features planned in the future, but go ahead and play around.</p>
+<p>The most fun piece is the sunburst plot in the upper left, a zoomable tree of life for all observed species in the park that also serves as a pie chart indicating the number of observations, observers, or species per taxon. There&rsquo;s something oddly compelling about clicking around the tree, I&rsquo;ve spent more time doing that than I&rsquo;d like to admit.</p>
+<p>The scatterplot classifies every cell phone naturalist in the database, ranging from one-time dablers to seasoned devotees, and lets you explore the observations made by each one. The map and timelines are more self-explanatory. In the center, you can click to toggle between parks, between types of taxonomic tree, and between summarizing data by observers, observations, or species. Photos and more info for each taxon can be accessed by the link on the titlebar to the iNaturalist website.</p>
+         
+      </div>
+    </div>
+  </div>
+</div>
+
+          </div>
+      </div>
+  </div>
+  <script src="https://example.org/js/jquery.min.js"></script>
+<script src="https://example.org/js/bootstrap.min.js"></script>
+<script src="https://example.org/js/jquery.cookie.js"> </script>
+<script src="https://example.org/js/ekko-lightbox.js"></script>
+<script src="https://example.org/js/jquery.scrollTo.min.js"></script>
+<script src="https://example.org/js/masonry.pkgd.min.js"></script>
+<script src="https://example.org/js/imagesloaded.pkgd.min.js"></script>
+<script src="https://example.org/js/owl.carousel.min.js"></script>
+<script src="https://example.org/js/front.js"></script>
+
+</body>
+</html>
