@@ -2,7 +2,7 @@
 <html lang="en-us">
 <head><meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<title>Multidimensional color ramps in R</title>
+<title>Multidimensional color ramps</title>
 <meta name="description" content="Matthew Kling">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="all,follow">
@@ -114,8 +114,8 @@ if (!doNotTrack) {
   <div class="row">
     <div class="col-lg-8">
       <div class="content-column-content">
-         <h1>Multidimensional color ramps in R</h1>
-         <p>Taking better advantage of 3D colorspace.</p>
+         <h1>Multidimensional color ramps</h1>
+         <p>An R package for taking advantage of 3D colorspace.</p>
 <p>RGB, HSV, JCh&hellip; colorspace is three dimensional. In data visualization color is generally treated one-dimensionally, however. The typical color ramp is a line through 3D colorspace that encodes a single numeric variable. But we can take better advantage of color&rsquo;s inherent dimensionality, using it to encode two or three numeric variables at once.</p>
 <p><img src="/img/images/minority_vs_poverty.png" alt="Minority versus poverty"></p>
 <p>In the above <a href="https://matthewkling.shinyapps.io/demographics_of_disaster/">visualization</a> (created as part of the <a href="http://ds421.berkeley.edu">DS421</a> NRT program) for example, a 2D color ramp on the lefthand panel facilitates simultaneous mapping of both poverty and race. Or in the chart below (created as part of the <a href="http://ucjeps.berkeley.edu/bryolab/CPPP/index.html">California Phylodiversity Project</a>), a 3D color mapping represents variation in the phylogenetic composition of plant communities across California (places with similar color have similar floristic communities; if it had a legend, it would be 3D point cloud filling RGB space).</p>
@@ -154,8 +154,7 @@ plot(v, col=colors, pch=16,
 col &lt;- clim[[c(1,1,1)]]
 col[] &lt;- t(col2rgb(colors))
 plotRGB(col)
-</code></pre><p>{: .language-r}</p>
-<h4 id="on-perceptual-uniformity">On perceptual uniformity</h4>
+</code></pre><h4 id="on-perceptual-uniformity">On perceptual uniformity</h4>
 <p>This treatment of colorspace leaves a couple things to be desired. First off there&rsquo;s colorblindness, which shrinks and distorts visible colorspace. And then there&rsquo;s <a href="https://www.youtube.com/watch?v=xAoljeRJ3lU">perceptual non-uniformity</a>, i.e. the notion that because humans' ability to discern color differences varies across RGB colorspace, using color ramps that are linear in RGB space biases user interpretation of data visualizations. Both these issues prevent viewers from correctly perceiving the true patterns in the data.</p>
 <p>In R, <a href="https://cran.r-project.org/web/packages/viridis/index.html">viridis</a> overcomes both these problems for one-dimensional color ramps. That should be doable in 2D and 3D color mappings as well, building on tools like <a href="https://pypi.python.org/pypi/colorspacious/">colorspacious</a>&hellip; I&rsquo;d like to look into implementing that at some point.</p>
          

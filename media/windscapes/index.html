@@ -115,7 +115,7 @@ if (!doNotTrack) {
     <div class="col-lg-8">
       <div class="content-column-content">
          <h1>Windscapes</h1>
-         <p>Interactive visualization of wind dispersal landscapes.</p>
+         <p>A web app for interactive visualization of wind dispersal landscapes.</p>
 <p><img src="/img/images/windscape.png" alt="windscape app screenshot"></p>
 <p>Lately I&rsquo;ve been working a lot with wind data, as part of my reasearch exploring how global wind patterns shape dispersal of seeds, pollen, and spores between sites. <a href="http://matthewkling.net/shiny/windscape/">WINDSCAPE</a> is a little interactive web tool I built (still very much under development and in beta) that models and visualizes the wind dispersal landscape, or windscape, for any location on earth. You just click the map to select a site, choose between &ldquo;inbound&rdquo; (upwind) or &ldquo;outbound&rdquo; (downwind) dispersal, and voila: a global map of relative accessibility by wind.</p>
 <p>These values are measured in &lsquo;wind hours&rsquo; &ndash; the time to reach a given location traveling by suface winds. The model utilizes the <a href="https://github.com/matthewkling/windscape"><code>windscape</code> R package</a> I developed.  It integrates over decades of hourly wind data from the <a href="https://cfs.ncep.noaa.gov/cfsr/">Climate Forecast System Renanalysis</a> to estimate long-term average wind travel times between locations. The screenshot below for example shows Hawaii&rsquo;s inbound windscape, i.e. how easy it is to get <em>to</em> Hawaii from various locations across the region traveling by near-surface winds.</p>
