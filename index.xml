@@ -2,143 +2,143 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Matthew Kling</title>
-    <link>https://example.org/</link>
+    <link>https://matthewkling.github.io/</link>
     <description>Recent content on Matthew Kling</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Oct 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 11 Oct 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://matthewkling.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Windscapes</title>
-      <link>https://example.org/media/windscapes/</link>
+      <link>https://matthewkling.github.io/media/windscapes/</link>
       <pubDate>Fri, 11 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/media/windscapes/</guid>
+      <guid>https://matthewkling.github.io/media/windscapes/</guid>
       <description>&lt;p&gt;Interactive visualization of wind dispersal landscapes.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Particle trails</title>
-      <link>https://example.org/media/trails/</link>
+      <link>https://matthewkling.github.io/media/trails/</link>
       <pubDate>Mon, 29 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/media/trails/</guid>
+      <guid>https://matthewkling.github.io/media/trails/</guid>
       <description>&lt;p&gt;Visualizing the geography of wind and climate change.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Phylogeny &amp; conservation</title>
-      <link>https://example.org/media/phycon/</link>
+      <link>https://matthewkling.github.io/media/phycon/</link>
       <pubDate>Fri, 09 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/media/phycon/</guid>
+      <guid>https://matthewkling.github.io/media/phycon/</guid>
       <description>&lt;p&gt;The California Plant Phylodiversity Atlas.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Chiaroscuro</title>
-      <link>https://example.org/media/rayshader/</link>
+      <link>https://matthewkling.github.io/media/rayshader/</link>
       <pubDate>Thu, 16 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/media/rayshader/</guid>
+      <guid>https://matthewkling.github.io/media/rayshader/</guid>
       <description>&lt;p&gt;Animating shifting sunlight over complex terrain.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Growing an evolutionary tree</title>
-      <link>https://example.org/media/trees/</link>
+      <link>https://matthewkling.github.io/media/trees/</link>
       <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/media/trees/</guid>
+      <guid>https://matthewkling.github.io/media/trees/</guid>
       <description>&lt;p&gt;Phylogeny, animated.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Seeds of change</title>
-      <link>https://example.org/media/seeds/</link>
+      <link>https://matthewkling.github.io/media/seeds/</link>
       <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/media/seeds/</guid>
+      <guid>https://matthewkling.github.io/media/seeds/</guid>
       <description>&lt;p&gt;Predictive seed provenancing for ecological restoration.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Orb weaver</title>
-      <link>https://example.org/media/orb_weaver/</link>
+      <link>https://matthewkling.github.io/media/orb_weaver/</link>
       <pubDate>Tue, 15 May 2018 18:25:22 +0530</pubDate>
       
-      <guid>https://example.org/media/orb_weaver/</guid>
+      <guid>https://matthewkling.github.io/media/orb_weaver/</guid>
       <description>&lt;p&gt;A bit of algorithmic art.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>The shape of the seasons</title>
-      <link>https://example.org/media/shapeshift/</link>
+      <link>https://matthewkling.github.io/media/shapeshift/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/media/shapeshift/</guid>
+      <guid>https://matthewkling.github.io/media/shapeshift/</guid>
       <description>&lt;p&gt;Exploring climate seasonality across regions and decades.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Multidimensional color ramps in R</title>
-      <link>https://example.org/media/colormap/</link>
+      <link>https://matthewkling.github.io/media/colormap/</link>
       <pubDate>Sun, 03 Jul 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/media/colormap/</guid>
+      <guid>https://matthewkling.github.io/media/colormap/</guid>
       <description>&lt;p&gt;Taking better advantage of 3D colorspace.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Demographics of disaster</title>
-      <link>https://example.org/media/vortex/</link>
+      <link>https://matthewkling.github.io/media/vortex/</link>
       <pubDate>Sun, 08 May 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/media/vortex/</guid>
+      <guid>https://matthewkling.github.io/media/vortex/</guid>
       <description>&lt;p&gt;Which populations bear the brunt of extreme weather?&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Natlas</title>
-      <link>https://example.org/media/natlas/</link>
+      <link>https://matthewkling.github.io/media/natlas/</link>
       <pubDate>Mon, 12 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/media/natlas/</guid>
+      <guid>https://matthewkling.github.io/media/natlas/</guid>
       <description>&lt;p&gt;An atlas of citizen naturalist observations.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Modeling coastal fog</title>
-      <link>https://example.org/media/fog/</link>
+      <link>https://matthewkling.github.io/media/fog/</link>
       <pubDate>Mon, 12 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/media/fog/</guid>
+      <guid>https://matthewkling.github.io/media/fog/</guid>
       <description>&lt;p&gt;Widely-documented climate variables offer insight into poorly-documented fog trends across space and time.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Animating climate change</title>
-      <link>https://example.org/media/analogs/</link>
+      <link>https://matthewkling.github.io/media/analogs/</link>
       <pubDate>Tue, 19 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/media/analogs/</guid>
+      <guid>https://matthewkling.github.io/media/analogs/</guid>
       <description>&lt;p&gt;How will climate types migrate across space?&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Ombrothermy</title>
-      <link>https://example.org/media/hydroclimate/</link>
+      <link>https://matthewkling.github.io/media/hydroclimate/</link>
       <pubDate>Sat, 17 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/media/hydroclimate/</guid>
+      <guid>https://matthewkling.github.io/media/hydroclimate/</guid>
       <description>&lt;p&gt;An online tool to explore seasonal water balance patterns&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Hello R Markdown</title>
-      <link>https://example.org/post/2015-07-23-r-rmarkdown/</link>
+      <link>https://matthewkling.github.io/post/2015-07-23-r-rmarkdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>https://example.org/post/2015-07-23-r-rmarkdown/</guid>
+      <guid>https://matthewkling.github.io/post/2015-07-23-r-rmarkdown/</guid>
       <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
 summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
