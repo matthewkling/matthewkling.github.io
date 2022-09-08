@@ -54,7 +54,7 @@ if (!doNotTrack) {
     
     <ul class="sidebar-menu">
       
-        <li><a href="https://matthewkling.github.io/media/">Work</a></li>
+        <li><a href="https://matthewkling.github.io/media/">Home</a></li>
       
         <li><a href="https://matthewkling.github.io/about/">About</a></li>
       
@@ -67,7 +67,7 @@ if (!doNotTrack) {
   
   
   
-  <a href="full%20profile%20url%20in%20twitter" data-animate-hover="pulse" class="external twitter">
+  <a href="https://twitter.com/mm_kling" data-animate-hover="pulse" class="external twitter">
     <i class="fa fa-twitter"></i>
   </a>
   
@@ -119,7 +119,7 @@ if (!doNotTrack) {
 <p><img src="/img/images/insolation.gif" alt="insolation"></p>
 <p>A lot of our research in the Ackerly lab is focused on understanding how climate variation shapes plant ecology, and one key driver of climate is local topography. In the northern hemisphere, higher radiation loads make south-facing slopes much warmer and drier on average&mdash;but solar radiation varies based on latitude, season, and time of day, as well as the topographic slope and aspect of a given site. Partly just as an excuse to play with the new <code>rayshader</code> package, I thought I&rsquo;d take a stab at creatting a realistic sunlight animation for Pepperwood Preserve, a site in the California coast ranges where our lab does extensive long-term forest monitoring research.</p>
 <p>Rayshader provides a set of tools to generate beautiful and realistic hillshaded graphics from digital elevation data. The package lets you specify any arbitrary sun position, but I wanted to use use the sun&rsquo;s real trajectory across the sky. For this I turned to the <code>insol</code> package, which we can use to compute the exact azimuth and zenith of the sun based on a date, time of day, and geographic coordintes. Here is some solar position data for Pepperwood, showing the swath of sky traversed by the sun at different times of year here in central California:</p>
-<p><img src="/images/sun_positions.png" alt="trajectories"></p>
+<p><img src="/img/images/sun_positions.png" alt="trajectories"></p>
 <p>The lower line shows the sun&rsquo;s daily path on the winter solstice. To animate how landscape lighting at Pepperwood evolves over the course of the solstice, we can generate a set of sun points along the line, use <code>rayshader</code> in combination with some high-resolution elevation data to generate a hillshade image for each sun point, and then stitch the frames together into a gif using the <code>magick</code> package. This gives us the visualization at the top of the post. Pretty fun what you can do with just a few lines of R code these days! The core code is just the folowing:</p>
 <pre><code># load packages
 library(tidyverse)
