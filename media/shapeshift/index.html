@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>The shape of the seasons</title>
+<meta name="description" content="Macroecology &amp; global change">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="all,follow">
+<meta name="googlebot" content="index,follow,snippet,archive">
+<link rel="stylesheet" href="https://example.org/css/bootstrap.min.css">
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:400,300,700,400italic">
+<link rel="stylesheet" href="https://example.org/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://example.org/css/owl.carousel.css">
+<link rel="stylesheet" href="https://example.org/css/owl.theme.css">
+
+
+  <link href="https://example.org/css/style.sea.css" rel="stylesheet" id="theme-stylesheet">
+
+ 
+
+  
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+        <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  
+
+
+<link href="https://example.org/css/custom.css" rel="stylesheet">
+<link rel="shortcut icon" href="https://example.org/img/favicon.png">
+
+
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-77357249-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+</head>
+<body>
+  <div id="all">
+      <div class="container-fluid">
+          <div class="row row-offcanvas row-offcanvas-left">
+              <div id="sidebar" class="col-xs-6 col-sm-4 col-md-3 sidebar-offcanvas">
+  <div class="sidebar-content">
+    <h1 class="sidebar-heading"><a href="https://example.org/">Matthew Kling</a></h1>
+    
+      <p class="sidebar-p">I'm an ecologist and data scientist focused on understanding biodiversity patterns and informing conservation under global environmental change. I conduct empirical research, develop modeling tools, and create data visualizations. I am currently a postdoctoral fellow at UVM.</p>
+    
+    <ul class="sidebar-menu">
+      
+        <li><a href="https://example.org/media/">Work</a></li>
+      
+        <li><a href="https://example.org/about/">About</a></li>
+      
+        <li><a href="https://example.org/cv/">CV</a></li>
+      
+        <li><a href="https://example.org/contact/">Contact</a></li>
+      
+    </ul>
+    <p class="social">
+  
+  
+  
+  <a href="full%20profile%20url%20in%20twitter" data-animate-hover="pulse" class="external twitter">
+    <i class="fa fa-twitter"></i>
+  </a>
+  
+  
+  
+  <a href="mailto:mkling@uvm.edu" data-animate-hover="pulse" class="email">
+    <i class="fa fa-envelope"></i>
+  </a>
+  
+  
+  
+  
+  <a href="https://github.com/matthewkling" data-animate-hover="pulse" class="external">
+    <i class="fa fa-github"></i>
+  </a>
+  
+  
+  
+</p>
+
+
+    <div class="copyright">
+      <p style="font-size:70%;", class="credit">
+        
+          &copy;2022 Matthew Kling
+        
+        <br> Template by <a href="https://bootstrapious.com/free-templates" class="external">Bootstrapious</a>,  
+      
+      Hugo port by <a href="https://github.com/kishaningithub">Kishan B</a>
+
+
+      </p>
+    </div>
+  </div>
+</div>
+
+              
+<div class="col-xs-12 col-sm-8 col-md-9 content-column white-background">
+  <div class="small-navbar visible-xs">
+  <button type="button" data-toggle="offcanvas" class="btn btn-ghost pull-left"> <i class="fa fa-align-left"> </i>Menu</button>
+  <h1 class="small-navbar-heading"><a href="https://example.org/">Matthew Kling</a></h1>
+</div>
+
+  <div class="row">
+    <div class="col-lg-8">
+      <div class="content-column-content">
+         <h1>The shape of the seasons</h1>
+         <p>Exploring climate seasonality across regions and decades.</p>
+<p><a href="/assets/shapeshift.pdf"><img src="/img/images/shapeshift.png" alt="Seasons shifting shape"></a></p>
+<p>We&rsquo;ve all seen plenty of maps and graphs that show how temperature or precipitation varies across space, or across seasons, or across decades of climate change. In this visualization I took a stab at bringing all those pieces together in one chart. (My philosophy: no such thing as TMI.) Click <a href="/assets/shapeshift.pdf">here</a> for a zoomable pdf.</p>
+<p>The tiles in this graphic show the seasonal climate cycles of 48 US cities, arranged in a loosely geographic array. Each city&rsquo;s loop depecicts the daily climate progression around the calendar year, with temperature on the x axis and precipitation on the y axis. Color indicates the time of year. Recent climate change can be seen by comparing the bright path in the foreground (average daily climate from 2000&ndash;2015) to the dim path in the background (1980&ndash;1999); the lines spanning the two circuits show climate change for each of the 365 unique days of the year. The chart summarizes 1.6 million historic daily temperature and precipitation values from <a href="https://daymet.ornl.gov">DAYMET</a>. Thanks to DAYMET&rsquo;s API and the beautiful versatility of ggplot2, I was able to <a href="https://github.com/matthewkling/shapeshifting">script the entire pipeline</a> from data acquisition through final pdf assembly.</p>
+<p><img src="/img/images/shapeshift_excerpt.png" alt="Excerpt"></p>
+<p>Some pretty interesting patterns jump out from this perspective. Most obivously, seasonal relationships between temperature and precipitation are super different across the US. The west coast has tight negative correlations between seasonal temperature and precipitation, i.e. wet winters and dry summers; southeastern coastal climate is precisely the opposite, with dry winters and wet summers. In other locations where climate doesn&rsquo;t fall along a straight line, seasonal patterns are more complex. Places like Indianapolis with open circles have different climates in spring versus fall. Smiley or frowny graphs are places two distinct precipitation peaks during the year (e.g. during summer and winter in Flagstaff, or spring and fall in Dallas). A single color spread over a large stretch of the circuit represents a rapid seasonal shift&mdash;check out the abrupt onset of the monsoon rains in the Southwest.</p>
+<p>Longer term climate trends emerge with a bit more study. Horizontal shifts show changing temperatures, while vertical shifts show changing precipitation. All that downward blue and purple movement on the west coast: the recent drought. The rightward creep of many seasons in many locations, with hardly any leftward motion: anthropogenic climate change getting off the starting blocks. Lots more vertical than horizontal movement overall: a sign of the large year-to-year variability in precipitation relative to temperature.</p>
+         
+      </div>
+    </div>
+  </div>
+</div>
+
+          </div>
+      </div>
+  </div>
+  <script src="https://example.org/js/jquery.min.js"></script>
+<script src="https://example.org/js/bootstrap.min.js"></script>
+<script src="https://example.org/js/jquery.cookie.js"> </script>
+<script src="https://example.org/js/ekko-lightbox.js"></script>
+<script src="https://example.org/js/jquery.scrollTo.min.js"></script>
+<script src="https://example.org/js/masonry.pkgd.min.js"></script>
+<script src="https://example.org/js/imagesloaded.pkgd.min.js"></script>
+<script src="https://example.org/js/owl.carousel.min.js"></script>
+<script src="https://example.org/js/front.js"></script>
+
+</body>
+</html>
