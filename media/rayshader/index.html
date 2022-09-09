@@ -115,7 +115,7 @@ if (!doNotTrack) {
     <div class="col-lg-8">
       <div class="content-column-content">
          <h1>Chiaroscuro</h1>
-         <p>Animating shifting sunlight over complex terrain.</p>
+         <p>[VISUALIZATION] Animating shifting sunlight over complex terrain.</p>
 <p><img src="/img/images/insolation.gif" alt="insolation"></p>
 <p>A lot of our research in the Ackerly lab is focused on understanding how climate variation shapes plant ecology, and one key driver of climate is local topography. In the northern hemisphere, higher radiation loads make south-facing slopes much warmer and drier on average&mdash;but solar radiation varies based on latitude, season, and time of day, as well as the topographic slope and aspect of a given site. Partly just as an excuse to play with the new <code>rayshader</code> package, I thought I&rsquo;d take a stab at creatting a realistic sunlight animation for Pepperwood Preserve, a site in the California coast ranges where our lab does extensive long-term forest monitoring research.</p>
 <p>Rayshader provides a set of tools to generate beautiful and realistic hillshaded graphics from digital elevation data. The package lets you specify any arbitrary sun position, but I wanted to use use the sun&rsquo;s real trajectory across the sky. For this I turned to the <code>insol</code> package, which we can use to compute the exact azimuth and zenith of the sun based on a date, time of day, and geographic coordintes. Here is some solar position data for Pepperwood, showing the swath of sky traversed by the sun at different times of year here in central California:</p>

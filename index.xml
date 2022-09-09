@@ -6,14 +6,14 @@
     <description>Recent content on Matthew Kling</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Oct 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://matthewkling.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://matthewkling.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Windscapes</title>
       <link>https://matthewkling.github.io/media/windscapes/</link>
       <pubDate>Fri, 11 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>https://matthewkling.github.io/media/windscapes/</guid>
-      <description>&lt;p&gt;A web app for interactive visualization of wind dispersal landscapes.&lt;/p&gt;</description>
+      <description>&lt;p&gt;[WEB APP] An online tool for interactive visualization of wind dispersal landscapes.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -22,7 +22,7 @@
       <pubDate>Mon, 29 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://matthewkling.github.io/media/trails/</guid>
-      <description>&lt;p&gt;Visualizing the geography of wind and climate change.&lt;/p&gt;</description>
+      <description>&lt;p&gt;[VISUALIZATION] Illustrating the geography of wind and climate change.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -31,7 +31,7 @@
       <pubDate>Fri, 09 Nov 2018 00:00:00 +0000</pubDate>
       
       <guid>https://matthewkling.github.io/media/phycon/</guid>
-      <description>&lt;p&gt;The California Plant Phylodiversity Atlas: an interactive web app.&lt;/p&gt;</description>
+      <description>&lt;p&gt;[WEB APP] The California Plant Phylodiversity Atlas.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -40,7 +40,35 @@
       <pubDate>Thu, 16 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>https://matthewkling.github.io/media/rayshader/</guid>
-      <description>&lt;p&gt;Animating shifting sunlight over complex terrain.&lt;/p&gt;</description>
+      <description>&lt;p&gt;[VISUALIZATION] Animating shifting sunlight over complex terrain.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Genetic isolation by wind</title>
+      <link>https://matthewkling.github.io/media/pnas_2021/</link>
+      <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://matthewkling.github.io/media/pnas_2021/</guid>
+      <description>&lt;p&gt;[PAPER] Global wind patterns shape genetic differentiation,
+asymmetric gene flow, and genetic diversity in trees.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Winds of change</title>
+      <link>https://matthewkling.github.io/media/ncc_2020/</link>
+      <pubDate>Tue, 21 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://matthewkling.github.io/media/ncc_2020/</guid>
+      <description>&lt;p&gt;[PAPER] Global wind patterns and the vulnerability of wind-dispersed species to climate change&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>The multidimensionality of climate vulnerability</title>
+      <link>https://matthewkling.github.io/media/gcb_2020/</link>
+      <pubDate>Thu, 12 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://matthewkling.github.io/media/gcb_2020/</guid>
+      <description>&lt;p&gt;[PAPER] Multiple axes of ecological vulnerability to climate change.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -49,7 +77,7 @@
       <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>https://matthewkling.github.io/media/trees/</guid>
-      <description>&lt;p&gt;Animating phylogenies in R.&lt;/p&gt;</description>
+      <description>&lt;p&gt;[VISUALIZATION] Animating phylogenies in R.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -58,7 +86,7 @@
       <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>https://matthewkling.github.io/media/seeds/</guid>
-      <description>&lt;p&gt;A predictive seed provenancing tool for ecological restoration.&lt;/p&gt;</description>
+      <description>&lt;p&gt;[WEB APP] A predictive seed provenancing tool for ecological restoration.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -67,7 +95,16 @@
       <pubDate>Tue, 15 May 2018 18:25:22 +0530</pubDate>
       
       <guid>https://matthewkling.github.io/media/orb_weaver/</guid>
-      <description>&lt;p&gt;A bit of algorithmic art.&lt;/p&gt;</description>
+      <description>&lt;p&gt;[VISUALIZATION] A bit of algorithmic art.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Conservation priorities for California plants</title>
+      <link>https://matthewkling.github.io/media/ptb_2018/</link>
+      <pubDate>Thu, 18 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://matthewkling.github.io/media/ptb_2018/</guid>
+      <description>&lt;p&gt;[PAPER] Facets of phylodiversity: evolutionary diversification, divergence, and survival as conservation targets.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -76,7 +113,7 @@
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>https://matthewkling.github.io/media/shapeshift/</guid>
-      <description>&lt;p&gt;Exploring climate seasonality across space and time.&lt;/p&gt;</description>
+      <description>&lt;p&gt;[VISUALIZATION] Exploring climate seasonality across space and time.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -85,7 +122,7 @@
       <pubDate>Sun, 03 Jul 2016 00:00:00 +0000</pubDate>
       
       <guid>https://matthewkling.github.io/media/colormap/</guid>
-      <description>&lt;p&gt;An R package for taking advantage of 3D colorspace.&lt;/p&gt;</description>
+      <description>&lt;p&gt;[R PACKAGE] Tools for taking advantage of 3D colorspace.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -94,7 +131,7 @@
       <pubDate>Sun, 08 May 2016 00:00:00 +0000</pubDate>
       
       <guid>https://matthewkling.github.io/media/vortex/</guid>
-      <description>&lt;p&gt;Which populations bear the brunt of extreme weather? An interactive visualization.&lt;/p&gt;</description>
+      <description>&lt;p&gt;[WEB APP] Which populations bear the brunt of extreme weather? An interactive visualization.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -103,7 +140,7 @@
       <pubDate>Mon, 12 Jun 2017 00:00:00 +0000</pubDate>
       
       <guid>https://matthewkling.github.io/media/natlas/</guid>
-      <description>&lt;p&gt;An atlas of citizen naturalist observations.&lt;/p&gt;</description>
+      <description>&lt;p&gt;[VISUALIZATION] An atlas of citizen naturalist observations.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -112,7 +149,7 @@
       <pubDate>Mon, 12 Dec 2016 00:00:00 +0000</pubDate>
       
       <guid>https://matthewkling.github.io/media/fog/</guid>
-      <description>&lt;p&gt;Improving predictions of fog trends across space and time.&lt;/p&gt;</description>
+      <description>&lt;p&gt;[POSTER] Improving predictions of fog trends across space and time.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -121,7 +158,7 @@
       <pubDate>Tue, 19 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>https://matthewkling.github.io/media/analogs/</guid>
-      <description>&lt;p&gt;How will climate types migrate across space?&lt;/p&gt;</description>
+      <description>&lt;p&gt;[VISUALIZATION] How will climate types migrate across space?&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -130,7 +167,7 @@
       <pubDate>Sat, 17 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://matthewkling.github.io/media/hydroclimate/</guid>
-      <description>&lt;p&gt;An online tool to explore seasonal water balance patterns.&lt;/p&gt;</description>
+      <description>&lt;p&gt;[WEB APP] A tool to explore seasonal water balance patterns.&lt;/p&gt;</description>
     </item>
     
     <item>
