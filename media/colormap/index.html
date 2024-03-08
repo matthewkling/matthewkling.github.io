@@ -34,7 +34,7 @@
 var doNotTrack = false;
 if (!doNotTrack) {
 	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-	ga('create', 'UA-77357249-1', 'auto');
+	ga('create', 'G-Q8Q88J1YJY', 'auto');
 	
 	ga('send', 'pageview');
 }
@@ -120,13 +120,13 @@ if (!doNotTrack) {
 <p><img src="/img/images/minority_vs_poverty.png" alt="Minority versus poverty"></p>
 <p>In the above <a href="https://matthewkling.shinyapps.io/demographics_of_disaster/">visualization</a> (created as part of the <a href="http://ds421.berkeley.edu">DS421</a> NRT program) for example, a 2D color ramp on the lefthand panel facilitates simultaneous mapping of both poverty and race. Or in the chart below (created as part of the <a href="http://ucjeps.berkeley.edu/bryolab/CPPP/index.html">California Phylodiversity Project</a>), a 3D color mapping represents variation in the phylogenetic composition of plant communities across California (places with similar color have similar floristic communities; if it had a legend, it would be 3D point cloud filling RGB space).</p>
 <p><img src="/img/images/california_sorenson_phylo.jpg" alt="California community composition"></p>
-<p>I made these charts, as I generally do, in R. Having failed to find an existing package that implements color mappings like this, I packaged up some functions of my own in a library called <a href="https://github.com/matthewkling/colormap">colormap</a>. You can access it via <code>devtools::install_github(&quot;matthewkling/colormap&quot;)</code>.</p>
+<p>I made these charts, as I generally do, in R. Having failed to find an existing package that implements color mappings like this, I packaged up some functions of my own in a library called <a href="https://github.com/matthewkling/colors3d">colors3d</a>. You can access it via <code>devtools::install_github(&quot;matthewkling/colors3d&quot;)</code>.</p>
 <p>The package includes two functions that map data to a 2D colorspace, and one for 3D colorspace. Each takes a table of input data as the only required parameter, and returns a vector of color values corresponding to every row of the table. These colors can then be fed to your plots, whether you&rsquo;re using base graphics, ggplot2, rgl, etc.</p>
 <p><img src="/img/images/colorado_precip.png" alt="Colorado climate"></p>
 <h4 id="a-brief-tutorial">A brief tutorial</h4>
 <p>Let&rsquo;s reproduce the map above, which shows precipitation seasonality in Colorado by comparing precipitation in the wettest vs. driest months. In this plot, green and black places have average seasonality and are either wet or dry, respectively. Yellow places are highly seasonal with rain or snow concentrated in the wettest season, while blue places have the flattest, most aseasonal precipitation profiles. This example uses <code>colors2d</code>, in which a palette is defined by specifying 4 corner colors. Here&rsquo;s code to create this chart:</p>
-<pre><code>devtools::install_github(&quot;matthewkling/colormap&quot;)
-library(colormap)
+<pre><code>devtools::install_github(&quot;matthewkling/colors3d&quot;)
+library(colors3d)
 library(raster)
 
 # get some climate data
