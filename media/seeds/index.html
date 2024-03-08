@@ -116,12 +116,17 @@ if (!doNotTrack) {
       <div class="content-column-content">
          <h1>Seeds of change</h1>
          <p>[WEB APP] A predictive seed provenancing tool for ecological restoration.</p>
-<p><a href="http://matthewkling.net/shiny/seedsofchange/"><img src="/img/images/seedsofchange.png" alt="SOC"></a></p>
-<p>This latest project, <a href="http://matthewkling.net/shiny/seedsofchange/">Seeds of Change</a>, is once again in the shiny apps category. This tool is still under development but we now have prototype up and running.
-Developed as part of a partnership with folks at the National Park Service and the Golden Gate National Recreation Area, it is aimed at helping restoration managers identify seed collection localities for restoration projects by leveraging data on soil, climate, and projected climate change. Users select a planting site and a focal species, and the app predicts which populations across the species' range will have seeds that are most adapted to the future environment of the planting site.</p>
-<p>This is by no means the first tool out there to address this need, including some great seed provenancing apps like the <a href="https://seedlotselectiontool.org/sst/">Seedlot Selection Tool</a>. But our version does include some new bells and whistles that we hope will help advance the utility for managers. It leverages a new <a href="https://soilgrids.org/">soil dataset</a>, a step toward addressing an unmet need to account for local adaptation to different soil types. It integrates species distribution maps for every species of native plant within California. It includes past and future climate variables that are ecologically imporant in mediterranean-type ecosystems, including climatic water deficit and actual evapotranspiration. And it uses a new smoothing parameter that we developed to more realistically model how gene flow among sites might affect their adaptive evolution.</p>
-<p>The app is still a prototype, and with ongoing work on this project the tool is sure to change as we integrate feedback from park managers at GGNRA and other interested parties. So please get in touch if you have thoughts!</p>
-<p>Our team on this project includes fellow UCB students Sean Brown and Amelia Harvey, NPS climate scientist Patrick Gonzalez, and GGRNA seed ecologist Stacy Jacobsen.</p>
+<p><a href="http://matthewkling.net/shiny/seeds-of-change/"><img src="/img/images/seeds_of_change.png" alt="SOC"></a></p>
+<p><a href="http://matthewkling.net/shiny/seeds-of-change/">Seeds of Change</a>, is a decision support tool for ecological restoration. It identifies areas in California that may be suitable for seed collection or planting, by analyzing spatial data on climate change, soil characteristics, species distributions, and adaptive neighborhoods. I developed this Shiny app as part of a partnership with folks at the National Park Service, and with funding from the Berkeley Institute for Parks, People, and Biodiversity.</p>
+<p>This is by no means the first tool out there to address this need, including some great seed provenancing apps like the <a href="https://seedlotselectiontool.org/sst/">Seedlot Selection Tool</a>. But our version does include some new features that we hope will help advance the utility for managers:</p>
+<ul>
+<li>It uses data on soil in addition to climate, a step toward addressing an unmet need to account for local adaptation to different soil types.</li>
+<li>It integrates species distribution maps for every species of native plant within California, giving restoration managers key context for planting and collection efforts.</li>
+<li>It includes past and future climate variables that are ecologically important in mediterranean-type ecosystems, such as climatic water deficit and actual evapotranspiration.</li>
+<li>It uses a new spatial smoothing approach that we developed to more realistically model how gene flow among sites might affect their adaptive evolution.</li>
+<li>It includes environment-matching settings focused on predictive provenancing, as well as environment-clustering settings focused on admixture provenancing and seed banking.</li>
+</ul>
+<p>We&rsquo;re excited to have the app up and running and have resource managers at the NPS and other organizations using it to help guide restoration efforts. Note that it&rsquo;s still hosted on an underpowered server while we migrate it to its permanent home, so please bear with the slow performance. We&rsquo;re working on a journal article describing the methods as well, so keep an eye out for that.</p>
          
       </div>
     </div>
