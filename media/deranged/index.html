@@ -2,7 +2,7 @@
 <html lang="en-us">
 <head><meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<title>Seeds of Change</title>
+<title>deranged</title>
 <meta name="description" content="Matthew Kling">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="all,follow">
@@ -114,19 +114,12 @@ if (!doNotTrack) {
   <div class="row">
     <div class="col-lg-8">
       <div class="content-column-content">
-         <h1>Seeds of Change</h1>
-         <p>[WEB APP] A predictive seed provenancing tool for ecological restoration.</p>
-<p><a href="http://matthewkling.net/shiny/seeds-of-change/"><img src="/img/images/seeds_of_change.png" alt="SOC"></a></p>
-<p><a href="http://matthewkling.net/shiny/seeds-of-change/">Seeds of Change</a> is a decision support tool for ecological restoration. It identifies areas in California that may be suitable for seed collection or planting, by analyzing spatial data on climate change, soil characteristics, species distributions, and adaptive neighborhoods. I developed this Shiny app as part of a partnership with folks at the National Park Service, and with funding from the Berkeley Institute for Parks, People, and Biodiversity.</p>
-<p>This is by no means the first tool out there to address this need, including some great seed provenancing apps like the <a href="https://seedlotselectiontool.org/sst/">Seedlot Selection Tool</a>. But our version does include some novel features that we hope will help advance the utility for managers:</p>
-<ul>
-<li>It uses data on soil in addition to climate, a step toward addressing an unmet need to account for local adaptation to different soil types.</li>
-<li>It integrates species distribution maps for every species of native plant within California, giving restoration managers key context for planting and collection efforts.</li>
-<li>It includes past and future climate variables that are ecologically important in mediterranean-type ecosystems, such as climatic water deficit and actual evapotranspiration.</li>
-<li>It uses a new spatial smoothing approach that we developed to more realistically model how gene flow among sites might affect their adaptive evolution.</li>
-<li>It includes environment-matching settings focused on predictive provenancing, as well as environment-clustering settings focused on admixture provenancing and seed banking.</li>
-</ul>
-<p>We&rsquo;re excited to have the app up and running and have resource managers at the NPS and other organizations using it to help guide restoration efforts. Note that it&rsquo;s still hosted on an underpowered server while we migrate it to its permanent home, so please bear with the slow performance. We&rsquo;re working on a journal article describing the methods, so keep an eye out for that as well.</p>
+         <h1>deranged</h1>
+         <p>[R PACKAGE] Modeling software for species range simulations.</p>
+<p><img src="/img/images/deranged.jpeg" alt="deranged screenshot"></p>
+<p>To understand how species' geographic ranges shift in response to forces like climate change, we need to model the underlying mechanistic processes like population demography and dispersal. I am the lead developer for the R software package &ldquo;deranged&rdquo; (for &ldquo;DEmographic RANGE modeling with Dispersal&rdquo;), which provides a flexible set of open source tools for efficiently simulating species range dynamics for a wide range of different applications. This software also underpins parts of my own empirical research focusing on climate impacts on forests.</p>
+<p>The package is centered around a demography module that uses a Markov population matrix model to simulate local age- or stage-based population dynamics through time as a function of environmental variation, and an interacting dispersal module that simulates movement among grid cells. Discrete stochastic dynamics and continuous deterministic dynamics are both supported.</p>
+<p>This project lives on <a href="https://github.com/matthewkling/deranged">GitHub here</a>. Development is ongoing, and additional features and API changes will be added over time.</p>
          
       </div>
     </div>
