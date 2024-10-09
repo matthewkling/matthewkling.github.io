@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://matthewkling.github.io/media/bishop/</loc>
+    <lastmod>2024-08-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://matthewkling.github.io/media/seeds/</loc>
     <lastmod>2024-02-02T00:00:00+00:00</lastmod>
   </url>
@@ -13,7 +18,7 @@
   </url>
   
   <url>
-    <loc>https://matthewkling.github.io/media/bishop/</loc>
+    <loc>https://matthewkling.github.io/media/cropswitch/</loc>
     <lastmod>2019-10-11T00:00:00+00:00</lastmod>
   </url>
   
@@ -109,12 +114,12 @@
   
   <url>
     <loc>https://matthewkling.github.io/</loc>
-    <lastmod>2024-02-02T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://matthewkling.github.io/media/</loc>
-    <lastmod>2024-02-02T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>

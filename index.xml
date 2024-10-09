@@ -6,7 +6,16 @@
     <description>Recent content on Matthew Kling</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://matthewkling.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 11 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://matthewkling.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BISHOP</title>
+      <link>https://matthewkling.github.io/media/bishop/</link>
+      <pubDate>Sun, 11 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://matthewkling.github.io/media/bishop/</guid>
+      <description>&lt;p&gt;[PAPER; R PACKAGE] Inferring microclimate from tree occurrences.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Seeds of Change</title>
       <link>https://matthewkling.github.io/media/seeds/</link>
@@ -26,12 +35,12 @@
     </item>
     
     <item>
-      <title>BISHOP</title>
-      <link>https://matthewkling.github.io/media/bishop/</link>
+      <title>CROP SWITCHING</title>
+      <link>https://matthewkling.github.io/media/cropswitch/</link>
       <pubDate>Fri, 11 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://matthewkling.github.io/media/bishop/</guid>
-      <description>&lt;p&gt;[PAPER; R PACKAGE] Inferring microclimate from tree occurrences.&lt;/p&gt;</description>
+      <guid>https://matthewkling.github.io/media/cropswitch/</guid>
+      <description>&lt;p&gt;[PAPER] Mapping the mechanics of agroecological change&lt;/p&gt;</description>
     </item>
     
     <item>
