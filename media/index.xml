@@ -44,12 +44,12 @@
     </item>
     
     <item>
-      <title>Windscapes</title>
-      <link>https://matthewkling.github.io/media/windscapes/</link>
+      <title>windscape</title>
+      <link>https://matthewkling.github.io/media/windscape/</link>
       <pubDate>Fri, 11 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://matthewkling.github.io/media/windscapes/</guid>
-      <description>&lt;p&gt;[WEB APP] An online tool for interactive visualization of wind dispersal landscapes.&lt;/p&gt;</description>
+      <guid>https://matthewkling.github.io/media/windscape/</guid>
+      <description>&lt;p&gt;[R PACKAGE; WEB APP] An R package for modeling wind dispersal landscapes.&lt;/p&gt;</description>
     </item>
     
     <item>
