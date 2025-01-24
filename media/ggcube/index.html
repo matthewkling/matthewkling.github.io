@@ -2,7 +2,7 @@
 <html lang="en-us">
 <head><meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<title>phylospatial</title>
+<title>ggcube</title>
 <meta name="description" content="Matthew Kling">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="all,follow">
@@ -117,18 +117,14 @@ if (!doNotTrack) {
   <div class="row">
     <div class="col-lg-8">
       <div class="content-column-content">
-         <h1>phylospatial</h1>
-         <p>[R PACKAGE] A toolkit for spatial phylogenetic analysis.</p>
-<p><img src="/img/images/spatialphy.png" alt="phylospatial"></p>
-<p><a href="https://matthewkling.github.io/phylospatial/"><code>phylospatial</code></a> is an R package for spatial phylogentic analysis, a field that focuses on accounting for evolutionary relationships among taxa when describing biodiversity patterns. The package grew out of code I developed for <a href="http://dx.doi.org/10.1098/rstb.2017.0397">research</a> <a href="https://doi.org/10.1101/2024.12.16.628580">projects</a> on plant diversity and conservation in California. It&rsquo;s a flexible framework that includes functions for computing:</p>
-<ul>
-<li>alpha diversity and endemism measures like phylogenetic diversity and relative phylogenetic endemism</li>
-<li>statistical significance of diversity measures using null model randomizations</li>
-<li>beta diversity measures like Sorensen&rsquo;s phylogenetic beta diversity, turnover, and nestedness</li>
-<li>phylogenetic regionalization and ordination</li>
-<li>phylogenetic conservation prioritization</li>
-</ul>
-<p>The package is <a href="https://cran.r-project.org/package=phylospatial">available on CRAN</a>. See the project <a href="https://github.com/matthewkling/phylospatial">repository</a> or <a href="https://matthewkling.github.io/phylospatial/">website</a> for documentation details.</p>
+         <h1>ggcube</h1>
+         <p>[R PACKAGE] A ggplot2 extension for 3D visualization</p>
+<p><img src="/img/images/ggcube_1600.jpeg" alt="ggcube example"></p>
+<p>I love a good 3D plot. And I love ggplot2. But ggplot2 doesn&rsquo;t do 3D, and none of the very good 3D plotting libraries in R have the crisp satisfaction of tidyverse. A very nice package called gg3D does implement 3d ggplots, but it lacks flexibility in key respects and sadly is no longer actively maintained.</p>
+<p>So, I decided to take a crack at building a new 3D library for ggplot. It turns out this is kinda complicated, but I&rsquo;ve made enough progress to share it here. It&rsquo;s called <a href="https://github.com/matthewkling/ggcube">ggcube</a>, and can be installed via <a href="https://github.com/matthewkling/ggcube">GitHub</a>.</p>
+<p>A key point is that there are numerous flavors of 3D projection. There&rsquo;s 1-point, 2-point, and 3-point perspective projections. There&rsquo;s oblique projection and isohedral projection and axial projection, and I&rsquo;m sure lots more. I wanted this library to support a number of different approaches, since they&rsquo;re useful for different purposes, so it aims to be flexible without being too complex.</p>
+<p>The images on this page are examples of ggcube in action; see the GitHub page for the associated code.</p>
+<p><img src="/img/images/ggcube_scatter.png" alt="ggcube example"></p>
          
       </div>
     </div>
