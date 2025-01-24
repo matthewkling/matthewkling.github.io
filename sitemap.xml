@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://matthewkling.github.io/media/ggcube/</loc>
+    <lastmod>2025-01-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://matthewkling.github.io/media/bishop/</loc>
     <lastmod>2024-08-11T00:00:00+00:00</lastmod>
   </url>
@@ -45,11 +50,6 @@
   <url>
     <loc>https://matthewkling.github.io/media/rayshader/</loc>
     <lastmod>2018-08-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://matthewkling.github.io/media/ggcube/</loc>
-    <lastmod>2025-01-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
