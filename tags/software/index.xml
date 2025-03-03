@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>software on Matthew Kling</title>
+    <link>https://matthewkling.github.io/tags/software/</link>
+    <description>Recent content in software on Matthew Kling</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 24 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://matthewkling.github.io/tags/software/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ggcube</title>
+      <link>https://matthewkling.github.io/media/ggcube/</link>
+      <pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://matthewkling.github.io/media/ggcube/</guid>
+      <description>&lt;p&gt;[R PACKAGE] A ggplot2 extension for 3D visualization&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>BISHOP</title>
+      <link>https://matthewkling.github.io/media/bishop/</link>
+      <pubDate>Sun, 11 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://matthewkling.github.io/media/bishop/</guid>
+      <description>&lt;p&gt;[PAPER; R PACKAGE] Inferring microclimate from tree occurrences.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Seeds of Change</title>
+      <link>https://matthewkling.github.io/media/seeds/</link>
+      <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://matthewkling.github.io/media/seeds/</guid>
+      <description>&lt;p&gt;[WEB APP] A predictive seed provenancing tool for ecological restoration.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>deranged</title>
+      <link>https://matthewkling.github.io/media/deranged/</link>
+      <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://matthewkling.github.io/media/deranged/</guid>
+      <description>&lt;p&gt;[R PACKAGE] Modeling software for mechanistic species range simulations.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>phylospatial</title>
+      <link>https://matthewkling.github.io/media/spatialphy/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://matthewkling.github.io/media/spatialphy/</guid>
+      <description>&lt;p&gt;[R PACKAGE] A toolkit for spatial phylogenetic analysis.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>windscape</title>
+      <link>https://matthewkling.github.io/media/windscape/</link>
+      <pubDate>Fri, 11 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://matthewkling.github.io/media/windscape/</guid>
+      <description>&lt;p&gt;[R PACKAGE; WEB APP] An R package for modeling wind dispersal landscapes.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Phylogeny &amp; conservation</title>
+      <link>https://matthewkling.github.io/media/phycon/</link>
+      <pubDate>Fri, 09 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://matthewkling.github.io/media/phycon/</guid>
+      <description>&lt;p&gt;[WEB APP] The California Plant Phylodiversity Atlas.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Multidimensional color ramps</title>
+      <link>https://matthewkling.github.io/media/colormap/</link>
+      <pubDate>Sun, 03 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://matthewkling.github.io/media/colormap/</guid>
+      <description>&lt;p&gt;[R PACKAGE] Tools for taking advantage of 3D colorspace.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Demographics of disaster</title>
+      <link>https://matthewkling.github.io/media/vortex/</link>
+      <pubDate>Sun, 08 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://matthewkling.github.io/media/vortex/</guid>
+      <description>&lt;p&gt;[WEB APP] Which populations bear the brunt of extreme weather? An interactive visualization.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Natlas</title>
+      <link>https://matthewkling.github.io/media/natlas/</link>
+      <pubDate>Mon, 12 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://matthewkling.github.io/media/natlas/</guid>
+      <description>&lt;p&gt;[VISUALIZATION] An atlas of citizen naturalist observations.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Ombrothermy</title>
+      <link>https://matthewkling.github.io/media/hydroclimate/</link>
+      <pubDate>Sat, 17 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://matthewkling.github.io/media/hydroclimate/</guid>
+      <description>&lt;p&gt;[WEB APP] A tool to explore seasonal water balance patterns.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

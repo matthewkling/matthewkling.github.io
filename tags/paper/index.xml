@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>paper on Matthew Kling</title>
+    <link>https://matthewkling.github.io/tags/paper/</link>
+    <description>Recent content in paper on Matthew Kling</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 11 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://matthewkling.github.io/tags/paper/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BISHOP</title>
+      <link>https://matthewkling.github.io/media/bishop/</link>
+      <pubDate>Sun, 11 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://matthewkling.github.io/media/bishop/</guid>
+      <description>&lt;p&gt;[PAPER; R PACKAGE] Inferring microclimate from tree occurrences.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>CROP SWITCHING</title>
+      <link>https://matthewkling.github.io/media/cropswitch/</link>
+      <pubDate>Fri, 11 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://matthewkling.github.io/media/cropswitch/</guid>
+      <description>&lt;p&gt;[PAPER] Mapping the mechanics of agroecological change&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Genetic isolation by wind</title>
+      <link>https://matthewkling.github.io/media/pnas_2021/</link>
+      <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://matthewkling.github.io/media/pnas_2021/</guid>
+      <description>&lt;p&gt;[PAPER] Global wind patterns shape genetic differentiation,
+asymmetric gene flow, and genetic diversity in trees.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Winds of change</title>
+      <link>https://matthewkling.github.io/media/ncc_2020/</link>
+      <pubDate>Tue, 21 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://matthewkling.github.io/media/ncc_2020/</guid>
+      <description>&lt;p&gt;[PAPER] Global wind patterns and the vulnerability of wind-dispersed species to climate change&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>The multidimensionality of climate vulnerability</title>
+      <link>https://matthewkling.github.io/media/gcb_2020/</link>
+      <pubDate>Thu, 12 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://matthewkling.github.io/media/gcb_2020/</guid>
+      <description>&lt;p&gt;[PAPER] Multiple axes of ecological vulnerability to climate change.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Conservation priorities for California plants</title>
+      <link>https://matthewkling.github.io/media/ptb_2018/</link>
+      <pubDate>Thu, 18 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://matthewkling.github.io/media/ptb_2018/</guid>
+      <description>&lt;p&gt;[PAPER] Facets of phylodiversity: evolutionary diversification, divergence, and survival as conservation targets.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
