@@ -134,11 +134,33 @@ if (!doNotTrack) {
     <div class="col-lg-8">
       <div class="content-column-content">
          <h1>windscape</h1>
-         <p>[R PACKAGE; WEB APP] An R package for modeling wind dispersal landscapes.</p>
+         <p>[R PACKAGE] An R package for modeling wind dispersal landscapes.</p>
 <p><img src="/img/images/katrina.png" alt="windscape app screenshot"></p>
-<p>I work a lot with wind data as part of my research exploring how biodiversity is shaped by the effects of global wind patterns on the dispersal of seeds, pollen, and spores between sites. <a href="https://matthewkling.github.io/windscape/"><code>windscape</code></a> is an R package I have developed that provides a set of tools for conducting analyses like these. It includes functions to help you download wind data, model wind connectivity times across a landscape, visualize the results, and test statistical relationships between wind and ecological data.</p>
-<p>This R package also underlies the <a href="http://matthewkling.net/shiny/windscape/">WINDSCAPE</a> web app, a little interactive web tool I built that models and visualizes the wind dispersal landscape, or windscape, for any location on earth. You just click the map to select a site, choose between &ldquo;inbound&rdquo; (upwind) or &ldquo;outbound&rdquo; (downwind) dispersal, and voila: a global map of relative accessibility by wind. The image below shows a screenshot from the app:</p>
-<p><img src="/img/images/windscape.png" alt="windscape app screenshot"></p>
+<h2 id="overview">Overview</h2>
+<p>I work a lot with wind data as part of my research exploring how biodiversity is shaped by the effects of global wind patterns on the dispersal of seeds, pollen, and spores between sites. <a href="https://matthewkling.github.io/windscape/"><code>windscape</code></a> is an R package I developed that provides a set of tools for conducting analyses like these. It includes functions to help you download wind data, model wind connectivity times across a landscape, visualize the results, and test statistical relationships between wind and ecological data.</p>
+<h2 id="key-features">Key Features</h2>
+<ul>
+<li><strong>Wind data acquisition</strong> tools to download hourly wind data from the Climate Forecast System Reanalysis (CFSR)</li>
+<li><strong>Connectivity modeling</strong> using either least-cost path or random walk algorithms to simulate dispersal across landscapes</li>
+<li><strong>Visualization functions</strong> for mapping wind flow patterns and creating connectivity diagrams</li>
+<li><strong>Statistical testing</strong> framework for analyzing relationships between wind connectivity and ecological patterns</li>
+<li><strong>Flexible simulation parameters</strong> to model different dispersal scenarios based on wind speeds, directions, and barriers</li>
+</ul>
+<p>The package handles directional wind flow through &ldquo;directed cyclic&rdquo; graph structures, making it particularly suitable for modeling asymmetric connectivity patterns that can&rsquo;t be addressed with traditional circuit theory approaches.</p>
+<h2 id="applications">Applications</h2>
+<p><code>windscape</code> is designed for researchers studying:</p>
+<ul>
+<li>Landscape genetics and how gene flow is shaped by wind-mediated dispersal</li>
+<li>Biogeography of wind-dispersed organisms like plants, fungi, and insects</li>
+<li>Climate change vulnerability assessment for wind-dispersed species</li>
+<li>Invasive species spread via airborne pathways</li>
+<li>Aerobiological processes like pollen transport and disease vectors</li>
+</ul>
+<p>This framework has been used in my published research on global wind patterns and their effects on genetic differentiation, gene flow, and climate change vulnerability in trees.</p>
+<h2 id="resources">Resources</h2>
+<p>This R package also underlies the <a href="http://matthewkling.net/shiny/windscape/">WINDSCAPE</a> web app, a little interactive web tool I built that models and visualizes the wind dispersal landscape, or windscape, for any location on earth. You just click the map to select a site, choose between &ldquo;inbound&rdquo; (upwind) or &ldquo;outbound&rdquo; (downwind) dispersal, and voila: a global map of relative accessibility by wind.</p>
+<p>The package is available on <a href="https://github.com/matthewkling/windscape">GitHub</a> and can be installed with <code>devtools::install_github(&quot;matthewkling/windscape&quot;)</code>.</p>
+<p><img src="/img/images/windscape.png" alt="windscape web app screenshot"></p>
          
       </div>
     </div>

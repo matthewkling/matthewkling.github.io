@@ -136,9 +136,31 @@ if (!doNotTrack) {
          <h1>deranged</h1>
          <p>[R PACKAGE] Modeling software for mechanistic species range simulations.</p>
 <p><img src="/img/images/deranged.jpeg" alt="deranged screenshot"></p>
-<p>To understand how species' geographic ranges shift in response to forces like climate change, we need to model the underlying mechanistic processes like population demography and dispersal. I am the lead developer for the R software package &ldquo;deranged&rdquo; (for &ldquo;DEmographic RANGE modeling with Dispersal&rdquo;), which provides a flexible set of open source tools for efficiently simulating species range dynamics for a wide range of different applications. This software also underpins parts of my own empirical research focusing on climate impacts on forests.</p>
-<p>The package is centered around a demography module that uses a Markov population matrix model to simulate local age- or stage-based population dynamics through time as a function of environmental variation, and an interacting dispersal module that simulates movement among grid cells. Discrete stochastic dynamics and continuous deterministic dynamics are both supported.</p>
+<h2 id="overview">Overview</h2>
+<p>To understand how species' geographic ranges shift in response to forces like climate change, we need to model the underlying mechanistic processes like population demography and dispersal. The R software library <a href="https://github.com/matthewkling/deranged"><code>deranged</code></a> (for &ldquo;DEmographic RANGE modeling with Dispersal&rdquo;) is a modeling package I developed that provides a flexible set of open source tools for efficiently simulating species range dynamics for a wide range of different applications. This software also underpins parts of my own empirical research focusing on climate impacts on forests.</p>
+<h2 id="key-features">Key Features</h2>
+<ul>
+<li><strong>Demographic module</strong> using a Markov population matrix model to simulate local age- or stage-based population dynamics as a function of environmental variation</li>
+<li><strong>Dispersal module</strong> simulating movement among grid cells with customizable dispersal kernels</li>
+<li><strong>Environment integration</strong> allowing local population patterns to respond to both spatial and temporal environmental variation</li>
+<li><strong>Stochastic and deterministic options</strong> for discrete stochastic dynamics and continuous deterministic dynamics</li>
+<li><strong>High-performance implementation</strong> with core functions written in C++ for computational efficiency</li>
+<li><strong>Visualization tools</strong> for analyzing and presenting simulation results</li>
+</ul>
+<p>The package provides a framework where demographic rates (survival, growth, reproduction) can vary by population density and environmental conditions, and dispersal can be simulated using various probability distributions and range boundary behaviors.</p>
+<h2 id="applications">Applications</h2>
+<p>The <code>deranged</code> package is useful for:</p>
+<ul>
+<li>Simulating climate change impacts on species distributions</li>
+<li>Modeling invasive species spread across landscapes</li>
+<li>Investigating source-sink dynamics in heterogeneous environments</li>
+<li>Testing hypotheses about factors limiting species ranges</li>
+<li>Assessing management interventions like assisted migration</li>
+<li>Exploring evolutionary adaptation across space and time</li>
+</ul>
+<h2 id="resources">Resources</h2>
 <p>The project lives <a href="https://github.com/matthewkling/deranged">here on GitHub</a>. Development is ongoing, and additional features and API changes will be added over time.</p>
+<p>This project is part of <a href="https://biobarracuda.org/">Barracuda</a>, an NSF-funded research program focused on modeling landscape adaptation to climate change.</p>
          
       </div>
     </div>

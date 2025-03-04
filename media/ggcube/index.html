@@ -136,9 +136,37 @@ if (!doNotTrack) {
          <h1>ggcube</h1>
          <p>[R PACKAGE] A ggplot2 extension for 3D visualization</p>
 <p><img src="/img/images/ggcube_1600.jpeg" alt="ggcube example"></p>
-<p>I love a good 3D plot. And I love ggplot2. But ggplot2 doesn&rsquo;t do 3D, and none of the very good 3D plotting libraries in R have the crisp satisfaction of tidyverse. A very nice package called gg3D does implement 3d ggplots, but it lacks flexibility in key respects and sadly is no longer actively maintained.</p>
-<p>So, I decided to take a crack at building a new 3D library for ggplot. It turns out this is kinda complicated, but I&rsquo;ve made enough progress to share it here. It&rsquo;s called <a href="https://github.com/matthewkling/ggcube">ggcube</a>, and can be installed via <a href="https://github.com/matthewkling/ggcube">GitHub</a>.</p>
-<p>A key point is that there are numerous flavors of 3D projection. There&rsquo;s 1-point, 2-point, and 3-point perspective projections. There&rsquo;s oblique projection and isohedral projection and axial projection, and I&rsquo;m sure lots more. I wanted this library to support a number of different approaches, since they&rsquo;re useful for different purposes, so it aims to be flexible without being too complex.</p>
+<h2 id="overview">Overview</h2>
+<p>ggcube is an R package I developed to extend ggplot2&rsquo;s native capabilities into the third dimension. While there are numerous 3D visualization libraries in R, none of them seamlessly integrate with the elegant grammar of graphics approach that makes ggplot2 so powerful and intuitive.</p>
+<p>The package provides a framework where users can define 3D projections and then use familiar ggplot2 syntax alongside specialized projection functions to create sophisticated 3D visualizations. Rather than introducing a completely new paradigm, ggcube builds upon the existing ggplot2 foundation, allowing users to leverage their existing knowledge while adding the power of the z-axis.</p>
+<p>This project emerged from my own need for high-quality, customizable 3D visualizations that maintain the aesthetic consistency and programmatic flexibility of the tidyverse ecosystem. While still under active development, the package already supports a range of projection types, visualization approaches, and customization options.</p>
+<h2 id="key-features">Key Features</h2>
+<ul>
+<li><strong>Flexible 3D projections</strong> including orthographic, perspective, and various oblique projections</li>
+<li><strong>Full customization of rotation angles</strong> with pitch, roll, and yaw parameters</li>
+<li><strong>Compatible with ggplot2 geoms</strong> for seamless integration with familiar plotting components</li>
+<li><strong>Specialized 3D-specific layers</strong> such as:
+<ul>
+<li><code>proj_data()</code> for projecting points, lines, and other geoms</li>
+<li><code>proj_surface()</code> for rendering 3D surfaces</li>
+<li><code>proj_ridgeline()</code> for creating Joy Division-style ridgeline plots</li>
+<li><code>proj_margin()</code> for adding marginal plots on cube faces</li>
+<li><code>proj_panel()</code> and <code>proj_gridlines()</code> for cube structure and reference lines</li>
+<li><code>proj_label()</code> for axis labeling</li>
+</ul>
+</li>
+</ul>
+<h2 id="applications">Applications</h2>
+<p>The package is useful for:</p>
+<ul>
+<li>Creating publication-quality 3D visualizations with the familiar ggplot2 syntax</li>
+<li>Rendering complex 3D surfaces and topographies</li>
+<li>Visualizing multivariate data with color, size, and depth encoding</li>
+<li>Building custom 3D visualizations for specific domains</li>
+<li>Teaching and demonstrating 3D concepts with clear, aesthetic graphics</li>
+</ul>
+<h2 id="resources">Resources</h2>
+<p>The package is currently under active development and hasn&rsquo;t been released to CRAN yet. You can install the development version from <a href="https://github.com/matthewkling/ggcube">GitHub</a> using <code>devtools::install_github(&quot;matthewkling/ggcube&quot;)</code>. The GitHub repository contains additional examples and documentation.</p>
 <p>The images on this page are examples of ggcube in action; see the GitHub page for the associated code.</p>
 <p><img src="/img/images/ggcube_scatter.png" alt="ggcube example"></p>
          
