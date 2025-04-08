@@ -109,3 +109,50 @@
   padding: 0;
   overflow: hidden;
 }
+
+/* Item transitions */
+.masonry-item {
+  transition: opacity 0.3s, transform 0.3s;
+}
+
+.masonry-item.hidden-item {
+  opacity: 0;
+  transform: scale(0.8);
+  height: 0;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+/* Reduce heading sizes in content areas */
+.content-column-content h1 {
+  font-size: 2rem;
+  margin-top: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.content-column-content h2 {
+  font-size: 1.5rem;
+  margin-top: 1.2rem;
+  margin-bottom: 0.8rem;
+}
+
+.content-column-content h3 {
+  font-size: 1.2rem;
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+.content-column-content h4,
+.content-column-content h5,
+.content-column-content h6 {
+  font-size: 1rem;
+  margin-top: 0.8rem;
+  margin-bottom: 0.4rem;
+  font-weight: bold;
+}
+
+/* Ensure consistent spacing for paragraphs */
+.content-column-content p {
+  margin-bottom: 1rem;
+}

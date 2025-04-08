@@ -136,17 +136,16 @@ if (!doNotTrack) {
          <h1>BISHOP</h1>
          <p>[PUBLICATION; R PACKAGE] Inferring microclimate from tree occurrences.</p>
 <p><img src="/img/images/bishop1600.jpeg" alt="High-resolution bioclimate map inferred from tree distributions"></p>
-<h2 id="overview">Overview</h2>
+<h4 id="overview">Overview</h4>
 <p>This research, published in <a href="https://doi.org/10.1111/ecog.07131">Ecography</a> (2024), introduces a novel modeling approach called BISHOP (Bioclimate Inference from Species' High-resolution Occurrence Patterns) that leverages species occurrence data to predict fine-scale climate variation. The approach addresses a critical gap in ecological research by providing access to high-resolution &ldquo;bioclimate&rdquo; data representing microclimatic conditions as experienced by organisms.</p>
-<h2 id="methodological-innovation">Methodological Innovation</h2>
+<h4 id="methodological-innovation">Methodological Innovation</h4>
 <p>BISHOP works by:</p>
 <ul>
-<li>Pairing a climate-downscaling function with a niche function predicting species occurrences</li>
-<li>Inferring how physiographic variables (terrain, soil, vegetation) affect local climate conditions</li>
-<li>Estimating how these effects vary geographically</li>
+<li>Modeling microclimate as a latent variable in a multi-level Bayesian model that pairs a climate-downscaling function with a niche function predicting species occurrences</li>
+<li>Inferring how physiographic variables (terrain, soil, vegetation) affect local climate conditions, and estimating how these effects vary geographically</li>
 <li>Producing high-resolution (10m) maps of bioclimate over large regions</li>
 </ul>
-<h2 id="empirical-findings">Empirical Findings</h2>
+<h4 id="empirical-findings">Empirical Findings</h4>
 <p>Using data from 216 North American tree species, we:</p>
 <ul>
 <li>Documented biogeographic patterns that enable BISHOP inference</li>
@@ -155,7 +154,7 @@ if (!doNotTrack) {
 <li>Demonstrated that nearby bioclimates can differ by 5°C in temperature and twofold in moisture</li>
 <li>Revealed that topographically similar landscapes can exhibit dramatically different bioclimate variation</li>
 </ul>
-<h2 id="resources">Resources</h2>
+<h4 id="resources">Resources</h4>
 <p>To accompany this publication, we developed a companion <a href="https://github.com/matthewkling/topoclimate.pred">R package</a> that enables users to generate fine-scale tree-focused bioclimate predictions for any landscape in the United States based on the regression models from the paper.</p>
 <p><strong>Citation:</strong> Kling, M.M., Baer, K.C., &amp; Ackerly, D.D. (2024). A tree&rsquo;s view of the terrain: downscaling bioclimate variables to high resolution using a novel multi-level species distribution model. <em>Ecography</em>, e07131. <a href="https://doi.org/10.1111/ecog.07131">https://doi.org/10.1111/ecog.07131</a></p>
          
