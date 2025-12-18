@@ -142,7 +142,7 @@ if (!doNotTrack) {
 <p>I made these charts, as I generally do, in R. Having failed to find an existing package that implements color mappings like this, I packaged up some functions of my own in a library called <a href="https://github.com/matthewkling/colors3d">colors3d</a>. You can install it from CRAN via <code>install.packages(&quot;colors3d&quot;)</code>.</p>
 <p>The package includes two functions that map data to a 2D colorspace, and one for 3D colorspace. Each takes a table of input data as the only required parameter, and returns a vector of color values corresponding to every row of the table. These colors can then be fed to your plots, whether you&rsquo;re using base graphics, ggplot2, rgl, etc.</p>
 <p><img src="/img/images/colorado_precip.png" alt="Colorado climate"></p>
-<h4 id="a-brief-tutorial">A brief tutorial</h4>
+<h1 id="a-brief-tutorial">A brief tutorial</h1>
 <p>Let&rsquo;s reproduce the map above, which shows precipitation seasonality in Colorado by comparing precipitation in the wettest vs. driest months. In this plot, green and black places have average seasonality and are either wet or dry, respectively. Yellow places are highly seasonal with rain or snow concentrated in the wettest season, while blue places have the flattest, most aseasonal precipitation profiles. This example uses <code>colors2d</code>, in which a palette is defined by specifying 4 corner colors. Here&rsquo;s code to create this chart:</p>
 <pre><code>install.packages(&quot;colors3d&quot;)
 library(colors3d)
@@ -173,7 +173,7 @@ plot(v, col=colors, pch=16,
 col &lt;- clim[[c(1,1,1)]]
 col[] &lt;- t(col2rgb(colors))
 plotRGB(col)
-</code></pre><h4 id="on-perceptual-uniformity">On perceptual uniformity</h4>
+</code></pre><h1 id="on-perceptual-uniformity">On perceptual uniformity</h1>
 <p>This treatment of colorspace leaves a couple things to be desired. First off there&rsquo;s colorblindness, which shrinks and distorts visible colorspace. And then there&rsquo;s <a href="https://www.youtube.com/watch?v=xAoljeRJ3lU">perceptual non-uniformity</a>, i.e. the notion that because humans' ability to discern color differences varies across RGB colorspace, using color ramps that are linear in RGB space biases user interpretation of data visualizations. Both these issues prevent viewers from correctly perceiving the true patterns in the data.</p>
 <p>In R, <a href="https://cran.r-project.org/web/packages/viridis/index.html">viridis</a> overcomes both these problems for one-dimensional color ramps. That should be doable in 2D and 3D color mappings as well, building on tools like <a href="https://pypi.python.org/pypi/colorspacious/">colorspacious</a>&hellip; I&rsquo;d like to look into implementing that at some point.</p>
          

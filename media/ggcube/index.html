@@ -136,14 +136,12 @@ if (!doNotTrack) {
          <h1>ggcube</h1>
          <p>[R PACKAGE] A ggplot2 extension for 3D visualization</p>
 <p><img src="/img/images/ggcube_function.png" alt="ggcube example"></p>
-<h4 id="overview">Overview</h4>
-<p>ggcube is an R package I developed that lets you build 3D figures using ggplot2. While there are numerous 3D visualization libraries in R, none of them seamlessly integrate with the elegant grammar of graphics approach that makes ggplot2 so powerful and intuitive. ggcube aims to fill this gap.</p>
-<p>The package is based around <code>coord_3d()</code> a coordinate function that lets you define rotation and projection parameters for plots that include x, y, and z aesthetic variables. ggcube also provides a variety of 3D-specific <code>geoms</code> to render surfaces, prisms, points, and paths in 3D; it also works with some standard ggplot2 layer functions. You can control plot geometry with 3D projection parameters, can apply a range of 3D lighting models, and can mix 3D layers with 2D layers rendered on cube faces. Standard ggplot2 features like faceting, themes, scales, and legends work as expected.</p>
+<h1 id="overview">Overview</h1>
+<p><a href="https://matthewkling.github.io/ggcube"><strong>ggcube</strong></a> is an R package I developed that lets you build 3D figures using ggplot2. While there are numerous 3D visualization libraries in R, none of them seamlessly integrates with ggplot2, which is limiting given ggplot&rsquo;s elegance, flexibility, and widespread usage. <strong>ggcube</strong> aims to help fill this gap.</p>
+<p>The package is based around <code>coord_3d()</code>, a coordinate function you add to a ggplot that lets you define rotation and projection parameters for plots with x, y, and z aesthetic variable. <strong>ggcube</strong> also provides a variety of 3D-specific <code>geoms</code> to render surfaces, prisms, points, and paths in 3D; it also works with some standard ggplot2 layer functions. You can control plot geometry with 3D projection parameters, can apply a range of 3D lighting models, and can mix 3D layers with 2D layers rendered on cube faces. Standard ggplot2 features like faceting, themes, scales, and legends work as expected.</p>
 <p><img src="/img/images/ggcube_lighting.png" alt="ggcube example"></p>
-<h4 id="key-features">Key Features</h4>
-<h4 id="applications">Applications</h4>
-<h4 id="resources">Resources</h4>
-<p>The package is currently under active development and hasn&rsquo;t been released to CRAN yet. You can install the development version from <a href="https://github.com/matthewkling/ggcube">GitHub</a> using <code>devtools::install_github(&quot;matthewkling/ggcube&quot;)</code>. The GitHub repository contains additional examples and documentation.</p>
+<h1 id="resources">Resources</h1>
+<p>The package is currently under active development and hasn&rsquo;t yet been released to CRAN, though the API should be relatively stable at this point. You can install the development version from <a href="https://github.com/matthewkling/ggcube">GitHub</a> using <code>devtools::install_github(&quot;matthewkling/ggcube&quot;)</code>. The GitHub repository contains additional examples and documentation.</p>
 <p>The images on this page are examples of ggcube in action; see the GitHub page for the associated code.</p>
 <p><img src="/img/images/ggcube_points.png" alt="ggcube example"></p>
          
