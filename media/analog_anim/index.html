@@ -2,7 +2,7 @@
 <html lang="en-us">
 <head><meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<title>analogs</title>
+<title>Animating climate change</title>
 <meta name="description" content="Matthew Kling">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="all,follow">
@@ -133,26 +133,21 @@ if (!doNotTrack) {
   <div class="row">
     <div class="col-lg-8">
       <div class="content-column-content">
-         <h1>analogs</h1>
-         <p>[R PACKAGE] Fast, flexible toolset for climate analog analysis</p>
-<p><img src="/img/images/analogs_1600.jpeg" alt="analogs"></p>
-<h1 id="overview">Overview</h1>
-<p><a href="https://matthewkling.github.io/analogs/"><code>analogs</code></a> is an R package for climate analog analysis, a set of methods widely used in climate change ecology and biogeography. The package provides fast, flexible tools for searching large reference datasets to find locations that best match query sites based on climate similarity and geographic proximity.</p>
-<p>Climate analog methods underpin a range of applications in climate change research, from estimating climate velocity&mdash;the speed at which climate conditions shift across a landscape&mdash;to predicting ecological impacts using analog-based models that leverage spatial patterns as a proxy for temporal change. The <code>analogs</code> package provides a unified framework for these diverse applications, with a focus on computational efficiency and methodological flexibility.</p>
-<h1 id="key-features">Key Features</h1>
-<ul>
-<li><strong>Core search architecture</strong> with a flexible <code>analog_search()</code> function and simplified wrappers for common analysis types</li>
-<li><strong>Climate velocity analysis</strong> via <code>analog_velocity()</code> to find the nearest geographic locations with analogous climates under projected change</li>
-<li><strong>Analog impact models</strong> via <code>analog_impact()</code> to predict ecological state variables by aggregating conditions at climate-similar locations</li>
-<li><strong>Analog availability</strong> via <code>analog_availability()</code> to count and map the density of climate analogs within specified constraints</li>
-<li><strong>Flexible distance metrics</strong> including Euclidean and Mahalanobis climate distances, and support for both projected and lon-lat geographic coordinates</li>
-<li><strong>Computational efficiency</strong> features including use of a lattice search index built in C++, support for multi-thread parallel processing, optional adaptive downsampling for fast approximate results, and memory-safe queries for large raster datasets</li>
-</ul>
-<h1 id="resources">Resources</h1>
-<p>The package is available on <a href="https://github.com/matthewkling/analogs">GitHub</a> and can be installed with:</p>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-r" data-lang="r">pak<span style="color:#f92672">::</span><span style="color:#a6e22e">pak</span>(<span style="color:#e6db74">&#34;matthewkling/analogs&#34;</span>)
-</code></pre></div><p>Full documentation and examples are available at the <a href="https://matthewkling.github.io/analogs/reference/index.html">package website</a>.</p>
+         <h1>Animating climate change</h1>
+         <p>[VISUALIZATION] How will climate types migrate across space?</p>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://player.vimeo.com/video/156115210" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="vimeo video" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
 
+<h2 id="migrating-climate-analogs">Migrating climate analogs</h2>
+<p>The high dimensionality of climate change data makes it challenging to understand and communicate. I took a stab at a new approach the other day, with this little animation depicting a century of projected climate change. Each color represents the climate signature of a distinct combination of 27 biologically-relevant climate variables, which lets us see the predicted geographic movement of these climates over time.</p>
+<p>Different types of change are occurring in different regions. Overland <a href="http://www.nature.com/nature/journal/v462/n7276/full/nature08649.html">climate velocities</a> are highest across the Midwest and Great Plains. The Gulf coast and the central Rockies have contracting climates that are projected to disappear by mid-century. In places like the northern Rockies and the Southeast, we see the emergence of <a href="http://www.pnas.org/content/104/14/5738.abstract">novel climates</a> representing combinations of climate variables with no historical analog.</p>
+<p>For me, this helps internalize the contemporary climate change driving the ecological processes I study. In the face of this change, the biota has three choices: adapt in situ to novel conditions, migrate to remain within their baseline climate, or face local extripation.</p>
+<h2 id="nerd-notes">Nerd notes</h2>
+<p>I made this video in R using the &lsquo;animation&rsquo; package. Source climate data are the mean predictions across an ensemble of CMIP5 global circulation models run under the RCP 8.5 emissions scenario. Data are 30-year normals from the ClimateNA dataset for the 1961-1990 era and the 2080s era. I linearlly interpolated climate signatures between these two periods to produce a smooth animation.</p>
+<p>The challenge here was representing high-dimensional data in 2D. The approach I took was to reduce the climate dimensions to a single color for each pixel, while leaving space and time in their native forms. I first used non-metric multidimensional scaling (NMDS) to embed the 27 climate variables into 3 dimensions, which I then mapped to RGB colorspace such that color similarity represents climatic similarity. This mapping could take many forms, but I rank-transformed the RGB values to increase contrast, produced a menu of possible palettes (below), and picked one with a nice gestalt.</p>
+<p><img src="/img/images/analogs_palettes.jpg" alt="palettes"></p>
+<p>There were a lot of subjective decisions in this process whose effects would be interesting to explore. The choice of climate variables, dimension reduction algorithm, RGB rescaling method, and number of clusters all influence the look and feel of the results. The code is posted on <a href="https://github.com/matthewkling/analog_animation">github</a>. At some point I&rsquo;d like to extend this to a global extent using a different base dataset like Worldclim, and experiment with higher-res animations of smaller regions.</p>
          
       </div>
     </div>
