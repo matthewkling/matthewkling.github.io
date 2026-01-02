@@ -6,7 +6,25 @@
     <description>Recent content in software on Matthew Kling</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://matthewkling.github.io/tags/software/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://matthewkling.github.io/tags/software/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>analogs</title>
+      <link>https://matthewkling.github.io/media/analogs/</link>
+      <pubDate>Fri, 19 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://matthewkling.github.io/media/analogs/</guid>
+      <description>&lt;p&gt;[R PACKAGE] Tools for fast, flexible climate analog analysis&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>nullcat</title>
+      <link>https://matthewkling.github.io/media/nullcat/</link>
+      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://matthewkling.github.io/media/nullcat/</guid>
+      <description>&lt;p&gt;[R PACKAGE] Null model algorithms for categorical and quantitative community ecology data&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>ggcube</title>
       <link>https://matthewkling.github.io/media/ggcube/</link>
@@ -41,24 +59,6 @@
       
       <guid>https://matthewkling.github.io/media/deranged/</guid>
       <description>&lt;p&gt;[R PACKAGE] Modeling software for mechanistic species range simulations.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>analogs</title>
-      <link>https://matthewkling.github.io/media/analogs/</link>
-      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://matthewkling.github.io/media/analogs/</guid>
-      <description>&lt;p&gt;[R PACKAGE] Tools for fast, flexible climate analog analysis&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>nullcat</title>
-      <link>https://matthewkling.github.io/media/nullcat/</link>
-      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://matthewkling.github.io/media/nullcat/</guid>
-      <description>&lt;p&gt;[R PACKAGE] Null model algorithms for categorical and quantitative community ecology data&lt;/p&gt;</description>
     </item>
     
     <item>

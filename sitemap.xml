@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://matthewkling.github.io/media/analogs/</loc>
+    <lastmod>2025-12-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://matthewkling.github.io/media/nullcat/</loc>
+    <lastmod>2025-11-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://matthewkling.github.io/media/ggcube/</loc>
     <lastmod>2025-01-24T00:00:00+00:00</lastmod>
   </url>
@@ -20,16 +30,6 @@
   <url>
     <loc>https://matthewkling.github.io/media/deranged/</loc>
     <lastmod>2023-11-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://matthewkling.github.io/media/analogs/</loc>
-    <lastmod>2022-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://matthewkling.github.io/media/nullcat/</loc>
-    <lastmod>2022-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -154,22 +154,27 @@
   
   <url>
     <loc>https://matthewkling.github.io/</loc>
-    <lastmod>2025-01-24T00:00:00+00:00</lastmod>
+    <lastmod>2025-12-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://matthewkling.github.io/media/</loc>
-    <lastmod>2025-01-24T00:00:00+00:00</lastmod>
+    <lastmod>2025-12-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://matthewkling.github.io/tags/research/</loc>
+    <lastmod>2025-12-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://matthewkling.github.io/tags/software/</loc>
-    <lastmod>2025-01-24T00:00:00+00:00</lastmod>
+    <lastmod>2025-12-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://matthewkling.github.io/tags/</loc>
-    <lastmod>2025-01-24T00:00:00+00:00</lastmod>
+    <lastmod>2025-12-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -179,11 +184,6 @@
   
   <url>
     <loc>https://matthewkling.github.io/tags/papers/</loc>
-    <lastmod>2024-08-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://matthewkling.github.io/tags/research/</loc>
     <lastmod>2024-08-11T00:00:00+00:00</lastmod>
   </url>
   
