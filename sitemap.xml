@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://matthewkling.github.io/media/circuitscaper/</loc>
+    <lastmod>2026-03-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://matthewkling.github.io/media/analogs/</loc>
     <lastmod>2025-12-19T00:00:00+00:00</lastmod>
   </url>
@@ -154,26 +159,26 @@
   
   <url>
     <loc>https://matthewkling.github.io/</loc>
-    <lastmod>2025-12-19T00:00:00+00:00</lastmod>
+    <lastmod>2026-03-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://matthewkling.github.io/media/</loc>
-    <lastmod>2025-12-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://matthewkling.github.io/tags/research/</loc>
-    <lastmod>2025-12-19T00:00:00+00:00</lastmod>
+    <lastmod>2026-03-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://matthewkling.github.io/tags/software/</loc>
-    <lastmod>2025-12-19T00:00:00+00:00</lastmod>
+    <lastmod>2026-03-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://matthewkling.github.io/tags/</loc>
+    <lastmod>2026-03-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://matthewkling.github.io/tags/research/</loc>
     <lastmod>2025-12-19T00:00:00+00:00</lastmod>
   </url>
   

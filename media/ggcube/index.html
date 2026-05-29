@@ -137,12 +137,16 @@ if (!doNotTrack) {
          <p>[R PACKAGE] A ggplot2 extension for 3D visualization</p>
 <p><img src="/img/images/ggcube_function.png" alt="ggcube example"></p>
 <h1 id="overview">Overview</h1>
-<p><a href="https://matthewkling.github.io/ggcube"><strong>ggcube</strong></a> is an R package I developed that lets you build 3D figures using ggplot2. While there are numerous 3D visualization libraries in R, none of them seamlessly integrates with ggplot2, which is limiting given ggplot&rsquo;s elegance, flexibility, and widespread usage. <strong>ggcube</strong> aims to help fill this gap.</p>
+<p>The <a href="https://matthewkling.github.io/ggcube"><strong>ggcube</strong></a> R package lets you build 3D figures using ggplot2. While there are numerous 3D visualization libraries in R, none of them seamlessly integrates with ggplot2, which is limiting given ggplot&rsquo;s elegance, flexibility, and widespread usage. <strong>ggcube</strong> aims to help fill this gap.</p>
 <p>The package is based around <code>coord_3d()</code>, a coordinate function you add to a ggplot that lets you define rotation and projection parameters for plots with x, y, and z aesthetic variable. <strong>ggcube</strong> also provides a variety of 3D-specific <code>geoms</code> to render surfaces, prisms, points, and paths in 3D; it also works with some standard ggplot2 layer functions. You can control plot geometry with 3D projection parameters, can apply a range of 3D lighting models, and can mix 3D layers with 2D layers rendered on cube faces. Standard ggplot2 features like faceting, themes, scales, and legends work as expected.</p>
 <p><img src="/img/images/ggcube_lighting.png" alt="ggcube example"></p>
 <h1 id="resources">Resources</h1>
-<p>The package is currently under active development and hasn&rsquo;t yet been released to CRAN, though the API should be relatively stable at this point. You can install the development version from <a href="https://github.com/matthewkling/ggcube">GitHub</a> using <code>devtools::install_github(&quot;matthewkling/ggcube&quot;)</code>. The GitHub repository contains additional examples and documentation.</p>
-<p>The images on this page are examples of ggcube in action; see the GitHub page for the associated code.</p>
+<p>The package is available on CRAN via <code>install.packages(&quot;ggcube&quot;)</code>, or you can install the development version from <a href="https://github.com/matthewkling/ggcube">GitHub</a> using <code>devtools::install_github(&quot;matthewkling/ggcube&quot;)</code>.</p>
+<ul>
+<li>The <a href="https://matthewkling.github.io/ggcube/articles/ggcube.html">getting started</a> vignette gives a tour of the main features.</li>
+<li>The <a href="https://matthewkling.github.io/ggcube/articles/coord_3d.html">3D view</a>, <a href="https://matthewkling.github.io/ggcube/articles/surfaces.html">surfaces</a>, and <a href="https://matthewkling.github.io/ggcube/articles/lighting.html">lighting and shading</a> articles go deeper on those topics.</li>
+<li>The <a href="https://matthewkling.github.io/ggcube/reference/index.html">function reference</a> documents every exported function.</li>
+</ul>
 <p><img src="/img/images/ggcube_points.png" alt="ggcube example"></p>
          
       </div>

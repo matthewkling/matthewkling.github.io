@@ -6,7 +6,16 @@
     <description>Recent content on Matthew Kling</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://matthewkling.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 25 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://matthewkling.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>circuitscaper</title>
+      <link>https://matthewkling.github.io/media/circuitscaper/</link>
+      <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://matthewkling.github.io/media/circuitscaper/</guid>
+      <description>&lt;p&gt;[R PACKAGE] An R interface for circuit-theory landscape connectivity modeling&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>analogs</title>
       <link>https://matthewkling.github.io/media/analogs/</link>
