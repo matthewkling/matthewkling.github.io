@@ -6,7 +6,7 @@
     <description>Recent content in Media on Matthew Kling</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://matthewkling.github.io/media/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 19 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://matthewkling.github.io/media/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>circuitscaper</title>
       <link>https://matthewkling.github.io/media/circuitscaper/</link>
@@ -17,12 +17,30 @@
     </item>
     
     <item>
+      <title>CLIMATIC NUCLEI</title>
+      <link>https://matthewkling.github.io/media/gcb_2025/</link>
+      <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://matthewkling.github.io/media/gcb_2025/</guid>
+      <description>&lt;p&gt;[PUBLICATION] Sustaining species of the future: climatic nuclei for climate change adaptation&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>analogs</title>
       <link>https://matthewkling.github.io/media/analogs/</link>
       <pubDate>Fri, 19 Dec 2025 00:00:00 +0000</pubDate>
       
       <guid>https://matthewkling.github.io/media/analogs/</guid>
       <description>&lt;p&gt;[R PACKAGE] Tools for fast, flexible climate analog analysis&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>BRYOPHYTE BIOEGOGRAPHY</title>
+      <link>https://matthewkling.github.io/media/sysbot_2026/</link>
+      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://matthewkling.github.io/media/sysbot_2026/</guid>
+      <description>&lt;p&gt;[PUBLICATION] Spatial phylogenetics with continuous data: an application to California bryophytes&lt;/p&gt;</description>
     </item>
     
     <item>

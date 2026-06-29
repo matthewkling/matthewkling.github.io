@@ -6,7 +6,25 @@
     <description>Recent content in Tags on Matthew Kling</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://matthewkling.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 19 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://matthewkling.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>papers</title>
+      <link>https://matthewkling.github.io/tags/papers/</link>
+      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://matthewkling.github.io/tags/papers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>research</title>
+      <link>https://matthewkling.github.io/tags/research/</link>
+      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://matthewkling.github.io/tags/research/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>software</title>
       <link>https://matthewkling.github.io/tags/software/</link>
@@ -17,29 +35,11 @@
     </item>
     
     <item>
-      <title>research</title>
-      <link>https://matthewkling.github.io/tags/research/</link>
-      <pubDate>Fri, 19 Dec 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://matthewkling.github.io/tags/research/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>visualization</title>
       <link>https://matthewkling.github.io/tags/visualization/</link>
       <pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
       
       <guid>https://matthewkling.github.io/tags/visualization/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>papers</title>
-      <link>https://matthewkling.github.io/tags/papers/</link>
-      <pubDate>Sun, 11 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://matthewkling.github.io/tags/papers/</guid>
       <description></description>
     </item>
     

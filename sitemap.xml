@@ -8,8 +8,18 @@
   </url>
   
   <url>
+    <loc>https://matthewkling.github.io/media/gcb_2025/</loc>
+    <lastmod>2025-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://matthewkling.github.io/media/analogs/</loc>
     <lastmod>2025-12-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://matthewkling.github.io/media/sysbot_2026/</loc>
+    <lastmod>2026-05-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -159,12 +169,27 @@
   
   <url>
     <loc>https://matthewkling.github.io/</loc>
-    <lastmod>2026-03-25T00:00:00+00:00</lastmod>
+    <lastmod>2026-05-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://matthewkling.github.io/media/</loc>
-    <lastmod>2026-03-25T00:00:00+00:00</lastmod>
+    <lastmod>2026-05-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://matthewkling.github.io/tags/papers/</loc>
+    <lastmod>2026-05-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://matthewkling.github.io/tags/research/</loc>
+    <lastmod>2026-05-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://matthewkling.github.io/tags/</loc>
+    <lastmod>2026-05-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -173,23 +198,8 @@
   </url>
   
   <url>
-    <loc>https://matthewkling.github.io/tags/</loc>
-    <lastmod>2026-03-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://matthewkling.github.io/tags/research/</loc>
-    <lastmod>2025-12-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://matthewkling.github.io/tags/visualization/</loc>
     <lastmod>2025-01-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://matthewkling.github.io/tags/papers/</loc>
-    <lastmod>2024-08-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
