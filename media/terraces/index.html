@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>terraces · Matthew Kling</title>
+<meta name="description" content="Aggregation-consistent raster disaggregation">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;0,700;1,400&family=Roboto+Mono:wght@400;500&display=swap">
+<link rel="stylesheet" href="https://matthewkling.github.io/css/site.css">
+<link rel="shortcut icon" href="https://matthewkling.github.io/img/favicon.png">
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Q8Q88J1YJY"></script>
+<script>
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+	gtag('config', 'G-Q8Q88J1YJY', { 'anonymize_ip': false });
+}
+</script>
+
+
+</head>
+<body>
+<div class="page">
+<aside class="side">
+  <a class="brand" href="https://matthewkling.github.io">Matthew Kling</a>
+  <p class="bio">I'm an ecologist and data scientist focused on understanding biodiversity patterns and informing conservation under global environmental change. I conduct empirical research, develop modeling tools, and create data visualizations. I am currently a USGS postdoctoral fellow at the University of Montana.</p>
+  <nav class="snav" aria-label="Site">
+    <a href="https://matthewkling.github.io/media/" class="active">Projects</a>
+    <a href="https://matthewkling.github.io/about/">About</a>
+    <a href="https://matthewkling.github.io/cv/">CV</a>
+    <a href="https://matthewkling.github.io/contact/">Contact</a>
+  </nav>
+  <div class="foot">
+    <div class="social">
+      <a href="mailto:matthew.kling@umontana.edu">Email</a>
+      <a href="https://github.com/matthewkling">GitHub</a>
+      <a href="https://bsky.app/profile/matthewkling.bsky.social">Bluesky</a>
+    </div>
+    <div>&copy;2026 Matthew Kling</div>
+  </div>
+</aside>
+
+<main class="main" id="content">
+  <article class="col-article">
+    <a class="back" href="https://matthewkling.github.io/media/">← All projects</a>
+
+    <header class="phead">
+      <span class="thumb-box"><img class="thumb thumb--hex" src="https://matthewkling.github.io/img/images/terraces_thumb.png" alt=""></span>
+
+      <div class="phead-text">
+        <div class="label">R package  ·  2026–present</div>
+        <h1 class="mono">terraces</h1>
+        <p class="tagline">Aggregation-consistent raster disaggregation</p>
+      </div>
+    </header>
+
+    <div class="btn-row">
+      <a class="btn btn-dark" href="https://matthewkling.github.io/terraces/">Documentation</a>
+      <a class="btn" href="https://github.com/matthewkling/terraces">GitHub</a>
+    </div>
+
+    <div class="prose">
+      <p><img src="/img/images/terraces_1600.png" alt="A one-dimensional comparison of standard linear interpolation and the three terraces disaggregation methods"></p>
+<h1 id="overview">Overview</h1>
+<p><a href="https://matthewkling.github.io/terraces/"><code>terraces</code></a> is an R package for disaggregating rasters to finer resolution in a way that stays consistent with the original coarse data. Most raster products, including climate grids like CHELSA and WorldClim, remote sensing imagery, and coarsened DEMs, report cell values that represent averages over each cell&rsquo;s area. Standard bilinear and cubic disaggregation instead treat those values as point samples at cell centers, so the fine-scale result flattens peaks and troughs and no longer averages back to the input. <code>terraces</code> extends <code>terra</code>&rsquo;s disaggregation tools with methods that treat cell values as areal means: re-aggregating the output recovers the original coarse raster, while the fine-scale surface remains smooth and continuous.</p>
+<p>The package includes three of these <strong>A</strong>ggregation-<strong>C</strong>onsistent <strong>Es</strong>timation methods. Two are pre-sharpened variants of bilinear and cubic interpolation, which apply a precomputed inverse kernel to the coarse raster before standard interpolation; they&rsquo;re fast, non-iterative, and work as drop-in replacements for <code>terra::disagg()</code>. The third is an implementation of Tobler&rsquo;s (1979) pycnophylactic interpolation adapted to regular grids, which preserves coarse-cell means exactly and gives the smoothest result, at the cost of more computation. The figure above illustrates the differences in one dimension.</p>
+<h1 id="resources">Resources</h1>
+<p><code>terraces</code> is available on GitHub and can be installed with:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-r" data-lang="r">pak<span style="color:#f92672">::</span><span style="color:#a6e22e">pak</span>(<span style="color:#e6db74">&#34;matthewkling/terraces&#34;</span>)
+</code></pre></div>
+    </div>
+    <nav class="pager" aria-label="More projects">
+      <a href="/media/windscape/">← Previous: windscape</a>
+      <a href="/media/sysbot_2026/">Next: Bryophyte biogeography →</a>
+    </nav>
+  </article>
+</main>
+
+</div>
+
+</body>
+</html>

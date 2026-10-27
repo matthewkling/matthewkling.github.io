@@ -6,7 +6,7 @@
     <description>Recent content in software on Matthew Kling</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://matthewkling.github.io/tags/software/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Oct 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://matthewkling.github.io/tags/software/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>circuitscaper</title>
       <link>https://matthewkling.github.io/media/circuitscaper/</link>
@@ -24,16 +24,6 @@
       <guid>https://matthewkling.github.io/media/analogs/</guid>
       <description>Overview analogs is an R package for climate analog analysis, a set of methods widely used in climate change ecology and biogeography. The package provides fast, flexible tools for searching large reference datasets to find locations that best match query sites based on climate similarity and geographic proximity.
 Climate analog methods underpin a range of applications in climate change research, from estimating climate velocity&amp;mdash;the speed at which climate conditions shift across a landscape&amp;mdash;to predicting ecological impacts using analog-based models that leverage spatial patterns as a proxy for temporal change.</description>
-    </item>
-    
-    <item>
-      <title>nullcat</title>
-      <link>https://matthewkling.github.io/media/nullcat/</link>
-      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://matthewkling.github.io/media/nullcat/</guid>
-      <description>Overview nullcat is an R package that extends classic binary null models to work with categorical data and introduces a stratified randomization framework for continuous community ecology data. The package is now available on CRAN.
-Traditional methods provide a well-rounded set of algorithms for binary presence-absence data, but fall short for other data types. Count data (abundance) and continuous data (e.g. presence probability, biomass, cover) are supported only by a limited set of methods that offer less flexibility in which margins are randomized versus held fixed, while categorical data (e.</description>
     </item>
     
     <item>
@@ -67,15 +57,6 @@ Methodological Innovation BISHOP works by:
     </item>
     
     <item>
-      <title>deranged</title>
-      <link>https://matthewkling.github.io/media/deranged/</link>
-      <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://matthewkling.github.io/media/deranged/</guid>
-      <description>Overview To understand how species&#39; geographic ranges shift in response to forces like climate change, we need to model the underlying mechanistic processes like population demography and dispersal. The R software library deranged (for &amp;ldquo;DEmographic RANGE modeling with Dispersal&amp;rdquo;) is a modeling package I developed that provides a flexible set of open source tools for efficiently simulating species range dynamics for a wide range of different applications. This software also underpins parts of my own empirical research focusing on climate impacts on forests.</description>
-    </item>
-    
-    <item>
       <title>phylospatial</title>
       <link>https://matthewkling.github.io/media/spatialphy/</link>
       <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
@@ -94,12 +75,67 @@ Methodological Innovation BISHOP works by:
     </item>
     
     <item>
+      <title>terraces</title>
+      <link>https://matthewkling.github.io/media/terraces/</link>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://matthewkling.github.io/media/terraces/</guid>
+      <description>Overview terraces is an R package for disaggregating rasters to finer resolution in a way that stays consistent with the original coarse data. Most raster products, including climate grids like CHELSA and WorldClim, remote sensing imagery, and coarsened DEMs, report cell values that represent averages over each cell&amp;rsquo;s area. Standard bilinear and cubic disaggregation instead treat those values as point samples at cell centers, so the fine-scale result flattens peaks and troughs and no longer averages back to the input.</description>
+    </item>
+    
+    <item>
+      <title>nullcat</title>
+      <link>https://matthewkling.github.io/media/nullcat/</link>
+      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://matthewkling.github.io/media/nullcat/</guid>
+      <description>Overview nullcat is an R package that extends classic binary null models to work with categorical data and introduces a stratified randomization framework for continuous community ecology data. The package is now available on CRAN.
+Traditional methods provide a well-rounded set of algorithms for binary presence-absence data, but fall short for other data types. Count data (abundance) and continuous data (e.g. presence probability, biomass, cover) are supported only by a limited set of methods that offer less flexibility in which margins are randomized versus held fixed, while categorical data (e.</description>
+    </item>
+    
+    <item>
+      <title>deranged</title>
+      <link>https://matthewkling.github.io/media/deranged/</link>
+      <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://matthewkling.github.io/media/deranged/</guid>
+      <description>Overview To understand how species&#39; geographic ranges shift in response to forces like climate change, we need to model the underlying mechanistic processes like population demography and dispersal. The R software library deranged (for &amp;ldquo;DEmographic RANGE modeling with Dispersal&amp;rdquo;) is a modeling package I developed that provides a flexible set of open source tools for efficiently simulating species range dynamics for a wide range of different applications. This software also underpins parts of my own empirical research focusing on climate impacts on forests.</description>
+    </item>
+    
+    <item>
       <title>Phylogeny &amp; conservation</title>
       <link>https://matthewkling.github.io/media/phycon/</link>
       <pubDate>Fri, 09 Nov 2018 00:00:00 +0000</pubDate>
       
       <guid>https://matthewkling.github.io/media/phycon/</guid>
       <description>To accompany a recent paper on conservation priorities for the California flora, I built the California Plant Phylodiversity Atlas, a web application that lets users interact with the phylogeny, geography, and local community dimensions of our biodiversity dataset. It was a fun Shiny app to put together, including use of the plotly, leaflet, and DT libraries, as well as integration with images from the Jepson eFlora. Check it out and let me know what you think!</description>
+    </item>
+    
+    <item>
+      <title>rawvignette</title>
+      <link>https://matthewkling.github.io/media/rawvignette/</link>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://matthewkling.github.io/media/rawvignette/</guid>
+      <description>Overview rawvignette is a small R package that streamlines the precompiled-vignette workflow, for package authors whose documentation needs to do computationally intensive work. Vignettes with long run times, API calls, or large datasets cause problems when a package is built remotely by CRAN, GitHub Actions, or pkgdown, and the usual workarounds (eval = FALSE chunks, hand-cached .rds files, hidden precompute chunks) all have drawbacks. Precomputing the vignette locally is often the cleanest solution, but existing approaches involve some setup friction, and the widely used .</description>
+    </item>
+    
+    <item>
+      <title>Ombrothermy</title>
+      <link>https://matthewkling.github.io/media/hydroclimate/</link>
+      <pubDate>Sat, 17 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://matthewkling.github.io/media/hydroclimate/</guid>
+      <description>To understand how a location&amp;rsquo;s climate is likely to shape the local ecology, we need a lot more info than just mean annual temperature and precipitation. The seasonality of these variables, and the interactions between heat and moisture, are key. I built a simple Shiny app that graphs these patterns for any location in the world &amp;ndash; this was mostly for my own use, but I&amp;rsquo;ve had a few requests to share so thought I&amp;rsquo;d post it here.</description>
+    </item>
+    
+    <item>
+      <title>Natlas</title>
+      <link>https://matthewkling.github.io/media/natlas/</link>
+      <pubDate>Mon, 12 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://matthewkling.github.io/media/natlas/</guid>
+      <description>I finally got the excuse I needed to learn d3.js, while leading the data visualization portion of a recent team project with the National Park Service through the Berkeley DS421 program. We used iNaturalist data to create NATLAS, a little web app that lets users explore citizen science biodiversity observations made in national parks near San Francisco. If you don&amp;rsquo;t know iNaturalist, you should &amp;ndash; it&amp;rsquo;s an awesome platform that lets users document species occurrences with a smartphone app, collectively generating a huge crowd-sourced dataset on what biodiversity is present when and where.</description>
     </item>
     
     <item>
@@ -119,24 +155,6 @@ In the above visualization (created as part of the DS421 NRT program) for exampl
       
       <guid>https://matthewkling.github.io/media/vortex/</guid>
       <description>As part of a group project for the DS421 NRT program here at UC Berkeley, I led our team&amp;rsquo;s construction of a little web app called Demographics of Disaster. The visualization uses a mashup of extreme weather data and US Census data to let users explore the geographic distribution of populations&#39; exposure to climatic disasters. It&amp;rsquo;s also useful for exploring relationships within each of those two categories, such as the above illustrations of relationships between income and population density.</description>
-    </item>
-    
-    <item>
-      <title>Natlas</title>
-      <link>https://matthewkling.github.io/media/natlas/</link>
-      <pubDate>Mon, 12 Jun 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://matthewkling.github.io/media/natlas/</guid>
-      <description>I finally got the excuse I needed to learn d3.js, while leading the data visualization portion of a recent team project with the National Park Service through the Berkeley DS421 program. We used iNaturalist data to create NATLAS, a little web app that lets users explore citizen science biodiversity observations made in national parks near San Francisco. If you don&amp;rsquo;t know iNaturalist, you should &amp;ndash; it&amp;rsquo;s an awesome platform that lets users document species occurrences with a smartphone app, collectively generating a huge crowd-sourced dataset on what biodiversity is present when and where.</description>
-    </item>
-    
-    <item>
-      <title>Ombrothermy</title>
-      <link>https://matthewkling.github.io/media/hydroclimate/</link>
-      <pubDate>Sat, 17 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://matthewkling.github.io/media/hydroclimate/</guid>
-      <description>To understand how a location&amp;rsquo;s climate is likely to shape the local ecology, we need a lot more info than just mean annual temperature and precipitation. The seasonality of these variables, and the interactions between heat and moisture, are key. I built a simple Shiny app that graphs these patterns for any location in the world &amp;ndash; this was mostly for my own use, but I&amp;rsquo;ve had a few requests to share so thought I&amp;rsquo;d post it here.</description>
     </item>
     
   </channel>

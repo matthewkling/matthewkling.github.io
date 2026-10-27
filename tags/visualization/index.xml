@@ -18,13 +18,13 @@ The package is based around coord_3d(), a coordinate function you add to a ggplo
     </item>
     
     <item>
-      <title>Particle trails</title>
-      <link>https://matthewkling.github.io/media/trails/</link>
-      <pubDate>Mon, 29 Jul 2019 00:00:00 +0000</pubDate>
+      <title>Phenology &amp; climate</title>
+      <link>https://matthewkling.github.io/media/aps_2019/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://matthewkling.github.io/media/trails/</guid>
-      <description>I just returned from a fantastic trip to the Species on the Move conference in South Africa, where I presented some work focused on relationships between wind patterns and biodiversity migration under climate change. I got a number of inquiries from folks about the wind and temperature gradient visualizations I showed in my talk, so thought I&amp;rsquo;d do a quick demo here of how I created those in R.
-The figure above illustrates prevailing near-surface winds by showing the paths that wind-blown particles would follow.</description>
+      <guid>https://matthewkling.github.io/media/aps_2019/</guid>
+      <description>Overview This research, published in Applications in Plant Sciences (2019), investigates how climate influences flowering patterns in the iconic Protea genus of subtropical Africa. While most phenological research has focused on temperate plants with discrete flowering seasons, this study examined how plants with year-round flowering respond to climate variation, finding that even in these aseasonal species, temperature is a primary driver of flowering timing.
+Research Approach In this study led by Barnabas Daru, we analyzed phenological patterns for species with year-round flowering, using a database of herbarium specimens collected between 1950 and 2011.</description>
     </item>
     
     <item>
@@ -37,21 +37,31 @@ The figure above illustrates prevailing near-surface winds by showing the paths 
     </item>
     
     <item>
-      <title>Chiaroscuro</title>
-      <link>https://matthewkling.github.io/media/rayshader/</link>
-      <pubDate>Thu, 16 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://matthewkling.github.io/media/rayshader/</guid>
-      <description>A lot of our research in the Ackerly lab is focused on understanding how climate variation shapes plant ecology, and one key driver of climate is local topography. In the northern hemisphere, higher radiation loads make south-facing slopes much warmer and drier on average&amp;mdash;but solar radiation varies based on latitude, season, and time of day, as well as the topographic slope and aspect of a given site. Partly just as an excuse to play with the new rayshader package, I thought I&amp;rsquo;d take a stab at creatting a realistic sunlight animation for Pepperwood Preserve, a site in the California coast ranges where our lab does extensive long-term forest monitoring research.</description>
-    </item>
-    
-    <item>
       <title>Growing an evolutionary tree</title>
       <link>https://matthewkling.github.io/media/trees/</link>
       <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>https://matthewkling.github.io/media/trees/</guid>
       <description>I had fun working on some visuals this week for my talk at the Half-Earth Day symposium on biodiversity conservation. The talk was focused on using evolutionary history to help identify conservation priorities for California plants. I used gganimate to create these two animations of the evolutionary tree of California plants. Above we see the growth of the tree over the past couple hundred million years, with color representing time, and branch length representing genetic mutations.</description>
+    </item>
+    
+    <item>
+      <title>Particle trails</title>
+      <link>https://matthewkling.github.io/media/trails/</link>
+      <pubDate>Mon, 29 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://matthewkling.github.io/media/trails/</guid>
+      <description>I just returned from a fantastic trip to the Species on the Move conference in South Africa, where I presented some work focused on relationships between wind patterns and biodiversity migration under climate change. I got a number of inquiries from folks about the wind and temperature gradient visualizations I showed in my talk, so thought I&amp;rsquo;d do a quick demo here of how I created those in R.
+The figure above illustrates prevailing near-surface winds by showing the paths that wind-blown particles would follow.</description>
+    </item>
+    
+    <item>
+      <title>Chiaroscuro</title>
+      <link>https://matthewkling.github.io/media/rayshader/</link>
+      <pubDate>Thu, 16 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://matthewkling.github.io/media/rayshader/</guid>
+      <description>A lot of our research in the Ackerly lab is focused on understanding how climate variation shapes plant ecology, and one key driver of climate is local topography. In the northern hemisphere, higher radiation loads make south-facing slopes much warmer and drier on average&amp;mdash;but solar radiation varies based on latitude, season, and time of day, as well as the topographic slope and aspect of a given site. Partly just as an excuse to play with the new rayshader package, I thought I&amp;rsquo;d take a stab at creatting a realistic sunlight animation for Pepperwood Preserve, a site in the California coast ranges where our lab does extensive long-term forest monitoring research.</description>
     </item>
     
     <item>
@@ -64,13 +74,12 @@ The figure above illustrates prevailing near-surface winds by showing the paths 
     </item>
     
     <item>
-      <title>Phenology &amp; climate</title>
-      <link>https://matthewkling.github.io/media/aps_2019/</link>
-      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Natlas</title>
+      <link>https://matthewkling.github.io/media/natlas/</link>
+      <pubDate>Mon, 12 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://matthewkling.github.io/media/aps_2019/</guid>
-      <description>Overview This research, published in Applications in Plant Sciences (2019), investigates how climate influences flowering patterns in the iconic Protea genus of subtropical Africa. While most phenological research has focused on temperate plants with discrete flowering seasons, this study examined how plants with year-round flowering respond to climate variation, finding that even in these aseasonal species, temperature is a primary driver of flowering timing.
-Research Approach In this study led by Barnabas Daru, we analyzed phenological patterns for species with year-round flowering, using a database of herbarium specimens collected between 1950 and 2011.</description>
+      <guid>https://matthewkling.github.io/media/natlas/</guid>
+      <description>I finally got the excuse I needed to learn d3.js, while leading the data visualization portion of a recent team project with the National Park Service through the Berkeley DS421 program. We used iNaturalist data to create NATLAS, a little web app that lets users explore citizen science biodiversity observations made in national parks near San Francisco. If you don&amp;rsquo;t know iNaturalist, you should &amp;ndash; it&amp;rsquo;s an awesome platform that lets users document species occurrences with a smartphone app, collectively generating a huge crowd-sourced dataset on what biodiversity is present when and where.</description>
     </item>
     
     <item>
@@ -100,15 +109,6 @@ In the above visualization (created as part of the DS421 NRT program) for exampl
       
       <guid>https://matthewkling.github.io/media/vortex/</guid>
       <description>As part of a group project for the DS421 NRT program here at UC Berkeley, I led our team&amp;rsquo;s construction of a little web app called Demographics of Disaster. The visualization uses a mashup of extreme weather data and US Census data to let users explore the geographic distribution of populations&#39; exposure to climatic disasters. It&amp;rsquo;s also useful for exploring relationships within each of those two categories, such as the above illustrations of relationships between income and population density.</description>
-    </item>
-    
-    <item>
-      <title>Natlas</title>
-      <link>https://matthewkling.github.io/media/natlas/</link>
-      <pubDate>Mon, 12 Jun 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://matthewkling.github.io/media/natlas/</guid>
-      <description>I finally got the excuse I needed to learn d3.js, while leading the data visualization portion of a recent team project with the National Park Service through the Berkeley DS421 program. We used iNaturalist data to create NATLAS, a little web app that lets users explore citizen science biodiversity observations made in national parks near San Francisco. If you don&amp;rsquo;t know iNaturalist, you should &amp;ndash; it&amp;rsquo;s an awesome platform that lets users document species occurrences with a smartphone app, collectively generating a huge crowd-sourced dataset on what biodiversity is present when and where.</description>
     </item>
     
     <item>

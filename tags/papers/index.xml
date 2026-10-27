@@ -26,16 +26,6 @@
     </item>
     
     <item>
-      <title>Bryophyte biogeography</title>
-      <link>https://matthewkling.github.io/media/sysbot_2026/</link>
-      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
-      
-      <guid>https://matthewkling.github.io/media/sysbot_2026/</guid>
-      <description>Overview This spatial phylogenetics project, co-led by Ixchel González-Ramírez, was a fun collaboration combining new empirical analyses with some novel methodological exploration. The paper assesses spatial patterns in the evolutionary diversity of California mosses and liverworts. It also showcases a range of recently-developed methods for making full use of continuous statistical data in spatial phylogenetic analyses.
-Highlights On the bryophyte biodiversity front, the analysis provides one of the most complete portraits of moss and liverwort diversity across California:</description>
-    </item>
-    
-    <item>
       <title>BISHOP</title>
       <link>https://matthewkling.github.io/media/bishop/</link>
       <pubDate>Sun, 11 Aug 2024 00:00:00 +0000</pubDate>
@@ -56,15 +46,6 @@ Methodological Innovation BISHOP works by:
     </item>
     
     <item>
-      <title>Mapping agroecological change</title>
-      <link>https://matthewkling.github.io/media/cropswitch/</link>
-      <pubDate>Fri, 11 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://matthewkling.github.io/media/cropswitch/</guid>
-      <description>Overview My research examines how plants respond to global environmental change, primarily focusing on biodiversity in natural ecosystems. This work extends that focus to agroecosystems, which also dynamically adapt to changing environmental and economic pressures. Our recent study published in Proceedings of the National Academy of Sciences (2024) presents a comprehensive analysis of crop switching patterns across the United States, a key mechanism by which agricultural systems adapt to climate change.</description>
-    </item>
-    
-    <item>
       <title>Genetic isolation by wind</title>
       <link>https://matthewkling.github.io/media/pnas_2021/</link>
       <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
@@ -82,6 +63,35 @@ Research Highlights Using landscape genetic data from nearly 100 tree species in
       <guid>https://matthewkling.github.io/media/ncc_2020/</guid>
       <description>Overview This research, published in Nature Climate Change (2020), investigates how global wind currents may facilitate or hinder species adaptation to climate change. For wind-dispersed and wind-pollinated species, range shifts and gene flow toward cooler locations are essential mechanisms for climate adaptation, and these processes are significantly influenced by the geography of wind currents.
 Research Approach We developed a novel wind connectivity modeling framework and combined it with global data on projected climate change to assess where wind patterns might accelerate or impede adaptive processes.</description>
+    </item>
+    
+    <item>
+      <title>Bryophyte biogeography</title>
+      <link>https://matthewkling.github.io/media/sysbot_2026/</link>
+      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://matthewkling.github.io/media/sysbot_2026/</guid>
+      <description>Overview This spatial phylogenetics project, co-led by Ixchel González-Ramírez, was a fun collaboration combining new empirical analyses with some novel methodological exploration. The paper assesses spatial patterns in the evolutionary diversity of California mosses and liverworts. It also showcases a range of recently-developed methods for making full use of continuous statistical data in spatial phylogenetic analyses.
+Highlights On the bryophyte biodiversity front, the analysis provides one of the most complete portraits of moss and liverwort diversity across California:</description>
+    </item>
+    
+    <item>
+      <title>Topoclimate refugia</title>
+      <link>https://matthewkling.github.io/media/fee_2020/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://matthewkling.github.io/media/fee_2020/</guid>
+      <description>Overview This research, published in Frontiers in Ecology and the Environment (2020), examines how topography and climate interact to shape plant distributions and their vulnerability to climate change. As a co-author on this paper led by David Ackerly, I developed the analytical approach and statistical models for testing the &amp;ldquo;hydroclimatic compensation model&amp;rdquo; (Figure 4), which shows how tree species distributions shift from south-facing to north-facing slopes as they approach the warm edge of their climatic range.</description>
+    </item>
+    
+    <item>
+      <title>Wildfire biogeography</title>
+      <link>https://matthewkling.github.io/media/geb_2020/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://matthewkling.github.io/media/geb_2020/</guid>
+      <description>Overview This research, published in Global Ecology and Biogeography (2020), uses the concept of &amp;ldquo;functional trait biogeography&amp;rdquo; to better understand how fire regimes shape the distribution of conifer species across the western United States. As a co-author on this paper headed by Jens Stevens, I led the spatial data analysis and visualization parts of the project.
+Research Approach We developed a trait-based, quantitative ranking of fire resistance (adult tree survival) in 29 North American conifer species by:</description>
     </item>
     
     <item>
@@ -106,22 +116,12 @@ Key Contributions Our paper challenges the common assumption that geographic ran
     </item>
     
     <item>
-      <title>Topoclimate refugia</title>
-      <link>https://matthewkling.github.io/media/fee_2020/</link>
-      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <title>Mapping agroecological change</title>
+      <link>https://matthewkling.github.io/media/cropswitch/</link>
+      <pubDate>Fri, 11 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://matthewkling.github.io/media/fee_2020/</guid>
-      <description>Overview This research, published in Frontiers in Ecology and the Environment (2020), examines how topography and climate interact to shape plant distributions and their vulnerability to climate change. As a co-author on this paper led by David Ackerly, I developed the analytical approach and statistical models for testing the &amp;ldquo;hydroclimatic compensation model&amp;rdquo; (Figure 4), which shows how tree species distributions shift from south-facing to north-facing slopes as they approach the warm edge of their climatic range.</description>
-    </item>
-    
-    <item>
-      <title>Wildfire biogeography</title>
-      <link>https://matthewkling.github.io/media/geb_2020/</link>
-      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://matthewkling.github.io/media/geb_2020/</guid>
-      <description>Overview This research, published in Global Ecology and Biogeography (2020), uses the concept of &amp;ldquo;functional trait biogeography&amp;rdquo; to better understand how fire regimes shape the distribution of conifer species across the western United States. As a co-author on this paper headed by Jens Stevens, I led the spatial data analysis and visualization parts of the project.
-Research Approach We developed a trait-based, quantitative ranking of fire resistance (adult tree survival) in 29 North American conifer species by:</description>
+      <guid>https://matthewkling.github.io/media/cropswitch/</guid>
+      <description>Overview My research examines how plants respond to global environmental change, primarily focusing on biodiversity in natural ecosystems. This work extends that focus to agroecosystems, which also dynamically adapt to changing environmental and economic pressures. Our recent study published in Proceedings of the National Academy of Sciences (2024) presents a comprehensive analysis of crop switching patterns across the United States, a key mechanism by which agricultural systems adapt to climate change.</description>
     </item>
     
     <item>
