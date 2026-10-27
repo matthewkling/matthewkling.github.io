@@ -8,12 +8,12 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 01 Sep 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://matthewkling.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>FOREST DEMOGRAPHIC CHANGE</title>
+      <title>Forest demographic change</title>
       <link>https://matthewkling.github.io/media/gcb_2026/</link>
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
       
       <guid>https://matthewkling.github.io/media/gcb_2026/</guid>
-      <description>&lt;p&gt;[PUBLICATION] Forest densification and pollution rival climate in driving U.S. tree demographic change&lt;/p&gt;</description>
+      <description>Overview Forests are changing on many fronts, but studies usually consider the drivers of these changes, and the vital rates they impact, one at a time. In this paper in GCB, our goal was to put the major drivers on a common footing and assess their influence on the full suite of forest demographic rates. Using two decades of Forest Inventory and Analysis data, we asked how recruitment, growth, and mortality of the 100 most common US tree species respond to six environmental variables spanning climate, pollutant deposition, and forest density.</description>
     </item>
     
     <item>
@@ -22,16 +22,16 @@
       <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
       
       <guid>https://matthewkling.github.io/media/circuitscaper/</guid>
-      <description>&lt;p&gt;[R PACKAGE] An R interface for circuit-theory landscape connectivity modeling&lt;/p&gt;</description>
+      <description>Overview circuitscaper is an R package for modeling landscape connectivity using circuit theory. The package wraps two high-performance open source Julia tools: Circuitscape, which computes connectivity between specific focal sites, and Omniscape, which maps connectivity continuously across an entire landscape. I have no affiliation with these Julia tools, but they&amp;rsquo;re powerful and widely used for ecology and conservation, and I wanted to make them accessible in R because interfacing with Julia is a barrier.</description>
     </item>
     
     <item>
-      <title>CLIMATIC NUCLEI</title>
+      <title>Climatic nuclei</title>
       <link>https://matthewkling.github.io/media/gcb_2025/</link>
       <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
       
       <guid>https://matthewkling.github.io/media/gcb_2025/</guid>
-      <description>&lt;p&gt;[PUBLICATION] Sustaining species of the future: climatic nuclei for climate change adaptation&lt;/p&gt;</description>
+      <description>Overview In this GCB paper led by Blair McLaughlin, we introduce the concept of &amp;ldquo;climatic nuclei.&amp;rdquo; The counterpart to widely-appreciated climatic refugia, climatic nuclei are the hot/dry sites currently harboring biodiversity that will expand to domintate the surrounding landscape as climate warms. In the paper, we argue that conservation and maagement of nuclei may be critical for helping maintain diversity and function as climate warms, and we illustrate the concept spatially through an analysis of potential nuclei in the Greater Yellowstone Ecosystem (see the figure below).</description>
     </item>
     
     <item>
@@ -40,16 +40,18 @@
       <pubDate>Fri, 19 Dec 2025 00:00:00 +0000</pubDate>
       
       <guid>https://matthewkling.github.io/media/analogs/</guid>
-      <description>&lt;p&gt;[R PACKAGE] Tools for fast, flexible climate analog analysis&lt;/p&gt;</description>
+      <description>Overview analogs is an R package for climate analog analysis, a set of methods widely used in climate change ecology and biogeography. The package provides fast, flexible tools for searching large reference datasets to find locations that best match query sites based on climate similarity and geographic proximity.
+Climate analog methods underpin a range of applications in climate change research, from estimating climate velocity&amp;mdash;the speed at which climate conditions shift across a landscape&amp;mdash;to predicting ecological impacts using analog-based models that leverage spatial patterns as a proxy for temporal change.</description>
     </item>
     
     <item>
-      <title>BRYOPHYTE BIOEGOGRAPHY</title>
+      <title>Bryophyte biogeography</title>
       <link>https://matthewkling.github.io/media/sysbot_2026/</link>
       <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
       
       <guid>https://matthewkling.github.io/media/sysbot_2026/</guid>
-      <description>&lt;p&gt;[PUBLICATION] Spatial phylogenetics with continuous data: an application to California bryophytes&lt;/p&gt;</description>
+      <description>Overview This spatial phylogenetics project, co-led by Ixchel González-Ramírez, was a fun collaboration combining new empirical analyses with some novel methodological exploration. The paper assesses spatial patterns in the evolutionary diversity of California mosses and liverworts. It also showcases a range of recently-developed methods for making full use of continuous statistical data in spatial phylogenetic analyses.
+Highlights On the bryophyte biodiversity front, the analysis provides one of the most complete portraits of moss and liverwort diversity across California:</description>
     </item>
     
     <item>
@@ -58,7 +60,8 @@
       <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
       
       <guid>https://matthewkling.github.io/media/nullcat/</guid>
-      <description>&lt;p&gt;[R PACKAGE] Null model algorithms for categorical and quantitative community ecology data&lt;/p&gt;</description>
+      <description>Overview nullcat is an R package that extends classic binary null models to work with categorical data and introduces a stratified randomization framework for continuous community ecology data. The package is now available on CRAN.
+Traditional methods provide a well-rounded set of algorithms for binary presence-absence data, but fall short for other data types. Count data (abundance) and continuous data (e.g. presence probability, biomass, cover) are supported only by a limited set of methods that offer less flexibility in which margins are randomized versus held fixed, while categorical data (e.</description>
     </item>
     
     <item>
@@ -67,7 +70,8 @@
       <pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
       
       <guid>https://matthewkling.github.io/media/ggcube/</guid>
-      <description>&lt;p&gt;[R PACKAGE] A ggplot2 extension for 3D visualization&lt;/p&gt;</description>
+      <description>Overview The ggcube R package lets you build 3D figures using ggplot2. While there are numerous 3D visualization libraries in R, none of them seamlessly integrates with ggplot2, which is limiting given ggplot&amp;rsquo;s elegance, flexibility, and widespread usage. ggcube aims to help fill this gap.
+The package is based around coord_3d(), a coordinate function you add to a ggplot that lets you define rotation and projection parameters for plots with x, y, and z aesthetic variables.</description>
     </item>
     
     <item>
@@ -76,7 +80,9 @@
       <pubDate>Sun, 11 Aug 2024 00:00:00 +0000</pubDate>
       
       <guid>https://matthewkling.github.io/media/bishop/</guid>
-      <description>&lt;p&gt;[PUBLICATION; R PACKAGE] Inferring microclimate from tree occurrences.&lt;/p&gt;</description>
+      <description>Overview This research, published in Ecography (2024), introduces a novel modeling approach called BISHOP (Bioclimate Inference from Species&#39; High-resolution Occurrence Patterns) that leverages species occurrence data to predict fine-scale climate variation. The approach addresses a critical gap in ecological research by providing access to high-resolution &amp;ldquo;bioclimate&amp;rdquo; data representing microclimatic conditions as experienced by organisms.
+Methodological Innovation BISHOP works by:
+ Modeling microclimate as a latent variable in a multi-level Bayesian model that pairs a climate-downscaling function with a niche function predicting species occurrences Inferring how physiographic variables (terrain, soil, vegetation) affect local climate conditions, and estimating how these effects vary geographically Producing high-resolution (10m) maps of bioclimate over large regions  Empirical Findings Using data from 216 North American tree species, we:</description>
     </item>
     
     <item>
@@ -85,7 +91,7 @@
       <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
       
       <guid>https://matthewkling.github.io/media/seeds/</guid>
-      <description>&lt;p&gt;[WEB APP] A predictive seed provenancing tool for ecological restoration.&lt;/p&gt;</description>
+      <description>Seeds of Change is a decision support tool for ecological restoration. It identifies areas in California that may be suitable for seed collection or planting, by analyzing spatial data on climate change, soil characteristics, species distributions, and adaptive neighborhoods. I developed this Shiny app as part of a partnership with folks at the National Park Service, with funding from the Berkeley Institute for Parks, People, and Biodiversity, and hosting support from the Berkeley Museums of Natural History.</description>
     </item>
     
     <item>
@@ -94,7 +100,7 @@
       <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
       
       <guid>https://matthewkling.github.io/media/deranged/</guid>
-      <description>&lt;p&gt;[R PACKAGE] Modeling software for mechanistic species range simulations.&lt;/p&gt;</description>
+      <description>Overview To understand how species&#39; geographic ranges shift in response to forces like climate change, we need to model the underlying mechanistic processes like population demography and dispersal. The R software library deranged (for &amp;ldquo;DEmographic RANGE modeling with Dispersal&amp;rdquo;) is a modeling package I developed that provides a flexible set of open source tools for efficiently simulating species range dynamics for a wide range of different applications. This software also underpins parts of my own empirical research focusing on climate impacts on forests.</description>
     </item>
     
     <item>
@@ -103,16 +109,16 @@
       <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://matthewkling.github.io/media/spatialphy/</guid>
-      <description>&lt;p&gt;[PUBLICATION; R PACKAGE] A toolkit for spatial phylogenetic analysis.&lt;/p&gt;</description>
+      <description>Overview phylospatial is an R package for spatial phylogenetic analysis, a field that focuses on accounting for evolutionary relationships among taxa when describing biodiversity patterns. The package grew out of code I developed for research on plant diversity and conservation in California, and is described in a paper in Methods in Ecology and Evolution. It provides a flexible framework for analyzing biodiversity patterns that incorporates both geographic and evolutionary dimensions.</description>
     </item>
     
     <item>
-      <title>CROP SWITCHING</title>
+      <title>Crop switching</title>
       <link>https://matthewkling.github.io/media/cropswitch/</link>
       <pubDate>Fri, 11 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>https://matthewkling.github.io/media/cropswitch/</guid>
-      <description>&lt;p&gt;[PAPER] Mapping the mechanics of agroecological change&lt;/p&gt;</description>
+      <description>Overview My research examines how plants respond to global environmental change, primarily focusing on biodiversity in natural ecosystems. This work extends that focus to agroecosystems, which also dynamically adapt to changing environmental and economic pressures. Our recent study published in Proceedings of the National Academy of Sciences (2024) presents a comprehensive analysis of crop switching patterns across the United States, a key mechanism by which agricultural systems adapt to climate change.</description>
     </item>
     
     <item>
@@ -121,7 +127,7 @@
       <pubDate>Fri, 11 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>https://matthewkling.github.io/media/windscape/</guid>
-      <description>&lt;p&gt;[R PACKAGE] An R package for modeling wind dispersal landscapes.&lt;/p&gt;</description>
+      <description>Overview I work a lot with wind data as part of my research exploring how biodiversity is shaped by the effects of global wind patterns on the dispersal of seeds, pollen, and spores between sites. windscape is an R package I developed that provides a set of tools for conducting analyses like these. It includes functions to help you download wind data, model wind connectivity times across a landscape, visualize the results, and test statistical relationships between wind and ecological data.</description>
     </item>
     
     <item>
@@ -130,7 +136,8 @@
       <pubDate>Mon, 29 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://matthewkling.github.io/media/trails/</guid>
-      <description>&lt;p&gt;[VISUALIZATION] Illustrating the geography of wind and climate change.&lt;/p&gt;</description>
+      <description>I just returned from a fantastic trip to the Species on the Move conference in South Africa, where I presented some work focused on relationships between wind patterns and biodiversity migration under climate change. I got a number of inquiries from folks about the wind and temperature gradient visualizations I showed in my talk, so thought I&amp;rsquo;d do a quick demo here of how I created those in R.
+The figure above illustrates prevailing near-surface winds by showing the paths that wind-blown particles would follow.</description>
     </item>
     
     <item>
@@ -139,7 +146,7 @@
       <pubDate>Fri, 09 Nov 2018 00:00:00 +0000</pubDate>
       
       <guid>https://matthewkling.github.io/media/phycon/</guid>
-      <description>&lt;p&gt;[WEB APP] The California Plant Phylodiversity Atlas.&lt;/p&gt;</description>
+      <description>To accompany a recent paper on conservation priorities for the California flora, I built the California Plant Phylodiversity Atlas, a web application that lets users interact with the phylogeny, geography, and local community dimensions of our biodiversity dataset. It was a fun Shiny app to put together, including use of the plotly, leaflet, and DT libraries, as well as integration with images from the Jepson eFlora. Check it out and let me know what you think!</description>
     </item>
     
     <item>
@@ -148,7 +155,7 @@
       <pubDate>Thu, 16 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>https://matthewkling.github.io/media/rayshader/</guid>
-      <description>&lt;p&gt;[VISUALIZATION] Animating shifting sunlight over complex terrain.&lt;/p&gt;</description>
+      <description>A lot of our research in the Ackerly lab is focused on understanding how climate variation shapes plant ecology, and one key driver of climate is local topography. In the northern hemisphere, higher radiation loads make south-facing slopes much warmer and drier on average&amp;mdash;but solar radiation varies based on latitude, season, and time of day, as well as the topographic slope and aspect of a given site. Partly just as an excuse to play with the new rayshader package, I thought I&amp;rsquo;d take a stab at creatting a realistic sunlight animation for Pepperwood Preserve, a site in the California coast ranges where our lab does extensive long-term forest monitoring research.</description>
     </item>
     
     <item>
@@ -157,7 +164,8 @@
       <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://matthewkling.github.io/media/pnas_2021/</guid>
-      <description>&lt;p&gt;[PUBLICATION] Global wind patterns shape genetic differentiation, asymmetric gene flow, and genetic diversity in trees&lt;/p&gt;</description>
+      <description>Overview This research, published in Proceedings of the National Academy of Sciences (2021), presents the first demonstration that global wind patterns shape large-scale genetic structures across the world&amp;rsquo;s forests. The study reveals that this relationship has multiple facets: wind speeds influence genetic differentiation, while wind directionality shapes both directional gene flow and genetic diversity.
+Research Highlights Using landscape genetic data from nearly 100 tree species integrated with decades of hourly wind data, we:</description>
     </item>
     
     <item>
@@ -166,7 +174,8 @@
       <pubDate>Tue, 21 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://matthewkling.github.io/media/ncc_2020/</guid>
-      <description>&lt;p&gt;[PUBLICATION] Global wind patterns and the vulnerability of wind-dispersed species to climate change&lt;/p&gt;</description>
+      <description>Overview This research, published in Nature Climate Change (2020), investigates how global wind currents may facilitate or hinder species adaptation to climate change. For wind-dispersed and wind-pollinated species, range shifts and gene flow toward cooler locations are essential mechanisms for climate adaptation, and these processes are significantly influenced by the geography of wind currents.
+Research Approach We developed a novel wind connectivity modeling framework and combined it with global data on projected climate change to assess where wind patterns might accelerate or impede adaptive processes.</description>
     </item>
     
     <item>
@@ -175,16 +184,19 @@
       <pubDate>Thu, 12 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>https://matthewkling.github.io/media/gcb_2020/</guid>
-      <description>&lt;p&gt;[PUBLICATION] Multiple axes of ecological vulnerability to climate change&lt;/p&gt;</description>
+      <description>Overview This research, published in Global Change Biology (2020), presents a multidimensional approach to assessing climate change vulnerability across major vegetation types in the western United States. The study emerged from a collaboration with NatureServe, where I worked prior to graduate studies, and represents the first chapter of my dissertation.
+Research Objectives The study had several interconnected goals:
+ Develop high-resolution climate vulnerability predictions for 100+ major vegetation types across the western US Compare vulnerability estimates derived from different methodological approaches: niche models, time series models, and spatial climate change models Create a conceptual framework for integrated use of these metrics to guide climate adaptation strategies Quantify the relative importance of specific climate variables in predicting vegetation patterns across different geographic regions  Key Findings Our analysis revealed substantial differences in vulnerability estimates based on methodological approach, with important implications for management decisions.</description>
     </item>
     
     <item>
-      <title>SPECIES RANGE EDGES</title>
+      <title>Species range edges</title>
       <link>https://matthewkling.github.io/media/gcb_2019/</link>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://matthewkling.github.io/media/gcb_2019/</guid>
-      <description>&lt;p&gt;[PUBLICATION] Range edges in heterogeneous landscapes: Integrating geographic scale and climate complexity into range dynamics.&lt;/p&gt;</description>
+      <description>Overview This research, published in Global Change Biology (2020), investigates how the relationships between geographic space and climate space influence species range dynamics, particularly in topographically complex landscapes. As a co-author on this paper led by Meagan Oldfather, I led the empirical portion of the study, developing the analytical framework and data analyses examining how climate heterogeneity, collinearity, and spatial scale interact to shape species distributions.
+Key Contributions Our paper challenges the common assumption that geographic range edges consistently align with climate niche limits.</description>
     </item>
     
     <item>
@@ -193,7 +205,7 @@
       <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>https://matthewkling.github.io/media/trees/</guid>
-      <description>&lt;p&gt;[VISUALIZATION] Animating phylogenies in R.&lt;/p&gt;</description>
+      <description>I had fun working on some visuals this week for my talk at the Half-Earth Day symposium on biodiversity conservation. The talk was focused on using evolutionary history to help identify conservation priorities for California plants. I used gganimate to create these two animations of the evolutionary tree of California plants. Above we see the growth of the tree over the past couple hundred million years, with color representing time, and branch length representing genetic mutations.</description>
     </item>
     
     <item>
@@ -202,34 +214,36 @@
       <pubDate>Tue, 15 May 2018 18:25:22 +0530</pubDate>
       
       <guid>https://matthewkling.github.io/media/orb_weaver/</guid>
-      <description>&lt;p&gt;[VISUALIZATION] A bit of algorithmic art.&lt;/p&gt;</description>
+      <description>Code at https://github.com/matthewkling/orb-weaver</description>
     </item>
     
     <item>
-      <title>TOPOCLIMATE REFUGIA</title>
+      <title>Topoclimate refugia</title>
       <link>https://matthewkling.github.io/media/fee_2020/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://matthewkling.github.io/media/fee_2020/</guid>
-      <description>&lt;p&gt;[PUBLICATION] Topoclimates, refugia, and biotic responses to climate change&lt;/p&gt;</description>
+      <description>Overview This research, published in Frontiers in Ecology and the Environment (2020), examines how topography and climate interact to shape plant distributions and their vulnerability to climate change. As a co-author on this paper led by David Ackerly, I developed the analytical approach and statistical models for testing the &amp;ldquo;hydroclimatic compensation model&amp;rdquo; (Figure 4), which shows how tree species distributions shift from south-facing to north-facing slopes as they approach the warm edge of their climatic range.</description>
     </item>
     
     <item>
-      <title>WILDFIRE BIOGEOGRAPHY</title>
+      <title>Wildfire biogeography</title>
       <link>https://matthewkling.github.io/media/geb_2020/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://matthewkling.github.io/media/geb_2020/</guid>
-      <description>&lt;p&gt;[PUBLICATION] Biogeography of fire regimes in western U.S. conifer forests: A trait-based approach&lt;/p&gt;</description>
+      <description>Overview This research, published in Global Ecology and Biogeography (2020), uses the concept of &amp;ldquo;functional trait biogeography&amp;rdquo; to better understand how fire regimes shape the distribution of conifer species across the western United States. As a co-author on this paper headed by Jens Stevens, I led the spatial data analysis and visualization parts of the project.
+Research Approach We developed a trait-based, quantitative ranking of fire resistance (adult tree survival) in 29 North American conifer species by:</description>
     </item>
     
     <item>
-      <title>PHENOLOGY &amp; CLIMATE</title>
+      <title>Phenology &amp; climate</title>
       <link>https://matthewkling.github.io/media/aps_2019/</link>
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://matthewkling.github.io/media/aps_2019/</guid>
-      <description>&lt;p&gt;[PUBLICATION] Temperature controls phenology in continuously flowering Protea species of subtropical Africa.&lt;/p&gt;</description>
+      <description>Overview This research, published in Applications in Plant Sciences (2019), investigates how climate influences flowering patterns in the iconic Protea genus of subtropical Africa. While most phenological research has focused on temperate plants with discrete flowering seasons, this study examined how plants with year-round flowering respond to climate variation, finding that even in these aseasonal species, temperature is a primary driver of flowering timing.
+Research Approach In this study led by Barnabas Daru, we analyzed phenological patterns for species with year-round flowering, using a database of herbarium specimens collected between 1950 and 2011.</description>
     </item>
     
     <item>
@@ -238,7 +252,10 @@
       <pubDate>Thu, 18 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>https://matthewkling.github.io/media/ptb_2018/</guid>
-      <description>&lt;p&gt;[PUBLICATION] Facets of phylodiversity: evolutionary diversification, divergence, and survival as conservation targets&lt;/p&gt;</description>
+      <description>Overview This research, published in Philosophical Transactions of the Royal Society B (2018), advances both conceptual and empirical approaches to incorporating evolutionary history into conservation prioritization, using California&amp;rsquo;s diverse and threatened flora as a case study.
+Research Objectives Our project had dual goals:
+  Empirical: Develop a rigorous spatial conservation prioritization for California&amp;rsquo;s 5,000+ plant species by:
+ Building distribution models for each species Assembling data on protection status of all land parcels in California Incorporating landscape intactness metrics Identifying optimal sites for new protected areas    Conceptual: Refine theoretical frameworks for using evolutionary information in conservation by:</description>
     </item>
     
     <item>
@@ -247,7 +264,8 @@
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>https://matthewkling.github.io/media/shapeshift/</guid>
-      <description>&lt;p&gt;[VISUALIZATION] Exploring climate seasonality across space and time.&lt;/p&gt;</description>
+      <description>We&amp;rsquo;ve all seen plenty of maps and graphs that show how temperature or precipitation varies across space, or across seasons, or across decades of climate change. In this visualization I took a stab at bringing all those pieces together in one chart. (My philosophy: no such thing as TMI.) Click here for a zoomable pdf.
+The tiles in this graphic show the seasonal climate cycles of 48 US cities, arranged in a loosely geographic array.</description>
     </item>
     
     <item>
@@ -256,16 +274,18 @@
       <pubDate>Sun, 03 Jul 2016 00:00:00 +0000</pubDate>
       
       <guid>https://matthewkling.github.io/media/colormap/</guid>
-      <description>&lt;p&gt;[R PACKAGE] Tools for taking advantage of 3D colorspace.&lt;/p&gt;</description>
+      <description>RGB, HSV, JCh&amp;hellip; colorspace is three dimensional. In data visualization color is generally treated one-dimensionally, however. The typical color ramp is a line through 3D colorspace that encodes a single numeric variable. But we can take better advantage of color&amp;rsquo;s inherent dimensionality, using it to encode two or three numeric variables at once.
+In the above visualization (created as part of the DS421 NRT program) for example, a 2D color ramp on the lefthand panel facilitates simultaneous mapping of both poverty and race.</description>
     </item>
     
     <item>
-      <title>CLIMATE ADAPTATION IN AGRICULTURE</title>
+      <title>Climate adaptation in agriculture</title>
       <link>https://matthewkling.github.io/media/ptrb_2023/</link>
       <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
       
       <guid>https://matthewkling.github.io/media/ptrb_2023/</guid>
-      <description>&lt;p&gt;[PUBLICATION] Operationalizing cultural adaptation to climate change: contemporary examples from United States agriculture&lt;/p&gt;</description>
+      <description>Overview This research, published in Philosophical Transactions of the Royal Society B (2023), examines how farms adapting to climate change through shifts in crop selection. Led by Tim Waring, the paper advances the integration of cultural evolution with climate adaptation, using two case studies from contemporary US agriculture. My role here was leading the empirical data analyses, using a novel application of biogeographic methods to agriculture.
+Research Approach Working with an interdisciplinary team, we developed an operational approach to identify cultural adaptation to climate based on established empirical criteria, and applied this framework to analyze two datasets on agricultural practices in the US:</description>
     </item>
     
     <item>
@@ -274,7 +294,7 @@
       <pubDate>Sun, 08 May 2016 00:00:00 +0000</pubDate>
       
       <guid>https://matthewkling.github.io/media/vortex/</guid>
-      <description>&lt;p&gt;[WEB APP] Which populations bear the brunt of extreme weather? An interactive visualization.&lt;/p&gt;</description>
+      <description>As part of a group project for the DS421 NRT program here at UC Berkeley, I led our team&amp;rsquo;s construction of a little web app called Demographics of Disaster. The visualization uses a mashup of extreme weather data and US Census data to let users explore the geographic distribution of populations&#39; exposure to climatic disasters. It&amp;rsquo;s also useful for exploring relationships within each of those two categories, such as the above illustrations of relationships between income and population density.</description>
     </item>
     
     <item>
@@ -283,7 +303,7 @@
       <pubDate>Mon, 12 Jun 2017 00:00:00 +0000</pubDate>
       
       <guid>https://matthewkling.github.io/media/natlas/</guid>
-      <description>&lt;p&gt;[VISUALIZATION] An atlas of citizen naturalist observations.&lt;/p&gt;</description>
+      <description>I finally got the excuse I needed to learn d3.js, while leading the data visualization portion of a recent team project with the National Park Service through the Berkeley DS421 program. We used iNaturalist data to create NATLAS, a little web app that lets users explore citizen science biodiversity observations made in national parks near San Francisco. If you don&amp;rsquo;t know iNaturalist, you should &amp;ndash; it&amp;rsquo;s an awesome platform that lets users document species occurrences with a smartphone app, collectively generating a huge crowd-sourced dataset on what biodiversity is present when and where.</description>
     </item>
     
     <item>
@@ -292,7 +312,7 @@
       <pubDate>Mon, 12 Dec 2016 00:00:00 +0000</pubDate>
       
       <guid>https://matthewkling.github.io/media/fog/</guid>
-      <description>&lt;p&gt;[POSTER] Improving predictions of fog trends across space and time.&lt;/p&gt;</description>
+      <description>A couple years ago I was building an ecological niche model for a project on fog-loving coast redwood trees, and became frustrated by the nonexistence of gridded spatial data on fogginess. So I decided to take a stab at creating my own. Here&amp;rsquo;s the poster on that analysis that I put together for this week&amp;rsquo;s American Geophysical Union fall meeting&amp;mdash;looking forward to getting feedback from some bona fide climatologists.</description>
     </item>
     
     <item>
@@ -301,7 +321,7 @@
       <pubDate>Tue, 19 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>https://matthewkling.github.io/media/analog_anim/</guid>
-      <description>&lt;p&gt;[VISUALIZATION] How will climate types migrate across space?&lt;/p&gt;</description>
+      <description>Migrating climate analogs The high dimensionality of climate change data makes it challenging to understand and communicate. I took a stab at a new approach the other day, with this little animation depicting a century of projected climate change. Each color represents the climate signature of a distinct combination of 27 biologically-relevant climate variables, which lets us see the predicted geographic movement of these climates over time.</description>
     </item>
     
     <item>
@@ -310,7 +330,7 @@
       <pubDate>Sat, 17 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://matthewkling.github.io/media/hydroclimate/</guid>
-      <description>&lt;p&gt;[WEB APP] A tool to explore seasonal water balance patterns.&lt;/p&gt;</description>
+      <description>To understand how a location&amp;rsquo;s climate is likely to shape the local ecology, we need a lot more info than just mean annual temperature and precipitation. The seasonality of these variables, and the interactions between heat and moisture, are key. I built a simple Shiny app that graphs these patterns for any location in the world &amp;ndash; this was mostly for my own use, but I&amp;rsquo;ve had a few requests to share so thought I&amp;rsquo;d post it here.</description>
     </item>
     
     <item>

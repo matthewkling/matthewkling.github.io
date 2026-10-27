@@ -13,7 +13,7 @@
       <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
       
       <guid>https://matthewkling.github.io/media/circuitscaper/</guid>
-      <description>&lt;p&gt;[R PACKAGE] An R interface for circuit-theory landscape connectivity modeling&lt;/p&gt;</description>
+      <description>Overview circuitscaper is an R package for modeling landscape connectivity using circuit theory. The package wraps two high-performance open source Julia tools: Circuitscape, which computes connectivity between specific focal sites, and Omniscape, which maps connectivity continuously across an entire landscape. I have no affiliation with these Julia tools, but they&amp;rsquo;re powerful and widely used for ecology and conservation, and I wanted to make them accessible in R because interfacing with Julia is a barrier.</description>
     </item>
     
     <item>
@@ -22,7 +22,8 @@
       <pubDate>Fri, 19 Dec 2025 00:00:00 +0000</pubDate>
       
       <guid>https://matthewkling.github.io/media/analogs/</guid>
-      <description>&lt;p&gt;[R PACKAGE] Tools for fast, flexible climate analog analysis&lt;/p&gt;</description>
+      <description>Overview analogs is an R package for climate analog analysis, a set of methods widely used in climate change ecology and biogeography. The package provides fast, flexible tools for searching large reference datasets to find locations that best match query sites based on climate similarity and geographic proximity.
+Climate analog methods underpin a range of applications in climate change research, from estimating climate velocity&amp;mdash;the speed at which climate conditions shift across a landscape&amp;mdash;to predicting ecological impacts using analog-based models that leverage spatial patterns as a proxy for temporal change.</description>
     </item>
     
     <item>
@@ -31,7 +32,8 @@
       <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
       
       <guid>https://matthewkling.github.io/media/nullcat/</guid>
-      <description>&lt;p&gt;[R PACKAGE] Null model algorithms for categorical and quantitative community ecology data&lt;/p&gt;</description>
+      <description>Overview nullcat is an R package that extends classic binary null models to work with categorical data and introduces a stratified randomization framework for continuous community ecology data. The package is now available on CRAN.
+Traditional methods provide a well-rounded set of algorithms for binary presence-absence data, but fall short for other data types. Count data (abundance) and continuous data (e.g. presence probability, biomass, cover) are supported only by a limited set of methods that offer less flexibility in which margins are randomized versus held fixed, while categorical data (e.</description>
     </item>
     
     <item>
@@ -40,7 +42,8 @@
       <pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
       
       <guid>https://matthewkling.github.io/media/ggcube/</guid>
-      <description>&lt;p&gt;[R PACKAGE] A ggplot2 extension for 3D visualization&lt;/p&gt;</description>
+      <description>Overview The ggcube R package lets you build 3D figures using ggplot2. While there are numerous 3D visualization libraries in R, none of them seamlessly integrates with ggplot2, which is limiting given ggplot&amp;rsquo;s elegance, flexibility, and widespread usage. ggcube aims to help fill this gap.
+The package is based around coord_3d(), a coordinate function you add to a ggplot that lets you define rotation and projection parameters for plots with x, y, and z aesthetic variables.</description>
     </item>
     
     <item>
@@ -49,7 +52,9 @@
       <pubDate>Sun, 11 Aug 2024 00:00:00 +0000</pubDate>
       
       <guid>https://matthewkling.github.io/media/bishop/</guid>
-      <description>&lt;p&gt;[PUBLICATION; R PACKAGE] Inferring microclimate from tree occurrences.&lt;/p&gt;</description>
+      <description>Overview This research, published in Ecography (2024), introduces a novel modeling approach called BISHOP (Bioclimate Inference from Species&#39; High-resolution Occurrence Patterns) that leverages species occurrence data to predict fine-scale climate variation. The approach addresses a critical gap in ecological research by providing access to high-resolution &amp;ldquo;bioclimate&amp;rdquo; data representing microclimatic conditions as experienced by organisms.
+Methodological Innovation BISHOP works by:
+ Modeling microclimate as a latent variable in a multi-level Bayesian model that pairs a climate-downscaling function with a niche function predicting species occurrences Inferring how physiographic variables (terrain, soil, vegetation) affect local climate conditions, and estimating how these effects vary geographically Producing high-resolution (10m) maps of bioclimate over large regions  Empirical Findings Using data from 216 North American tree species, we:</description>
     </item>
     
     <item>
@@ -58,7 +63,7 @@
       <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
       
       <guid>https://matthewkling.github.io/media/seeds/</guid>
-      <description>&lt;p&gt;[WEB APP] A predictive seed provenancing tool for ecological restoration.&lt;/p&gt;</description>
+      <description>Seeds of Change is a decision support tool for ecological restoration. It identifies areas in California that may be suitable for seed collection or planting, by analyzing spatial data on climate change, soil characteristics, species distributions, and adaptive neighborhoods. I developed this Shiny app as part of a partnership with folks at the National Park Service, with funding from the Berkeley Institute for Parks, People, and Biodiversity, and hosting support from the Berkeley Museums of Natural History.</description>
     </item>
     
     <item>
@@ -67,7 +72,7 @@
       <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
       
       <guid>https://matthewkling.github.io/media/deranged/</guid>
-      <description>&lt;p&gt;[R PACKAGE] Modeling software for mechanistic species range simulations.&lt;/p&gt;</description>
+      <description>Overview To understand how species&#39; geographic ranges shift in response to forces like climate change, we need to model the underlying mechanistic processes like population demography and dispersal. The R software library deranged (for &amp;ldquo;DEmographic RANGE modeling with Dispersal&amp;rdquo;) is a modeling package I developed that provides a flexible set of open source tools for efficiently simulating species range dynamics for a wide range of different applications. This software also underpins parts of my own empirical research focusing on climate impacts on forests.</description>
     </item>
     
     <item>
@@ -76,7 +81,7 @@
       <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://matthewkling.github.io/media/spatialphy/</guid>
-      <description>&lt;p&gt;[PUBLICATION; R PACKAGE] A toolkit for spatial phylogenetic analysis.&lt;/p&gt;</description>
+      <description>Overview phylospatial is an R package for spatial phylogenetic analysis, a field that focuses on accounting for evolutionary relationships among taxa when describing biodiversity patterns. The package grew out of code I developed for research on plant diversity and conservation in California, and is described in a paper in Methods in Ecology and Evolution. It provides a flexible framework for analyzing biodiversity patterns that incorporates both geographic and evolutionary dimensions.</description>
     </item>
     
     <item>
@@ -85,7 +90,7 @@
       <pubDate>Fri, 11 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>https://matthewkling.github.io/media/windscape/</guid>
-      <description>&lt;p&gt;[R PACKAGE] An R package for modeling wind dispersal landscapes.&lt;/p&gt;</description>
+      <description>Overview I work a lot with wind data as part of my research exploring how biodiversity is shaped by the effects of global wind patterns on the dispersal of seeds, pollen, and spores between sites. windscape is an R package I developed that provides a set of tools for conducting analyses like these. It includes functions to help you download wind data, model wind connectivity times across a landscape, visualize the results, and test statistical relationships between wind and ecological data.</description>
     </item>
     
     <item>
@@ -94,7 +99,7 @@
       <pubDate>Fri, 09 Nov 2018 00:00:00 +0000</pubDate>
       
       <guid>https://matthewkling.github.io/media/phycon/</guid>
-      <description>&lt;p&gt;[WEB APP] The California Plant Phylodiversity Atlas.&lt;/p&gt;</description>
+      <description>To accompany a recent paper on conservation priorities for the California flora, I built the California Plant Phylodiversity Atlas, a web application that lets users interact with the phylogeny, geography, and local community dimensions of our biodiversity dataset. It was a fun Shiny app to put together, including use of the plotly, leaflet, and DT libraries, as well as integration with images from the Jepson eFlora. Check it out and let me know what you think!</description>
     </item>
     
     <item>
@@ -103,7 +108,8 @@
       <pubDate>Sun, 03 Jul 2016 00:00:00 +0000</pubDate>
       
       <guid>https://matthewkling.github.io/media/colormap/</guid>
-      <description>&lt;p&gt;[R PACKAGE] Tools for taking advantage of 3D colorspace.&lt;/p&gt;</description>
+      <description>RGB, HSV, JCh&amp;hellip; colorspace is three dimensional. In data visualization color is generally treated one-dimensionally, however. The typical color ramp is a line through 3D colorspace that encodes a single numeric variable. But we can take better advantage of color&amp;rsquo;s inherent dimensionality, using it to encode two or three numeric variables at once.
+In the above visualization (created as part of the DS421 NRT program) for example, a 2D color ramp on the lefthand panel facilitates simultaneous mapping of both poverty and race.</description>
     </item>
     
     <item>
@@ -112,7 +118,7 @@
       <pubDate>Sun, 08 May 2016 00:00:00 +0000</pubDate>
       
       <guid>https://matthewkling.github.io/media/vortex/</guid>
-      <description>&lt;p&gt;[WEB APP] Which populations bear the brunt of extreme weather? An interactive visualization.&lt;/p&gt;</description>
+      <description>As part of a group project for the DS421 NRT program here at UC Berkeley, I led our team&amp;rsquo;s construction of a little web app called Demographics of Disaster. The visualization uses a mashup of extreme weather data and US Census data to let users explore the geographic distribution of populations&#39; exposure to climatic disasters. It&amp;rsquo;s also useful for exploring relationships within each of those two categories, such as the above illustrations of relationships between income and population density.</description>
     </item>
     
     <item>
@@ -121,7 +127,7 @@
       <pubDate>Mon, 12 Jun 2017 00:00:00 +0000</pubDate>
       
       <guid>https://matthewkling.github.io/media/natlas/</guid>
-      <description>&lt;p&gt;[VISUALIZATION] An atlas of citizen naturalist observations.&lt;/p&gt;</description>
+      <description>I finally got the excuse I needed to learn d3.js, while leading the data visualization portion of a recent team project with the National Park Service through the Berkeley DS421 program. We used iNaturalist data to create NATLAS, a little web app that lets users explore citizen science biodiversity observations made in national parks near San Francisco. If you don&amp;rsquo;t know iNaturalist, you should &amp;ndash; it&amp;rsquo;s an awesome platform that lets users document species occurrences with a smartphone app, collectively generating a huge crowd-sourced dataset on what biodiversity is present when and where.</description>
     </item>
     
     <item>
@@ -130,7 +136,7 @@
       <pubDate>Sat, 17 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://matthewkling.github.io/media/hydroclimate/</guid>
-      <description>&lt;p&gt;[WEB APP] A tool to explore seasonal water balance patterns.&lt;/p&gt;</description>
+      <description>To understand how a location&amp;rsquo;s climate is likely to shape the local ecology, we need a lot more info than just mean annual temperature and precipitation. The seasonality of these variables, and the interactions between heat and moisture, are key. I built a simple Shiny app that graphs these patterns for any location in the world &amp;ndash; this was mostly for my own use, but I&amp;rsquo;ve had a few requests to share so thought I&amp;rsquo;d post it here.</description>
     </item>
     
   </channel>
